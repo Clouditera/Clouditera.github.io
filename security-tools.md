@@ -14,11 +14,7 @@ description: 基于GPT/AIGC/LLM的各类安全工具
 
 
 
-### **GPT-3 Sandbox：**
 
-**简介：**GPT-3 Sandbox 是一个可用于快速实验和测试 GPT-3 的在线平台。虽然它同样不是专门为网络安全设计的，但您可以利用该平台为 GPT-3 提供网络安全相关的预设指令（Prompts），从而探索 GPT-3 在网络安全领域的潜在应用。
-
-**链接：**[https://github.com/shreyashankar/gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox)
 
 
 
