@@ -2,7 +2,7 @@
 description: 收集ChatGPT下强大的网络安全领域“提示词”
 ---
 
-# Awesome ChatGPT Security Prompts
+# Awesome Security Prompts
 
 欢迎来到“Awesome ChatGPT Security Prompts”！在这里，我们为您精心挑选了一系列关于网络安全的 ChatGPT Prompts，旨在帮助您更深入地了解各种安全主题，从基本概念到高级技巧。无论您是一名网络安全初学者，还是寻求进一步提高自己技能的专业人士，这些 Prompts 都将为您提供有价值的见解和实用的建议。
 
