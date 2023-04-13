@@ -4,6 +4,14 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 # Security Papers
 
+## 行业新闻
+
+1. 微软宣布推出网络安全产品——**Microsoft Security Copilot**\
+   Security Copilot将目前最强大语言模型GPT-4内置在产品中，并与微软拥有65万亿个网络安全威胁的安全模型库相结合使用，为企业、个人用户提供网络安全、恶意代码防护、隐私合规监控等生成式自动化AI服务\
+   [https://thehackernews.com/2023/03/microsoft-introduces-gpt-4-ai-powered.html](https://thehackernews.com/2023/03/microsoft-introduces-gpt-4-ai-powered.html)
+2. 在网络安全最佳实践中集成ChatGPT和生成式AI\
+   [https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/](https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/)
+
 ## 软件供应链安全
 
 {% hint style="info" %}
@@ -36,10 +44,4 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 1. IoC detection experiments with ChatGPT\
    [https://securelist.com/ioc-detection-experiments-with-chatgpt/108756/](https://securelist.com/ioc-detection-experiments-with-chatgpt/108756/)
 
-## 行业新闻
-
-1. 微软宣布推出网络安全产品——**Microsoft Security Copilot**\
-   Security Copilot将目前最强大语言模型GPT-4内置在产品中，并与微软拥有65万亿个网络安全威胁的安全模型库相结合使用，为企业、个人用户提供网络安全、恶意代码防护、隐私合规监控等生成式自动化AI服务\
-   [https://thehackernews.com/2023/03/microsoft-introduces-gpt-4-ai-powered.html](https://thehackernews.com/2023/03/microsoft-introduces-gpt-4-ai-powered.html)
-2. 在网络安全最佳实践中集成ChatGPT和生成式AI\
-   [https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/](https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/)
+##
