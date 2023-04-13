@@ -15,8 +15,20 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 ## 软件供应链安全
 
 {% hint style="info" %}
-利用GPT/AIGC/LLM来进行漏洞挖掘、代码静态/动态分析
+利用GPT/AIGC/LLM来进行漏洞挖掘和修复、代码质量评测
 {% endhint %}
+
+### 论文
+
+1. Detecting software vulnerabilities using Language Models [https://arxiv.org/ftp/arxiv/papers/2302/2302.11773.pdf](https://arxiv.org/ftp/arxiv/papers/2302/2302.11773.pdf)
+2. LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluation [https://arxiv.org/pdf/2303.09384.pdf](https://arxiv.org/pdf/2303.09384.pdf)
+3. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT [https://arxiv.org/pdf/2304.02014.pdf](https://arxiv.org/pdf/2304.02014.pdf)
+4. InferFix: End-to-End Program Repair with LLMs [https://arxiv.org/pdf/2303.07263.pdf](https://arxiv.org/pdf/2303.07263.pdf)
+5. Fixing Hardware Security Bugs with Large Language Models [https://arxiv.org/pdf/2302.01215.pdf](https://arxiv.org/pdf/2302.01215.pdf)
+6. Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions [https://arxiv.org/pdf/2108.09293.pdf](https://arxiv.org/pdf/2108.09293.pdf)
+7. Do Users Write More Insecure Code with AI Assistants? [https://arxiv.org/pdf/2211.03622.pdf](https://arxiv.org/pdf/2211.03622.pdf)
+
+### 博客
 
 1. 用GPT做静态代码扫描实现自动化漏洞挖掘思路分享\
    [https://mp.weixin.qq.com/s/Masyfq12cjaM4Zn6qxvGoA](https://mp.weixin.qq.com/s/Masyfq12cjaM4Zn6qxvGoA)
@@ -34,14 +46,23 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://kondukto.io/blog/kondukto-openai-chatgpt](https://kondukto.io/blog/kondukto-openai-chatgpt)
 8. 利用ChatGPT来进行代码审计\
    [https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt/](https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt/)
+9. 利用GPT-3在单个代码仓库中找到213个安全漏洞 https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411
+10. 利用GPT-4进行调试和漏洞修复 [https://www.sitepoint.com/gpt-4-for-debugging/](https://www.sitepoint.com/gpt-4-for-debugging/)
+11. 黑客可能利用ChatGPT的方式 [https://cybernews.com/security/hackers-exploit-chatgpt/](https://cybernews.com/security/hackers-exploit-chatgpt/)
+12. GPT-4 Jailbreak and Hacking via Rabbithole Attack, Prompt Injection, Content Modderation Bypass and Weaponizing AI [https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/](https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/)
 
-## 安全检测
+## 威胁检测
 
 {% hint style="info" %}
-利用GPT/AIGC/LLM来完成病毒、攻击、威胁检测
+利用GPT/AIGC/LLM来完成恶意软件、网络攻击等威胁检测
 {% endhint %}
+
+### 论文
+
+1. Static Malware Detection Using Stacked BiLSTM and GPT-2 [https://ieeexplore.ieee.org/document/9785789](https://ieeexplore.ieee.org/document/9785789)
+
+### 博客
 
 1. IoC detection experiments with ChatGPT\
    [https://securelist.com/ioc-detection-experiments-with-chatgpt/108756/](https://securelist.com/ioc-detection-experiments-with-chatgpt/108756/)
 
-##
