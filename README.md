@@ -1,10 +1,6 @@
----
-description: 塑造未来的安全领域智能革命
----
-
 # GPTSecurity
 
-简介
+![GitHub Repo stars](https://img.shields.io/github/stars/mo-xiaoxi/gptsecurity?style=social)
 
 欢迎来到 GPTSecurity，一个为未来的安全领域智能革命提供燃料的知识库！作为一个集合了生成预训练 Transformer（GPT）系列、人工智能生成内容（AIGC）以及大型语言模型（LLM）在安全领域应用的资源平台，我们致力于打造一个充满活力、前沿的学术和实践社区。
 
@@ -45,6 +41,7 @@ GPTSecurity 不仅关注当前的技术和趋势，我们更希望成为塑造�
 ## 致谢
 
 我们衷心感谢每一位参与和支持 GPTSecurity 发展的朋友。正是有了您的热情投入和无私贡献，我们才得以将 GPTSecurity 打造成一个汇聚 GPT、AIGC 和 LLM 在安全领域应用的知识库，共同推动安全领域智能革命的发展。
+
 
 
 
