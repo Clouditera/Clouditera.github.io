@@ -51,7 +51,10 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 
 **链接：**[https://marketplace.visualstudio.com/items?itemName=MilindPurswani.chatgpt-security-code-analyzer](https://marketplace.visualstudio.com/items?itemName=MilindPurswani.chatgpt-security-code-analyzer)
 
-###
+### **GPT_Vuln-analyzer**
+**简介：**
 
+这是一个利用openai验证扫描结果的工具，项目展示如何使用AI生成漏洞分析的准确结果，使用python-nmap扫描目标ip，将获取到的信息提交openai获取分析结果。该项目还具有一个CLI和一个GUI界面，它能够进行网络漏洞分析、DNS枚举和子域枚举。
 
+**链接：** [https://github.com/morpheuslord/GPT_Vuln-analyzer](https://github.com/morpheuslord/GPT_Vuln-analyzer)
 
