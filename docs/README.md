@@ -19,8 +19,6 @@ GPTSecurity 不仅关注当前的技术和趋势，我们更希望成为塑造�
 
 加入 GPTSecurity 社区，让我们共同努力，携手开创安全领域的智能未来！
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>研究论文，博客文章 </td><td></td><td><a href="../security-papers.md">security-papers.md</a></td></tr><tr><td></td><td>实用工具</td><td></td><td><a href="security-tools.md">security-tools.md</a></td></tr><tr><td></td><td>预设指令</td><td></td><td><a href="awesome-security-prompts.md">awesome-security-prompts.md</a></td></tr></tbody></table>
-
 
 
 ## 贡献指南
@@ -46,24 +44,13 @@ GPTSecurity 不仅关注当前的技术和趋势，我们更希望成为塑造�
 
 <details>
 
-<summary>提交流程</summary>
+<summary>Issue提交流程</summary>
 
-请将稿件发送至官方邮箱：[contributions@gptsecurity.com](mailto:contributions@gptsecurity.com)\
-在邮件主题注明**“GPTSecurity贡献”**和**类别**（如“论文”、“文章”、“工具”或“指令”）。 \
-在邮件正文中，需要提供作者信息（如有多位作者，请列出所有作者及其联系方式）、稿件文件（Word 或 PDF 格式）、对该稿件的介绍以及对 GPTSecurity 社区的价值。 \
-如有相关链接或拓展资源，请一并提供。&#x20;
+请点击New Issues发起投稿，在标题中注明“GPTSecurity贡献”和类别（如“论文”、“文章”、“工具”或“指令”）和稿件名称。 在评论内容中，提供作者信息（如有多位作者，请列出所有作者及其联系方式）、稿件来源地址、对该稿件的介绍以及对 GPTSecurity 社区的价值。 如有相关链接或拓展资源，请一并提供。&#x20;
 
-</details>
-
-<details>
-
-<summary>审核与反馈</summary>
-
-我们的编辑团队将对您的稿件进行审核。审核过程可能需要一段时间，请耐心等待。我们会尽快回复您，确认稿件的接收或提出修改建议。一旦稿件被接受，我们将与您联系，确认发表日期和其他相关事宜。
+Issue提交后，我们会尽快回复您，确认接收或提供稿件补充的建议。
 
 </details>
-
-
 
 ## 致谢
 
