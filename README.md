@@ -1,13 +1,11 @@
----
-description: 塑造未来的安全领域智能革命
----
-
 # GPTSecurity
  ![GitHub Repo contributors](https://img.shields.io/github/contributors/mo-xiaoxi/gptsecurity?style=social)  ![GitHub Repo stars](https://img.shields.io/github/stars/mo-xiaoxi/gptsecurity?style=social)
 
 ## 简介
 
-欢迎来到 GPTSecurity，一个为未来的安全领域智能革命提供燃料的知识库！作为一个集合了生成预训练 Transformer（GPT）系列、人工智能生成内容（AIGC）以及大型语言模型（LLM）在安全领域应用的知识库，我们致力于打造一个充满活力、前沿的学术和实践社区。
+欢迎来到 GPTSecurity！这是一个由[北京云起无垠公司](https://clouditera.com/)发起的专注于未来安全领域智能革命的知识库！
+
+作为一个集合了生成预训练 Transformer（GPT）系列、人工智能生成内容（AIGC）以及大型语言模型（LLM）在安全领域应用的知识库，我们致力于打造一个充满活力、前沿的学术和实践社区。
 
 在这里，您将找到关于GPT/AIGC/LLM最新的研究论文、博客文章、实用的工具和预设指令（Prompts），以便让从业人员和研究者更方便地查找和利用这些资源。
 
@@ -26,7 +24,7 @@ GPTSecurity 不仅关注当前的技术和趋势，我们更希望成为塑造�
 
 非常感谢您对 GPTSecurity 的关注和支持！我们热切期待您的贡献，共同打造这个专注于 GPT、AIGC 和 LLM 在安全领域应用的知识库。请参阅以下指南，以确保您的投稿在适宜范围内、更好地促进交流讨论。
 
-1. 选择适当的类别
+1. **选择适当的类别**
 
 在提交贡献之前，请确保您的内容与以下类别之一相符：
 
@@ -35,7 +33,7 @@ GPTSecurity 不仅关注当前的技术和趋势，我们更希望成为塑造�
 * 实用工具：针对 GPT、AIGC 和 LLM 在安全领域的开源工具、插件、库等资源。
 * 预设指令（Prompts）：适用于 GPT、AIGC 和 LLM 的预设指令，以便在安全领域进行更有效的训练、推理和测试。
 
-2. 保持内容的高质量
+2. **保持内容的高质量**
 
 我们非常重视贡献内容的质量。请确保您提交的内容具有以下特点：
 
@@ -43,19 +41,24 @@ GPTSecurity 不仅关注当前的技术和趋势，我们更希望成为塑造�
 * 可读性：文章和描述应该清晰易懂，逻辑性强，避免使用过于复杂的术语和缩写。
 * 原创性：请确保您提交的内容是原创的，未在其他地方发表过。如引用他人的观点或研究，请注明来源并遵循适当的引用规范。
 
-<details>
+3. **贡献提交流程**
 
-<summary>Issue提交流程</summary>
+在 GPTSecurity，我们鼓励社区成员以不同方式提交贡献，以便于适应各种技能和需求。以下是三种不同的贡献提交流程，供您选择：
 
-请点击New Issues发起投稿，在标题中注明“GPTSecurity贡献”和类别（如“论文”、“文章”、“工具”或“指令”）和稿件名称。 在评论内容中，提供作者信息（如有多位作者，请列出所有作者及其联系方式）、稿件来源地址、对该稿件的介绍以及对 GPTSecurity 社区的价值。 如有相关链接或拓展资源，请一并提供。&#x20;
+- [使用 Github Issues 提交](https://github.com/mo-xiaoxi/GPTSecurity/issues)：贡献者可以通过 GitHub New Issues 发起投稿。在标题中注明 "GPTSecurity 贡献" 和类别（如 "论文"、"文章"、"工具" 或 "指令"）及稿件名称。在评论内容中，提供作者信息（如有多位作者，请列出所有作者及其联系方式）、稿件来源地址、对该稿件的介绍以及对 GPTSecurity 社区的价值。如有相关链接或拓展资源，请一并提供。Issue 提交后，我们会尽快回复您，确认接收或提供稿件补充的建议。
+- [使用 GitHub Pull Requests (PR) 提交](https://github.com/mo-xiaoxi/GPTSecurity/issues)：贡献者可以通过Github PR发起资源合并请求，请为您的Pull Request 提供标题和描述，详细说明您所提交的更改内容。Pull Request 提交后，我们会尽快回复您，确认接受或提供额外相关的建议。
+- [使用GitBook 提交](): 我们会邀请核心贡献者加入我们的 GitBook 仓库，从后台直接维护该知识库。如果您对此感兴趣，请先通过 GitHub Issues 或 Pull Requests 参与贡献，我们会根据您的贡献情况来邀请您加入 GitBook 仓库。
 
-Issue提交后，我们会尽快回复您，确认接收或提供稿件补充的建议。
+这三种贡献提交流程旨在为 GPTSecurity 社区提供灵活性和便利性。我们期待您的参与，共同推动 GPT/AIGC/LLM 在安全领域的应用和发展！
 
-</details>
+
 
 ## 致谢
 
 我们衷心感谢每一位参与和支持 GPTSecurity 发展的朋友。正是有了您的热情投入和无私贡献，我们才得以将 GPTSecurity 打造成一个汇聚 GPT、AIGC 和 LLM 在安全领域应用的知识库，共同推动安全领域智能革命的发展。
+
+<a href="https://github.com/mo-xiaoxi/GPTSecurity/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mo-xiaoxi/GPTSecurity"/></a>
 
 
 
@@ -64,7 +67,6 @@ Issue提交后，我们会尽快回复您，确认接收或提供稿件补充的
 欢迎大家加入 GPTSecurity 微信社群！在这里，我们汇聚了众多热衷于探索 GPT、AIGC 和 LLM 在安全领域应用的专家、研究者和开发者。我们深感荣幸，能与您一同携手，共创这个充满活力和新意的社区。
 
 <figure><img src="docs/.gitbook/assets/image.png" alt="" width="350px"><figcaption></figcaption></figure>
-
 
 
 
