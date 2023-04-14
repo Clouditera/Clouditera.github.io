@@ -11,6 +11,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://thehackernews.com/2023/03/microsoft-introduces-gpt-4-ai-powered.html](https://thehackernews.com/2023/03/microsoft-introduces-gpt-4-ai-powered.html)
 2. 在网络安全最佳实践中集成ChatGPT和生成式AI\
    [https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/](https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/)
+3. 行业分析：云之后，大模型是网络安全的新机会吗？\
+   [https://mp.weixin.qq.com/s/nmeDrQX5dTRUT23-2sGI-g](https://mp.weixin.qq.com/s/nmeDrQX5dTRUT23-2sGI-g)
 
 ## 软件供应链安全
 
@@ -23,10 +25,12 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 1. Detecting software vulnerabilities using Language Models [https://arxiv.org/ftp/arxiv/papers/2302/2302.11773.pdf](https://arxiv.org/ftp/arxiv/papers/2302/2302.11773.pdf)
 2. LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluation [https://arxiv.org/pdf/2303.09384.pdf](https://arxiv.org/pdf/2303.09384.pdf)
 3. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT [https://arxiv.org/pdf/2304.02014.pdf](https://arxiv.org/pdf/2304.02014.pdf)
-4. InferFix: End-to-End Program Repair with LLMs [https://arxiv.org/pdf/2303.07263.pdf](https://arxiv.org/pdf/2303.07263.pdf)
+4. InferFix: End-to-End Program Repair with LLMs \
+   [https://arxiv.org/pdf/2303.07263.pdf](https://arxiv.org/pdf/2303.07263.pdf)
 5. Fixing Hardware Security Bugs with Large Language Models [https://arxiv.org/pdf/2302.01215.pdf](https://arxiv.org/pdf/2302.01215.pdf)
 6. Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions [https://arxiv.org/pdf/2108.09293.pdf](https://arxiv.org/pdf/2108.09293.pdf)
-7. Do Users Write More Insecure Code with AI Assistants? [https://arxiv.org/pdf/2211.03622.pdf](https://arxiv.org/pdf/2211.03622.pdf)
+7. Do Users Write More Insecure Code with AI Assistants? \
+   [https://arxiv.org/pdf/2211.03622.pdf](https://arxiv.org/pdf/2211.03622.pdf)
 
 ### 博客
 
@@ -46,10 +50,14 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://kondukto.io/blog/kondukto-openai-chatgpt](https://kondukto.io/blog/kondukto-openai-chatgpt)
 8. 利用ChatGPT来进行代码审计\
    [https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt/](https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt/)
-9. 利用GPT-3在单个代码仓库中找到213个安全漏洞 https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411
-10. 利用GPT-4进行调试和漏洞修复 [https://www.sitepoint.com/gpt-4-for-debugging/](https://www.sitepoint.com/gpt-4-for-debugging/)
-11. 黑客可能利用ChatGPT的方式 [https://cybernews.com/security/hackers-exploit-chatgpt/](https://cybernews.com/security/hackers-exploit-chatgpt/)
-12. GPT-4 Jailbreak and Hacking via Rabbithole Attack, Prompt Injection, Content Modderation Bypass and Weaponizing AI [https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/](https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/)
+9. 利用GPT-3在单个代码仓库中找到213个安全漏洞 \
+   [https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411](https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411)
+10. 利用GPT-4进行调试和漏洞修复 \
+    [https://www.sitepoint.com/gpt-4-for-debugging/](https://www.sitepoint.com/gpt-4-for-debugging/)
+11. 黑客可能利用ChatGPT的方式 \
+    [https://cybernews.com/security/hackers-exploit-chatgpt/](https://cybernews.com/security/hackers-exploit-chatgpt/)
+12. GPT-4 Jailbreak and Hacking via Rabbithole Attack, Prompt Injection, Content Modderation Bypass and Weaponizing AI \
+    [https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/](https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/)
 
 ## 威胁检测
 
