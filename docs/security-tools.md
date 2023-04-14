@@ -12,12 +12,6 @@ description: 基于GPT/AIGC/LLM的各类安全工具
 
 **链接：**[https://openai.com/blog/openai-codex](https://openai.com/blog/openai-codex)
 
-
-
-
-
-
-
 ### **BurpGPT：**
 
 **简介：**`burpgpt` 是一个开源项目，结合了 Burp Suite 和 OpenAI 的 GPT-3 模型。Burp Suite 是一款广受欢迎的网络安全工具，主要用于 Web 应用程序的渗透测试。该项目旨在利用 GPT-3 的强大生成能力，为网络安全专业人员提供更智能的安全工具。主要功能如下：
@@ -29,13 +23,9 @@ description: 基于GPT/AIGC/LLM的各类安全工具
 
 **链接：**[https://github.com/aress31/burpgpt](https://github.com/aress31/burpgpt)
 
-
-
 ### **ChatGPT Security Code Analyzer:**
 
-**简介：**
-
-一个名为 "ChatGPT Security Code Analyzer" 的 Visual Studio Code 扩展，旨在帮助开发人员在编写代码时自动识别和修复潜在的安全漏洞。通过结合 ChatGPT 大型语言模型的强大生成能力，该扩展提供了实时的安全建议，提高代码安全性并减少开发过程中的安全风险。
+**简介：**一个名为 "ChatGPT Security Code Analyzer" 的 Visual Studio Code 扩展，旨在帮助开发人员在编写代码时自动识别和修复潜在的安全漏洞。通过结合 ChatGPT 大型语言模型的强大生成能力，该扩展提供了实时的安全建议，提高代码安全性并减少开发过程中的安全风险。
 
 ChatGPT Security Code Analyzer 的主要功能如下：
 
@@ -47,13 +37,8 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 
 **链接：**[https://marketplace.visualstudio.com/items?itemName=MilindPurswani.chatgpt-security-code-analyzer](https://marketplace.visualstudio.com/items?itemName=MilindPurswani.chatgpt-security-code-analyzer)
 
+### **GPT\_Vuln-analyzer**
 
+**简介：**这是一个利用openai验证扫描结果的工具，项目展示如何使用AI生成漏洞分析的准确结果，使用python-nmap扫描目标ip，将获取到的信息提交openai获取分析结果。该项目还具有一个CLI和一个GUI界面，它能够进行网络漏洞分析、DNS枚举和子域枚举。
 
-### **GPT_Vuln-analyzer**
-
-**简介：**
-
-这是一个利用openai验证扫描结果的工具，项目展示如何使用AI生成漏洞分析的准确结果，使用python-nmap扫描目标ip，将获取到的信息提交openai获取分析结果。该项目还具有一个CLI和一个GUI界面，它能够进行网络漏洞分析、DNS枚举和子域枚举。
-
-**链接：** [https://github.com/morpheuslord/GPT_Vuln-analyzer](https://github.com/morpheuslord/GPT_Vuln-analyzer)
-
+**链接：** [https://github.com/morpheuslord/GPT\_Vuln-analyzer](https://github.com/morpheuslord/GPT\_Vuln-analyzer)
