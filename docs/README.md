@@ -62,7 +62,7 @@ Issue提交后，我们会尽快回复您，确认接收或提供稿件补充的
 
 欢迎大家加入 GPTSecurity 微信社群！在这里，我们汇聚了众多热衷于探索 GPT、AIGC 和 LLM 在安全领域应用的专家、研究者和开发者。我们深感荣幸，能与您一同携手，共创这个充满活力和新意的社区。
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt="" width="350px"><figcaption></figcaption></figure>
 
 
 
