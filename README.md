@@ -3,7 +3,7 @@
 
 ## 简介
 
-欢迎来到 GPTSecurity！这是一个由[云起无垠](https://clouditera.com/)发起的专注于未来安全领域智能革命的知识库！
+欢迎来到 GPTSecurity！这是一个专注于未来安全领域智能革命的知识库！
 
 作为一个集合了生成预训练 Transformer（GPT）系列、人工智能生成内容（AIGC）以及大型语言模型（LLM）在安全领域应用的知识库，我们致力于打造一个充满活力、前沿的学术和实践社区。在这里，您将找到关于GPT/AIGC/LLM最新的研究论文、博客文章、实用的工具和预设指令（Prompts），以便让从业人员和研究者更方便地查找和利用这些资源。
 
@@ -46,7 +46,7 @@ GPTSecurity 不仅关注当前的技术和趋势，我们更希望成为塑造�
 
 ## 致谢
 
-我们衷心感谢每一位参与和支持 GPTSecurity 发展的朋友。正是有了您的热情投入和无私贡献，我们才得以将 GPTSecurity 打造成一个汇聚 GPT、AIGC 和 LLM 在安全领域应用的知识库，共同推动安全领域智能革命的发展。
+我们感谢新一代智能模糊测试的领跑者——[云起无垠](https://clouditera.com/)发起并运营该项目, 衷心感谢每一位参与和支持 GPTSecurity 发展的朋友。正是有了您的热情投入和无私贡献，我们才得以将 GPTSecurity 打造成一个汇聚 GPT、AIGC 和 LLM 在安全领域应用的知识库，共同推动安全领域智能革命的发展。
 
 <a href="https://github.com/mo-xiaoxi/GPTSecurity/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mo-xiaoxi/GPTSecurity"/></a>
