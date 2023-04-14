@@ -71,7 +71,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 ### 论文
 
-1. Static Malware Detection Using Stacked BiLSTM and GPT-2 [https://ieeexplore.ieee.org/document/9785789](https://ieeexplore.ieee.org/document/9785789)
+1. Static Malware Detection Using Stacked BiLSTM and GPT-2 \
+   [https://ieeexplore.ieee.org/document/9785789](https://ieeexplore.ieee.org/document/9785789)
 
 ### 博客
 
