@@ -64,6 +64,10 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     [https://cybernews.com/security/hackers-exploit-chatgpt/](https://cybernews.com/security/hackers-exploit-chatgpt/)
 12. GPT-4 Jailbreak and Hacking via Rabbithole Attack, Prompt Injection, Content Modderation Bypass and Weaponizing AI \
     [https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/](https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/)
+13. 我是如何用GPT自动化生成Nuclei的POC\
+    [https://mp.weixin.qq.com/s/j7EHftzPdTf84lBzxpLb\_Q](https://mp.weixin.qq.com/s/j7EHftzPdTf84lBzxpLb\_Q)
+
+
 
 
 
