@@ -25,7 +25,9 @@ description: 基于GPT/AIGC/LLM的各类安全工具
 
 ### **ChatGPT Security Code Analyzer:**
 
-**简介：**一个名为 "ChatGPT Security Code Analyzer" 的 Visual Studio Code 扩展，旨在帮助开发人员在编写代码时自动识别和修复潜在的安全漏洞。通过结合 ChatGPT 大型语言模型的强大生成能力，该扩展提供了实时的安全建议，提高代码安全性并减少开发过程中的安全风险。
+**简介：**
+
+一个名为 "ChatGPT Security Code Analyzer" 的 Visual Studio Code 扩展，旨在帮助开发人员在编写代码时自动识别和修复潜在的安全漏洞。通过结合 ChatGPT 大型语言模型的强大生成能力，该扩展提供了实时的安全建议，提高代码安全性并减少开发过程中的安全风险。
 
 ChatGPT Security Code Analyzer 的主要功能如下：
 
@@ -39,6 +41,27 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 
 ### **GPT\_Vuln-analyzer**
 
-**简介：**这是一个利用openai验证扫描结果的工具，项目展示如何使用AI生成漏洞分析的准确结果，使用python-nmap扫描目标ip，将获取到的信息提交openai获取分析结果。该项目还具有一个CLI和一个GUI界面，它能够进行网络漏洞分析、DNS枚举和子域枚举。
+**简介：**
+
+这是一个利用openai验证扫描结果的工具，项目展示如何使用AI生成漏洞分析的准确结果，使用python-nmap扫描目标ip，将获取到的信息提交openai获取分析结果。该项目还具有一个CLI和一个GUI界面，它能够进行网络漏洞分析、DNS枚举和子域枚举。
 
 **链接：** [https://github.com/morpheuslord/GPT\_Vuln-analyzer](https://github.com/morpheuslord/GPT\_Vuln-analyzer)
+
+### Navi
+
+**简介：**一款安全方向的产品，结合了ChatGPT。目前只支持自动化 Nmap 扫描并将输出保存到您指定的文件中。
+
+**链接：**[https://github.com/SSGOrg/Navi](https://github.com/SSGOrg/Navi)
+
+### Nuclei\_GPT
+
+**简介：**这是一个通过Embedding向量Nuclei的模板文档的项目，运行prompt查询工具可以直接对接GPT-3.5编写Nuclei的Yaml文件，安全人员只需要提交相关的Request和Response以及漏洞的描述，就能生成Nuclei的Poc。
+
+**链接：**[https://github.com/sf197/nuclei\_gpt](https://github.com/sf197/nuclei\_gpt)
+
+### Cloud GPT
+
+**简介：**一款结合GPT的AWS policies漏洞扫描工具，底层原理是使用prompt+profile文件内容直接调用API的原理。
+
+**链接：**[https://github.com/ustayready/cloudgpt](https://github.com/ustayready/cloudgpt)
+
