@@ -23,15 +23,17 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 ### 论文
 
 1. Detecting software vulnerabilities using Language Models [https://arxiv.org/ftp/arxiv/papers/2302/2302.11773.pdf](https://arxiv.org/ftp/arxiv/papers/2302/2302.11773.pdf)
-2. LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluation [https://arxiv.org/pdf/2303.09384.pdf](https://arxiv.org/pdf/2303.09384.pdf)
-3. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT [https://arxiv.org/pdf/2304.02014.pdf](https://arxiv.org/pdf/2304.02014.pdf)
-4. InferFix: End-to-End Program Repair with LLMs\
+2. Examining Zero-Shot Vulnerability Repair with Large Language Models\
+   [https://arxiv.org/pdf/2112.02125.pdf](https://arxiv.org/pdf/2112.02125.pdf)
+3. LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluation [https://arxiv.org/pdf/2303.09384.pdf](https://arxiv.org/pdf/2303.09384.pdf)
+4. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT [https://arxiv.org/pdf/2304.02014.pdf](https://arxiv.org/pdf/2304.02014.pdf)
+5. InferFix: End-to-End Program Repair with LLMs\
    [https://arxiv.org/pdf/2303.07263.pdf](https://arxiv.org/pdf/2303.07263.pdf)
-5. Fixing Hardware Security Bugs with Large Language Models [https://arxiv.org/pdf/2302.01215.pdf](https://arxiv.org/pdf/2302.01215.pdf)
-6. Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions [https://arxiv.org/pdf/2108.09293.pdf](https://arxiv.org/pdf/2108.09293.pdf)
-7. Do Users Write More Insecure Code with AI Assistants? \
+6. Fixing Hardware Security Bugs with Large Language Models [https://arxiv.org/pdf/2302.01215.pdf](https://arxiv.org/pdf/2302.01215.pdf)
+7. Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions [https://arxiv.org/pdf/2108.09293.pdf](https://arxiv.org/pdf/2108.09293.pdf)
+8. Do Users Write More Insecure Code with AI Assistants? \
    [https://arxiv.org/pdf/2211.03622.pdf](https://arxiv.org/pdf/2211.03622.pdf)
-8. Teaching Large Language Models to Self-Debug\
+9. Teaching Large Language Models to Self-Debug\
    [https://arxiv.org/pdf/2304.05128.pdf](https://arxiv.org/pdf/2304.05128.pdf)
 
 
