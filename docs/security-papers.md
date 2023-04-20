@@ -22,21 +22,31 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 ### 论文
 
-1. Detecting software vulnerabilities using Language Models [https://arxiv.org/ftp/arxiv/papers/2302/2302.11773.pdf](https://arxiv.org/ftp/arxiv/papers/2302/2302.11773.pdf)
-2. LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluation [https://arxiv.org/pdf/2303.09384.pdf](https://arxiv.org/pdf/2303.09384.pdf)
-3. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT [https://arxiv.org/pdf/2304.02014.pdf](https://arxiv.org/pdf/2304.02014.pdf)
-4. InferFix: End-to-End Program Repair with LLMs\
+1. Detecting software vulnerabilities using Language Models\
+   [https://arxiv.org/ftp/arxiv/papers/2302/2302.11773.pdf](https://arxiv.org/ftp/arxiv/papers/2302/2302.11773.pdf)
+2. Evaluation of ChatGPT Model for Vulnerability Detection\
+   [https://arxiv.org/pdf/2304.07232.pdf](https://arxiv.org/pdf/2304.07232.pdf)
+3. LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluation\
+   [https://arxiv.org/pdf/2303.09384.pdf](https://arxiv.org/pdf/2303.09384.pdf)
+4. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT\
+   [https://arxiv.org/pdf/2304.02014.pdf](https://arxiv.org/pdf/2304.02014.pdf)
+5. InferFix: End-to-End Program Repair with LLMs\
    [https://arxiv.org/pdf/2303.07263.pdf](https://arxiv.org/pdf/2303.07263.pdf)
-5. Fixing Hardware Security Bugs with Large Language Models [https://arxiv.org/pdf/2302.01215.pdf](https://arxiv.org/pdf/2302.01215.pdf)
-6. Examining Zero-Shot Vulnerability Repair with Large Language Models\
+6. Fixing Hardware Security Bugs with Large Language Models\
+   [https://arxiv.org/pdf/2302.01215.pdf](https://arxiv.org/pdf/2302.01215.pdf)
+7. Examining Zero-Shot Vulnerability Repair with Large Language Models\
    [https://arxiv.org/pdf/2112.02125.pdf](https://arxiv.org/pdf/2112.02125.pdf)
-7. An Analysis of the Automatic Bug Fixing Performance of ChatGPT\
+8. An Analysis of the Automatic Bug Fixing Performance of ChatGPT\
    [https://arxiv.org/pdf/2301.08653.pdf](https://arxiv.org/pdf/2301.08653.pdf)
-8. Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions [https://arxiv.org/pdf/2108.09293.pdf](https://arxiv.org/pdf/2108.09293.pdf)
-9. Do Users Write More Insecure Code with AI Assistants? \
-   [https://arxiv.org/pdf/2211.03622.pdf](https://arxiv.org/pdf/2211.03622.pdf)
-10. Teaching Large Language Models to Self-Debug\
+9. Automatic Program Repair with OpenAI's Codex: Evaluating QuixBugs \
+   [https://arxiv.org/pdf/2111.03922.pdf](https://arxiv.org/pdf/2111.03922.pdf)
+10. Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions [https://arxiv.org/pdf/2108.09293.pdf](https://arxiv.org/pdf/2108.09293.pdf)
+11. Do Users Write More Insecure Code with AI Assistants? \
+    [https://arxiv.org/pdf/2211.03622.pdf](https://arxiv.org/pdf/2211.03622.pdf)
+12. Teaching Large Language Models to Self-Debug\
     [https://arxiv.org/pdf/2304.05128.pdf](https://arxiv.org/pdf/2304.05128.pdf)
+13. Fault-Aware Neural Code Rankers \
+    [https://arxiv.org/pdf/2206.03865.pdf](https://arxiv.org/pdf/2206.03865.pdf)
 
 
 
