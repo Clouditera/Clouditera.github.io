@@ -43,9 +43,11 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 10. Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions [https://arxiv.org/pdf/2108.09293.pdf](https://arxiv.org/pdf/2108.09293.pdf)
 11. Do Users Write More Insecure Code with AI Assistants? \
     [https://arxiv.org/pdf/2211.03622.pdf](https://arxiv.org/pdf/2211.03622.pdf)
-12. Teaching Large Language Models to Self-Debug\
+12. Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants\
+    [https://arxiv.org/pdf/2208.09727.pdf](https://arxiv.org/pdf/2208.09727.pdf)
+13. Teaching Large Language Models to Self-Debug\
     [https://arxiv.org/pdf/2304.05128.pdf](https://arxiv.org/pdf/2304.05128.pdf)
-13. Fault-Aware Neural Code Rankers \
+14. Fault-Aware Neural Code Rankers \
     [https://arxiv.org/pdf/2206.03865.pdf](https://arxiv.org/pdf/2206.03865.pdf)
 
 
