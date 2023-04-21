@@ -79,7 +79,7 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 13. GPT-4 Jailbreak and Hacking via Rabbithole Attack, Prompt Injection, Content Modderation Bypass and Weaponizing AI \
     [https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/](https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/)
 14. 我是如何用GPT自动化生成Nuclei的POC\
-    [https://mp.weixin.qq.com/s/j7EHftzPdTf84lBzxpLb\_Q](https://mp.weixin.qq.com/s/j7EHftzPdTf84lBzxpLb\_Q)
+    [https://mp.weixin.qq.com/s/Z8cTUItmbwuWbRTAU\_Y3pg](https://mp.weixin.qq.com/s/Z8cTUItmbwuWbRTAU\_Y3pg)
 
 
 
@@ -101,6 +101,22 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 1. IoC detection experiments with ChatGPT\
    [https://securelist.com/ioc-detection-experiments-with-chatgpt/108756/](https://securelist.com/ioc-detection-experiments-with-chatgpt/108756/)
 2. ChatGPT赋能的威胁分析——使用ChatGPT为每个npm, PyPI包检查安全问题，包括信息渗透、SQL注入漏洞、凭证泄露、提权、后门、恶意安装、预设指令污染等威胁\
-   [https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis](https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis)\
+   [https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis](https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis)
 
+
+
+## GPT自身安全
+
+{% hint style="info" %}
+关于GPT/AIGC/LLM等大模型技术自身的各类安全风险以及漏洞
+{% endhint %}
+
+### 论文
+
+
+
+### 博客
+
+1. 干货分享！Langchain框架Prompt Injection在野0day漏洞分析\
+   [https://mp.weixin.qq.com/s/wFJ8TPBiS74RzjeNk7lRsw](https://mp.weixin.qq.com/s/wFJ8TPBiS74RzjeNk7lRsw)
 
