@@ -67,9 +67,17 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 
 
 
-## selefra
+## Selefra
 
 **简介：**Selefra 的意思是“从基础设施中选择 \*”。它是一种开源策略即代码软件，可为多云和 SaaS 环境提供分析，包括 AWS、GCP、Azure、阿里云、Kubernetes、Github、Cloudflare 和 Slack 等 30 多种服务。通过Selefra，您可以与GPT模型进行对话，GPT模型将分析信息并提供安全、成本和架构检查的相关建议，帮助您更好地管理他们的云资源、增强安全性、降低成本和优化架构设计。
 
 **链接：**[https://github.com/selefra/selefra](https://github.com/selefra/selefra)
+
+
+
+## ChatGPTScan
+
+**简介：**一个由 ChatGPT 提供支持的白盒代码扫描开源工具
+
+**链接：**[https://github.com/YulinSec/ChatGPTScanner](https://github.com/YulinSec/ChatGPTScanner)
 
