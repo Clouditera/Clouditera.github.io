@@ -40,11 +40,13 @@ GPTSecurity不仅关注当前的技术和趋势，更希望成为塑造未来安
 * 使用 GitHub Pull Requests (PR) 提交：贡献者可以通过Github PR发起资源合并请求，请为您的Pull Request 提供标题和描述，详细说明您所提交的更改内容。Pull Request 提交后，我们会尽快回复您，确认接受或提供额外相关的建议。
 * 使用 GitBook 提交: 我们会邀请核心贡献者加入我们的 GitBook 仓库，从后台直接维护该知识库。如果您对此感兴趣，请先通过 GitHub Issues 或 Pull Requests 参与贡献，我们会根据您的贡献情况来邀请您加入 GitBook 仓库。
 
-## 致谢
+## 致谢与声明
 
 我们感谢新一代智能模糊测试的领跑者——[云起无垠](https://clouditera.com/)发起并运营该项目, 衷心感谢每一位参与和支持 GPTSecurity 发展的朋友。正是有了您的热情投入和无私贡献，我们才得以将 GPTSecurity 打造成一个汇聚 GPT、AIGC 和 LLM 在安全领域应用的知识库，共同推动安全领域智能革命的发展。
 
 [![](https://contrib.rocks/image?repo=mo-xiaoxi/GPTSecurity)](https://github.com/mo-xiaoxi/GPTSecurity/graphs/contributors)
+
+如有侵权联系删除。若用于非法目的，后果自负。
 
 ## 交流
 
