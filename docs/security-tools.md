@@ -88,3 +88,12 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 **简介：**一款基于GPT的自动化渗透测试工具。它建立在 ChatGPT 之上，以交互方式运行，以指导渗透测试人员进行整体进度和具体操作。PentestGPT能够解决简单到中等的 HackTheBox 机器和其他 CTF 挑战。与Auto-GPT 的相比，它有以下几个差异点：1. 在安全测试中使用[Auto-GPT](https://github.com/Torantulino/Auto-GPT)很好，但它并未针对与安全相关的任务进行优化。2. PentestGPT专为通过自定义会话交互进行渗透测试而设计。 3. 目前，PentestGPT不依赖于搜索引擎。
 
 **链接：**[https://github.com/GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)
+
+
+
+### Audit GPT
+
+**简介：**一款针对区块链安全审计任务进行GPT微调的智能化工具
+
+**链接：**[https://github.com/fuzzland/audit\_gpt](https://github.com/fuzzland/audit\_gpt)
+
