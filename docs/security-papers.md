@@ -13,11 +13,13 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/](https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/)
 3. 行业分析：云之后，大模型是网络安全的新机会吗？\
    [https://mp.weixin.qq.com/s/nmeDrQX5dTRUT23-2sGI-g](https://mp.weixin.qq.com/s/nmeDrQX5dTRUT23-2sGI-g)
+4. 奇安信：正在训练公司专有的类ChatGPT安全大模型 \
+   [https://mp.weixin.qq.com/s/HlIZAJiTTDdS0XZL8ZRaTw](https://mp.weixin.qq.com/s/HlIZAJiTTDdS0XZL8ZRaTw)
 
 ## 软件供应链安全
 
 {% hint style="info" %}
-利用GPT/AIGC/LLM来进行漏洞挖掘和修复、代码质量评测
+利用GPT/AIGC/LLM来进行漏洞挖掘和修复、代码质量评测、程序理解
 {% endhint %}
 
 ### 论文
@@ -50,11 +52,28 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     [https://arxiv.org/pdf/2304.09655.pdf](https://arxiv.org/pdf/2304.09655.pdf)
 14. Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants\
     [https://arxiv.org/pdf/2208.09727.pdf](https://arxiv.org/pdf/2208.09727.pdf)
-15. Teaching Large Language Models to Self-Debug\
+15. Evaluating Large Language Models Trained on Code \
+    [https://arxiv.org/pdf/2107.03374.pdf](https://arxiv.org/pdf/2107.03374.pdf)
+16. Assessing the Quality of GitHub Copilot's Code Generation \
+    [https://dl.acm.org/doi/abs/10.1145/3558489.3559072](https://dl.acm.org/doi/abs/10.1145/3558489.3559072)
+17. Is GitHub's Copilot as Bad as Humans at Introducing Vulnerabilities in Code? \
+    [https://arxiv.org/pdf/2204.04741.pdf](https://arxiv.org/pdf/2204.04741.pdf)
+18. Teaching Large Language Models to Self-Debug\
     [https://arxiv.org/pdf/2304.05128.pdf](https://arxiv.org/pdf/2304.05128.pdf)
-16. Fault-Aware Neural Code Rankers \
+19. Fault-Aware Neural Code Rankers \
     [https://arxiv.org/pdf/2206.03865.pdf](https://arxiv.org/pdf/2206.03865.pdf)
-
+20. Using Large Language Models to Enhance Programming Error Messages \
+    [https://arxiv.org/pdf/2210.11630.pdf](https://arxiv.org/pdf/2210.11630.pdf)
+21. Controlling Large Language Models to Generate Secure and Vulnerable Code \
+    引用了Asleep at the keyboard? 使用了预训练模型，对LM的输出进行pre-train以控制输出的代码是安全的还是存在漏洞的 \
+    [https://arxiv.org/pdf/2302.05319.pdf](https://arxiv.org/pdf/2302.05319.pdf)
+22. Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models \
+    针对“prompt中的微小变化可能导致漏洞”的问题，在"Asleep at the keyboard?"手动操作在基础上实现自动化发现 \
+    [https://arxiv.org/pdf/2302.04012.pdf](https://arxiv.org/pdf/2302.04012.pdf)
+23. SecurityEval Dataset: Mining Vulnerability Examples to Evaluate Machine Learning-Based Code Generation Techniques \
+    在Systematically Finding Security Vulnerabilities in Black-Box Code Generation的论文中，把这篇轮看的很重，解决模型评估的数据集的问题
+24. Pop Quiz! Can a Large Language Model Help With Reverse Engineering \
+    [https://arxiv.org/pdf/2202.01142.pdf](https://arxiv.org/pdf/2202.01142.pdf)
 
 
 ### 博客
@@ -90,8 +109,6 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 
 
-
-
 ## 威胁检测
 
 {% hint style="info" %}
@@ -107,7 +124,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 1. IoC detection experiments with ChatGPT\
    [https://securelist.com/ioc-detection-experiments-with-chatgpt/108756/](https://securelist.com/ioc-detection-experiments-with-chatgpt/108756/)
-2. ChatGPT赋能的威胁分析——使用ChatGPT为每个npm, PyPI包检查安全问题，包括信息渗透、SQL注入漏洞、凭证泄露、提权、后门、恶意安装、预设指令污染等威胁\
+2. ChatGPT赋能的威胁分析 \
+   使用ChatGPT为每个npm, PyPI包检查安全问题，包括信息渗透、SQL注入漏洞、凭证泄露、提权、后门、恶意安装、预设指令污染等威胁\
    [https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis](https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis)
 
 
@@ -115,16 +133,52 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 ## GPT自身安全
 
 {% hint style="info" %}
-关于GPT/AIGC/LLM等大模型技术自身的各类安全风险以及漏洞
+关于GPT/AIGC/LLM等大模型技术自身的各类安全风险以及漏洞、滥用与误用的可能性
 {% endhint %}
 
 ### 论文
 
-1. In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT\
+1. GPT-4 Technical Report \
+   OpenAI对模型自身安全评估和缓解 \
+   [https://arxiv.org/abs/2303.08774](https://arxiv.org/pdf/2303.08774.pdf)
+2. Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models \
+   提出一个未来的研究方向：在特定的使用情境下，保障大语言模型的安全可靠性需要发展什么类型的测试？\
+   [https://arxiv.org/pdf/2102.02503.pdf](https://arxiv.org/pdf/2102.02503.pdf)
+3. Taxonomy of Risks posed by Language Models \
+   [https://dl.acm.org/doi/10.1145/3531146.3533088](https://dl.acm.org/doi/10.1145/3531146.3533088)
+4. In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT\
    [https://arxiv.org/pdf/2304.08979.pdf](https://arxiv.org/pdf/2304.08979.pdf)
+5. Ignore Previous Prompt: Attack Techniques For Language Models \
+   ML Safety Workshop NeurIPS 2022，以及提示注入的开山之作 \
+   [https://arxiv.org/pdf/2211.09527.pdf](https://arxiv.org/pdf/2211.09527.pdf)
+6. More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models \
+   间接提示注入的开山之作，里面很多场景都已成为现实 \
+   [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
+8. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models \
+   [https://arxiv.org/pdf/2009.11462.pdf](https://arxiv.org/pdf/2009.11462.pdf)
+8. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks \
+   [https://arxiv.org/pdf/2302.05733.pdf](https://arxiv.org/pdf/2302.05733.pdf)
+9. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned \
+   [https://arxiv.org/pdf/2209.07858.pdf](https://arxiv.org/pdf/2209.07858.pdf)
+10. Can We Generate Shellcodes via Natural Language? An Empirical Study \
+   [https://link.springer.com/article/10.1007/s10515-022-00331-3](https://link.springer.com/article/10.1007/s10515-022-00331-3)
+
 
 ### 博客
 
 1. 干货分享！Langchain框架Prompt Injection在野0day漏洞分析\
    [https://mp.weixin.qq.com/s/wFJ8TPBiS74RzjeNk7lRsw](https://mp.weixin.qq.com/s/wFJ8TPBiS74RzjeNk7lRsw)
-
+2. 用ChatGPT来生成编码器与配套WebShell \
+   antsword官方出品 \
+   [https://mp.weixin.qq.com/s/I9IhkZZ3YrxblWIxWMXAWA](https://mp.weixin.qq.com/s/I9IhkZZ3YrxblWIxWMXAWA)
+3. 使用ChatGPT来生成钓鱼邮件和钓鱼网站 \
+   相比其他仅生成钓鱼邮件，这里把钓鱼网站也生成了\
+   [https://www.richardosgood.com/posts/using-openai-chat-for-phishing/](https://www.richardosgood.com/posts/using-openai-chat-for-phishing/)
+4. Chatting Our Way Into Creating a Polymorphic Malware \
+   [https://www.cyberark.com/resources/threat-research-blog/chatting-our-way-into-creating-a-polymorphic-malware](https://www.cyberark.com/resources/threat-research-blog/chatting-our-way-into-creating-a-polymorphic-malware)
+5. Hacking Humans with AI as a Service \
+   [https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Eugene%20Lim%20Glenice%20Tan%20Tan%20Kee%20Hock%20-%20Hacking%20Humans%20with%20AI%20as%20a%20Service.pdf](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Eugene%20Lim%20Glenice%20Tan%20Tan%20Kee%20Hock%20-%20Hacking%20Humans%20with%20AI%20as%20a%20Service.pdf)
+6. 内建虚拟机实现ChatGPT的越狱 \
+   [https://www.engraved.blog/building-a-virtual-machine-inside/](https://www.engraved.blog/building-a-virtual-machine-inside/)
+7. ChatGPT can boost your Threat Modeling skills \
+   [https://infosecwriteups.com/chatgpt-can-boost-your-threat-modeling-skills-ab82149d0140](https://infosecwriteups.com/chatgpt-can-boost-your-threat-modeling-skills-ab82149d0140)
