@@ -71,7 +71,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     针对“prompt中的微小变化可能导致漏洞”的问题，在"Asleep at the keyboard?"手动操作在基础上实现自动化发现 \
     [https://arxiv.org/pdf/2302.04012.pdf](https://arxiv.org/pdf/2302.04012.pdf)
 23. SecurityEval Dataset: Mining Vulnerability Examples to Evaluate Machine Learning-Based Code Generation Techniques \
-    在Systematically Finding Security Vulnerabilities in Black-Box Code Generation的论文中，把这篇轮看的很重，解决模型评估的数据集的问题
+    在Systematically Finding Security Vulnerabilities in Black-Box Code Generation的论文中，把这篇轮看的很重，解决模型评估的数据集的问题 \
+    [https://dl.acm.org/doi/abs/10.1145/3549035.3561184](https://dl.acm.org/doi/abs/10.1145/3549035.3561184)
 24. Pop Quiz! Can a Large Language Model Help With Reverse Engineering \
     [https://arxiv.org/pdf/2202.01142.pdf](https://arxiv.org/pdf/2202.01142.pdf)
 
