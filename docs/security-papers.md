@@ -13,8 +13,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/](https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/)
 3. 行业分析：云之后，大模型是网络安全的新机会吗？\
    [https://mp.weixin.qq.com/s/nmeDrQX5dTRUT23-2sGI-g](https://mp.weixin.qq.com/s/nmeDrQX5dTRUT23-2sGI-g)
-4. 奇安信：正在训练公司专有的类ChatGPT安全大模型\
-   [https://mp.weixin.qq.com/s/HlIZAJiTTDdS0XZL8ZRaTw](https://mp.weixin.qq.com/s/HlIZAJiTTDdS0XZL8ZRaTw)
+
+
 
 ## 软件供应链安全
 
