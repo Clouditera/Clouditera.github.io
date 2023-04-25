@@ -57,5 +57,9 @@ GPTSecurity不仅关注当前的技术和趋势，更希望成为塑造未来安
 
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mo-xiaoxi/GPTSecurity&type=Date)](https://star-history.com/#mo-xiaoxi/GPTSecurity&Date)
+
 
 
