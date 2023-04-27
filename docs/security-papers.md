@@ -13,12 +13,10 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/](https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/)
 3. 行业分析：云之后，大模型是网络安全的新机会吗？\
    [https://mp.weixin.qq.com/s/nmeDrQX5dTRUT23-2sGI-g](https://mp.weixin.qq.com/s/nmeDrQX5dTRUT23-2sGI-g)
-4. VirusTotal推出Code Insight，用生成式人工智能为威胁分析赋能 \
+4. VirusTotal推出Code Insight，用生成式人工智能为威胁分析赋能\
    [https://blog.virustotal.com/2023/04/introducing-virustotal-code-insight.html](https://blog.virustotal.com/2023/04/introducing-virustotal-code-insight.html)
-5. 安全大模型进入爆发期！谷歌云已接入全线安全产品｜RSAC 2023 \
+5. 安全大模型进入爆发期！谷歌云已接入全线安全产品｜RSAC 2023\
    [https://mp.weixin.qq.com/s/5Aywrqk7B6YCiLRbojNCuQ](https://mp.weixin.qq.com/s/5Aywrqk7B6YCiLRbojNCuQ)
-
-
 
 ## 软件供应链安全
 
@@ -131,7 +129,6 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 2. ChatGPT赋能的威胁分析——使用ChatGPT为每个npm, PyPI包检查安全问题，包括信息渗透、SQL注入漏洞、凭证泄露、提权、后门、恶意安装、预设指令污染等威胁\
    [https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis](https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis)
 
-
 ## GPT自身安全
 
 {% hint style="info" %}
@@ -171,19 +168,22 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 1. 干货分享！Langchain框架Prompt Injection在野0day漏洞分析\
    [https://mp.weixin.qq.com/s/wFJ8TPBiS74RzjeNk7lRsw](https://mp.weixin.qq.com/s/wFJ8TPBiS74RzjeNk7lRsw)
-2. 用ChatGPT来生成编码器与配套WebShell\
+2. 通过提示注入在 MathGPT 中实现代码执行 \
+   公开可用的 MathGPT 借助底层的GPT-3模型来回答用户生成的数学问题。最近的研究和实验表明，GPT-3 等 大模型在直接进行数学计算的任务上表现不佳，然而能够更准确地生成问题解决方案的可执行代码。 因此 MathGPT 将用户的自然语言问题转换为 Python 代码，执行计算后的代码和答案会显示给用户。某些 LLM 可能容易受到提示词注入攻击，恶意用户输入会导致模型执行意外行为\[3]\[4]。 在此事件中，攻击者探索了几种提示词覆盖途径，生成的代码最终导致攻击者获得应用程序主机系统的环境变量和应用程序的 GPT-3 API 密钥的访问权限，并执行拒绝服务攻击。 因此，攻击者可能会耗尽应用程序的 API 查询预算或关闭应用程序。\
+   [https://atlas.mitre.org/studies/AML.CS0016/](https://atlas.mitre.org/studies/AML.CS0016/)
+3. 用ChatGPT来生成编码器与配套WebShell\
    antsword官方出品\
    [https://mp.weixin.qq.com/s/I9IhkZZ3YrxblWIxWMXAWA](https://mp.weixin.qq.com/s/I9IhkZZ3YrxblWIxWMXAWA)
-3. 使用ChatGPT来生成钓鱼邮件和钓鱼网站\
+4. 使用ChatGPT来生成钓鱼邮件和钓鱼网站\
    相比其他仅生成钓鱼邮件，这里把钓鱼网站也生成了\
    [https://www.richardosgood.com/posts/using-openai-chat-for-phishing/](https://www.richardosgood.com/posts/using-openai-chat-for-phishing/)
-4. Chatting Our Way Into Creating a Polymorphic Malware\
+5. Chatting Our Way Into Creating a Polymorphic Malware\
    [https://www.cyberark.com/resources/threat-research-blog/chatting-our-way-into-creating-a-polymorphic-malware](https://www.cyberark.com/resources/threat-research-blog/chatting-our-way-into-creating-a-polymorphic-malware)
-5. Hacking Humans with AI as a Service\
+6. Hacking Humans with AI as a Service\
    [https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Eugene%20Lim%20Glenice%20Tan%20Tan%20Kee%20Hock%20-%20Hacking%20Humans%20with%20AI%20as%20a%20Service.pdf](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Eugene%20Lim%20Glenice%20Tan%20Tan%20Kee%20Hock%20-%20Hacking%20Humans%20with%20AI%20as%20a%20Service.pdf)
-6. 内建虚拟机实现ChatGPT的越狱\
+7. 内建虚拟机实现ChatGPT的越狱\
    [https://www.engraved.blog/building-a-virtual-machine-inside/](https://www.engraved.blog/building-a-virtual-machine-inside/)
-7. ChatGPT can boost your Threat Modeling skills\
+8. ChatGPT can boost your Threat Modeling skills\
    [https://infosecwriteups.com/chatgpt-can-boost-your-threat-modeling-skills-ab82149d0140](https://infosecwriteups.com/chatgpt-can-boost-your-threat-modeling-skills-ab82149d0140)
-8. LLM中的安全隐患-以VirusTotal Code Insight中的提示注入为例 \
+9. LLM中的安全隐患-以VirusTotal Code Insight中的提示注入为例\
    [https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww](https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww)
