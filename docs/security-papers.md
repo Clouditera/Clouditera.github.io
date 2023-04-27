@@ -13,6 +13,10 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/](https://www.sentinelone.com/blog/integrating-chatgpt-generative-ai-within-cybersecurity-best-practices/)
 3. 行业分析：云之后，大模型是网络安全的新机会吗？\
    [https://mp.weixin.qq.com/s/nmeDrQX5dTRUT23-2sGI-g](https://mp.weixin.qq.com/s/nmeDrQX5dTRUT23-2sGI-g)
+4. VirusTotal推出Code Insight，用生成式人工智能为威胁分析赋能 \
+   [https://blog.virustotal.com/2023/04/introducing-virustotal-code-insight.html](https://blog.virustotal.com/2023/04/introducing-virustotal-code-insight.html)
+5. 安全大模型进入爆发期！谷歌云已接入全线安全产品｜RSAC 2023 \
+   [https://mp.weixin.qq.com/s/5Aywrqk7B6YCiLRbojNCuQ](https://mp.weixin.qq.com/s/5Aywrqk7B6YCiLRbojNCuQ)
 
 
 
@@ -126,14 +130,12 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://securelist.com/ioc-detection-experiments-with-chatgpt/108756/](https://securelist.com/ioc-detection-experiments-with-chatgpt/108756/)
 2. ChatGPT赋能的威胁分析——使用ChatGPT为每个npm, PyPI包检查安全问题，包括信息渗透、SQL注入漏洞、凭证泄露、提权、后门、恶意安装、预设指令污染等威胁\
    [https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis](https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis)
-3. JS和Python项目的软件安全扫描器Socket凭借集成OpenAI
-
 
 
 ## GPT自身安全
 
 {% hint style="info" %}
-关于GPT/AIGC/LLM等大模型技术自身的各类安全风险以及漏洞、滥用与误用的可能性
+关于GPT/AIGC/LLM等大模型技术自身的各类安全风险以及漏洞，大模型技术滥用与误用的可能性
 {% endhint %}
 
 ### 论文
@@ -183,3 +185,5 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://www.engraved.blog/building-a-virtual-machine-inside/](https://www.engraved.blog/building-a-virtual-machine-inside/)
 7. ChatGPT can boost your Threat Modeling skills\
    [https://infosecwriteups.com/chatgpt-can-boost-your-threat-modeling-skills-ab82149d0140](https://infosecwriteups.com/chatgpt-can-boost-your-threat-modeling-skills-ab82149d0140)
+8. LLM中的安全隐患-以VirusTotal Code Insight中的提示注入为例 \
+   [https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww](https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww)
