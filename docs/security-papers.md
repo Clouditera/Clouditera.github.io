@@ -152,16 +152,19 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 6. Ignore Previous Prompt: Attack Techniques For Language Models\
    ML Safety Workshop NeurIPS 2022，以及提示注入的开山之作\
    [https://arxiv.org/pdf/2211.09527.pdf](https://arxiv.org/pdf/2211.09527.pdf)
-7. More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models\
+7. Boosting Big Brother: Attacking Search Engines with Encodings \
+   攻击测试了集成OpenAI GPT-4模型的必应搜索引擎 \
+   [https://arxiv.org/pdf/2304.14031.pdf](https://arxiv.org/pdf/2304.14031.pdf)
+8. More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models\
    间接提示注入的开山之作，里面很多场景都已成为现实\
    [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
-8. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models\
+9. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models\
    [https://arxiv.org/pdf/2009.11462.pdf](https://arxiv.org/pdf/2009.11462.pdf)
-9. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks\
+10. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks\
    [https://arxiv.org/pdf/2302.05733.pdf](https://arxiv.org/pdf/2302.05733.pdf)
-10. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned\
+11. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned\
     [https://arxiv.org/pdf/2209.07858.pdf](https://arxiv.org/pdf/2209.07858.pdf)
-11. Can We Generate Shellcodes via Natural Language? An Empirical Study\
+12. Can We Generate Shellcodes via Natural Language? An Empirical Study\
     [https://link.springer.com/article/10.1007/s10515-022-00331-3](https://link.springer.com/article/10.1007/s10515-022-00331-3)
 
 ### 博客
