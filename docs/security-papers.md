@@ -19,6 +19,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://mp.weixin.qq.com/s/5Aywrqk7B6YCiLRbojNCuQ](https://mp.weixin.qq.com/s/5Aywrqk7B6YCiLRbojNCuQ)
 6. Facebook季度安全报告：假冒ChatGPT的恶意软件激增 \
    [https://about.fb.com/news/2023/05/metas-q1-2023-security-reports/](https://about.fb.com/news/2023/05/metas-q1-2023-security-reports/)
+7. Tenable的报告展示了生成式人工智能正在如何改变安全研究 \
+   [https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/](https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/)
 
 ## 软件供应链安全
 
