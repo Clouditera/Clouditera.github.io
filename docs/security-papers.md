@@ -64,20 +64,22 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     [https://arxiv.org/pdf/2204.04741.pdf](https://arxiv.org/pdf/2204.04741.pdf)
 19. Teaching Large Language Models to Self-Debug\
     [https://arxiv.org/pdf/2304.05128.pdf](https://arxiv.org/pdf/2304.05128.pdf)
-20. Fault-Aware Neural Code Rankers\
+20. Evaluating the Code Quality of AI-Assisted Code Generation Tools: An Empirical Study on GitHub Copilot, Amazon CodeWhisperer, and ChatGPT \
+    [https://arxiv.org/pdf/2304.10778.pdf](https://arxiv.org/pdf/2304.10778.pdf)
+21. Fault-Aware Neural Code Rankers\
     [https://arxiv.org/pdf/2206.03865.pdf](https://arxiv.org/pdf/2206.03865.pdf)
-21. Using Large Language Models to Enhance Programming Error Messages\
+22. Using Large Language Models to Enhance Programming Error Messages\
     [https://arxiv.org/pdf/2210.11630.pdf](https://arxiv.org/pdf/2210.11630.pdf)
-22. Controlling Large Language Models to Generate Secure and Vulnerable Code\
+23. Controlling Large Language Models to Generate Secure and Vulnerable Code\
     引用了Asleep at the keyboard? 使用了预训练模型，对LM的输出进行pre-train以控制输出的代码是安全的还是存在漏洞的\
     [https://arxiv.org/pdf/2302.05319.pdf](https://arxiv.org/pdf/2302.05319.pdf)
-23. Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models\
+24. Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models\
     针对“prompt中的微小变化可能导致漏洞”的问题，在"Asleep at the keyboard?"手动操作在基础上实现自动化发现\
     [https://arxiv.org/pdf/2302.04012.pdf](https://arxiv.org/pdf/2302.04012.pdf)
-24. SecurityEval Dataset: Mining Vulnerability Examples to Evaluate Machine Learning-Based Code Generation Techniques\
+25. SecurityEval Dataset: Mining Vulnerability Examples to Evaluate Machine Learning-Based Code Generation Techniques\
     在Systematically Finding Security Vulnerabilities in Black-Box Code Generation的论文中，把这篇轮看的很重，解决模型评估的数据集的问题\
     [https://dl.acm.org/doi/abs/10.1145/3549035.3561184](https://dl.acm.org/doi/abs/10.1145/3549035.3561184)
-25. Pop Quiz! Can a Large Language Model Help With Reverse Engineering\
+26. Pop Quiz! Can a Large Language Model Help With Reverse Engineering\
     [https://arxiv.org/pdf/2202.01142.pdf](https://arxiv.org/pdf/2202.01142.pdf)
 
 ### 博客
@@ -162,9 +164,11 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://arxiv.org/pdf/2009.11462.pdf](https://arxiv.org/pdf/2009.11462.pdf)
 10. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks\
    [https://arxiv.org/pdf/2302.05733.pdf](https://arxiv.org/pdf/2302.05733.pdf)
-11. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned\
+11. Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection \
+    [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
+12. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned\
     [https://arxiv.org/pdf/2209.07858.pdf](https://arxiv.org/pdf/2209.07858.pdf)
-12. Can We Generate Shellcodes via Natural Language? An Empirical Study\
+13. Can We Generate Shellcodes via Natural Language? An Empirical Study\
     [https://link.springer.com/article/10.1007/s10515-022-00331-3](https://link.springer.com/article/10.1007/s10515-022-00331-3)
 
 ### 博客
