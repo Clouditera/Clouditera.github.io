@@ -49,7 +49,7 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 9. Examining Zero-Shot Vulnerability Repair with Large Language Models\
    [https://arxiv.org/pdf/2112.02125.pdf](https://arxiv.org/pdf/2112.02125.pdf)
 9. Practical Program Repair in the Era of Large Pre-trained Language Models\
-   [https://arxiv.org/abs/2210.14179](https://arxiv.org/abs/2210.14179)
+   [https://arxiv.org/pdf/2210.14179.pdf](https://arxiv.org/pdf/2210.14179.pdf)
 10. An Analysis of the Automatic Bug Fixing Performance of ChatGPT\
     [https://arxiv.org/pdf/2301.08653.pdf](https://arxiv.org/pdf/2301.08653.pdf)
 11. Automatic Program Repair with OpenAI's Codex: Evaluating QuixBugs\
