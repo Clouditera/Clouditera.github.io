@@ -123,6 +123,6 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 
 ### Codamosa
 
-**简介：** CodaMOSA是CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models的论文代码，实现了一款结合了OpenAI API的LLM-Fuzzer，旨在缓解传统fuzz中陷入覆盖率停滞不前的问题。
+**简介：** CodaMOSA是CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models的论文代码，实现了一款结合了OpenAI API的fuzzer，旨在缓解传统fuzz中陷入覆盖率停滞不前的问题。
 
 **链接：** [https://github.com/microsoft/codamosa](https://github.com/microsoft/codamosa)
