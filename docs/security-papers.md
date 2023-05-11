@@ -137,12 +137,15 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 ## 安全运营
 {% hint style="info" %}
-利用GPT/AIGC/LLM来辅助安全运营/SOAR
+利用GPT/AIGC/LLM来辅助安全运营/SOAR/SIEM
 {% endhint %}
 
 ### 博客
 
-1. 利用Chat GPT和D3的AI辅助事件响应 \
+1. Elastic公司发布的"与ChatGPT探索安全的未来" \
+   提出了6个构想：(1) 聊天机器人协助事件响应 (2) 威胁报告生成 (3) 自然语言检索 (4) 异常检测 (5) 安全策略问答机器人 (6) 告警排序。 \
+   [https://www.elastic.co/cn/security-labs/exploring-applications-of-chatgpt-to-improve-detection-response-and-understanding](https://www.elastic.co/cn/security-labs/exploring-applications-of-chatgpt-to-improve-detection-response-and-understanding)
+2. 利用Chat GPT和D3的AI辅助事件响应 \
    探讨将ChatGPT与Smart SOAR整合的好处；提供样例分析——使用MITRE TTPs和微软端点防御系统警报中发现的恶意软件家族以收集事件的背景信息，之后问ChatGPT，让它根据对TTP和恶意软件的了解，描述攻击者接下来可能会采取什么措施、恶意软件可能利用什么漏洞。 \
    [https://www.163.com/dy/article/I48DBHHG055633FJ.html](https://www.163.com/dy/article/I48DBHHG055633FJ.html)
 
