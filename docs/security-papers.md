@@ -87,7 +87,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     [https://dl.acm.org/doi/abs/10.1145/3549035.3561184](https://dl.acm.org/doi/abs/10.1145/3549035.3561184)
 26. Pop Quiz! Can a Large Language Model Help With Reverse Engineering\
     [https://arxiv.org/pdf/2202.01142.pdf](https://arxiv.org/pdf/2202.01142.pdf)
-26. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models\
+28. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models\
+    微软在ICSE2023上发布的论文，旨在利用LLM来缓解传统fuzz中的陷入“Coverage Plateaus”的问题\
     [https://www.carolemieux.com/codamosa_icse23.pdf](https://www.carolemieux.com/codamosa_icse23.pdf)
 
 ### 博客
