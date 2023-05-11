@@ -48,6 +48,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://arxiv.org/pdf/2302.01215.pdf](https://arxiv.org/pdf/2302.01215.pdf)
 9. Examining Zero-Shot Vulnerability Repair with Large Language Models\
    [https://arxiv.org/pdf/2112.02125.pdf](https://arxiv.org/pdf/2112.02125.pdf)
+9. Practical Program Repair in the Era of Large Pre-trained Language Models\
+   [https://arxiv.org/pdf/2210.14179.pdf](https://arxiv.org/pdf/2210.14179.pdf)
 10. An Analysis of the Automatic Bug Fixing Performance of ChatGPT\
     [https://arxiv.org/pdf/2301.08653.pdf](https://arxiv.org/pdf/2301.08653.pdf)
 11. Automatic Program Repair with OpenAI's Codex: Evaluating QuixBugs\
@@ -85,6 +87,9 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     [https://dl.acm.org/doi/abs/10.1145/3549035.3561184](https://dl.acm.org/doi/abs/10.1145/3549035.3561184)
 26. Pop Quiz! Can a Large Language Model Help With Reverse Engineering\
     [https://arxiv.org/pdf/2202.01142.pdf](https://arxiv.org/pdf/2202.01142.pdf)
+28. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models\
+    微软在ICSE2023上发布的论文，旨在利用LLM来缓解传统fuzz中的陷入“Coverage Plateaus”的问题\
+    [https://www.carolemieux.com/codamosa_icse23.pdf](https://www.carolemieux.com/codamosa_icse23.pdf)
 
 ### 博客
 
@@ -190,7 +195,7 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 9. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models\
    [https://arxiv.org/pdf/2009.11462.pdf](https://arxiv.org/pdf/2009.11462.pdf)
 10. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks\
-   [https://arxiv.org/pdf/2302.05733.pdf](https://arxiv.org/pdf/2302.05733.pdf)
+      [https://arxiv.org/pdf/2302.05733.pdf](https://arxiv.org/pdf/2302.05733.pdf)
 11. Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection \
     [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
 12. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned\
