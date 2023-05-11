@@ -135,6 +135,18 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 2. ChatGPT赋能的威胁分析——使用ChatGPT为每个npm, PyPI包检查安全问题，包括信息渗透、SQL注入漏洞、凭证泄露、提权、后门、恶意安装、预设指令污染等威胁\
    [https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis](https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis)
 
+## 安全运营
+{% hint style="info" %}
+利用GPT/AIGC/LLM来辅助安全运营/SOAR
+{% endhint %}
+
+### 博客
+
+1. 利用Chat GPT和D3的AI辅助事件响应 \
+   探讨将ChatGPT与Smart SOAR整合的好处；提供样例分析——使用MITRE TTPs和微软端点防御系统警报中发现的恶意软件家族以收集事件的背景信息，之后问ChatGPT，让它根据对TTP和恶意软件的了解，描述攻击者接下来可能会采取什么措施、恶意软件可能利用什么漏洞。 \
+   [https://www.163.com/dy/article/I48DBHHG055633FJ.html](https://www.163.com/dy/article/I48DBHHG055633FJ.html)
+
+
 ## GPT自身安全
 
 {% hint style="info" %}
