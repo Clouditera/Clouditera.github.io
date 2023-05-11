@@ -140,12 +140,20 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 利用GPT/AIGC/LLM来辅助安全运营/SOAR/SIEM
 {% endhint %}
 
+### 论文
+
+1. GPT-2C: A GPT-2 Parser for Cowrie Honeypot Logs
+   [https://arxiv.org/pdf/2109.06595.pdf](https://arxiv.org/pdf/2109.06595.pdf)
+
 ### 博客
 
 1. Elastic公司发布的"与ChatGPT探索安全的未来" \
    提出了6个构想：(1) 聊天机器人协助事件响应 (2) 威胁报告生成 (3) 自然语言检索 (4) 异常检测 (5) 安全策略问答机器人 (6) 告警排序。 \
    [https://www.elastic.co/cn/security-labs/exploring-applications-of-chatgpt-to-improve-detection-response-and-understanding](https://www.elastic.co/cn/security-labs/exploring-applications-of-chatgpt-to-improve-detection-response-and-understanding)
-2. 利用Chat GPT和D3的AI辅助事件响应 \
+2. ChatGPT在安全运营中的应用初探 \
+   结论——ChatGPT可以赋能包括事件分析与响应在内的多种安全运营过程，降低对本就不足的预置安全知识的依赖，并能促进有价值的安全知识的产生和积累，从而帮助安全运营团队更准确地做出决策、实施响应、积累经验，尤其对初级安全工程师有辅导作用。当然，现阶段以及未来一段时间，ChatGPT等高级AI驱动的聊天机器人还无法完全取代人类分析师，更多是提供辅助决策与操作支持。相信随着持续高强度的人机会话互动，再借助更大规模更专业（网络安全运营领域）的语料库训练，ChatGPT会不断强化自己的能力，不断减轻人类安全分析师的工作负担。 \
+   [https://www.secrss.com/articles/51775](https://www.secrss.com/articles/51775)
+3. 利用Chat GPT和D3的AI辅助事件响应 \
    探讨将ChatGPT与Smart SOAR整合的好处；提供样例分析——使用MITRE TTPs和微软端点防御系统警报中发现的恶意软件家族以收集事件的背景信息，之后问ChatGPT，让它根据对TTP和恶意软件的了解，描述攻击者接下来可能会采取什么措施、恶意软件可能利用什么漏洞。 \
    [https://www.163.com/dy/article/I48DBHHG055633FJ.html](https://www.163.com/dy/article/I48DBHHG055633FJ.html)
 
