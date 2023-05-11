@@ -198,3 +198,15 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://infosecwriteups.com/chatgpt-can-boost-your-threat-modeling-skills-ab82149d0140](https://infosecwriteups.com/chatgpt-can-boost-your-threat-modeling-skills-ab82149d0140)
 9. LLM中的安全隐患-以VirusTotal Code Insight中的提示注入为例\
    [https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww](https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww)
+
+## 以安全数据训练GPT
+
+{% hint style="info" %}
+收集安全数据训练或增强GPT/AIGC/LLM等大模型技术
+{% endhint %}
+
+### 博客
+
+1. ChatGPT：和黑客知识库聊天 \
+   (1) 从prompt到自训练数据原文反向索引的准确性；(2) openai提供模型的微调服务的尝试；(3) 其他可替代性模型总结；(4) 围绕markdown格式的数据集解析和分块索引的脚本示例； (5) 相似索引向量引擎推荐。 \
+   [https://mp.weixin.qq.com/s/dteH4oP24qGY-4l3xSl7Vg](https://mp.weixin.qq.com/s/dteH4oP24qGY-4l3xSl7Vg)
