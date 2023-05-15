@@ -238,3 +238,5 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 1. ChatGPT：和黑客知识库聊天 \
    (1) 从prompt到自训练数据原文反向索引的准确性；(2) openai提供模型的微调服务的尝试；(3) 其他可替代性模型总结；(4) 围绕markdown格式的数据集解析和分块索引的脚本示例； (5) 相似索引向量引擎推荐。 \
    [https://mp.weixin.qq.com/s/dteH4oP24qGY-4l3xSl7Vg](https://mp.weixin.qq.com/s/dteH4oP24qGY-4l3xSl7Vg)
+2. 如何训练自己的“安全大模型” \
+   [https://mp.weixin.qq.com/s/801sV5a7-wOh_1EN3U64-Q](https://mp.weixin.qq.com/s/801sV5a7-wOh_1EN3U64-Q)
