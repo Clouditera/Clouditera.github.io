@@ -46,9 +46,9 @@ GPTSecurity不仅关注当前的技术和趋势，更希望成为塑造未来安
 
 [![](https://contrib.rocks/image?repo=mo-xiaoxi/GPTSecurity)](https://github.com/mo-xiaoxi/GPTSecurity/graphs/contributors) 
 
-![avatar-issue1](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/18625356?v=4&h=65&w=65&fit=cover&mask=circle&maxage=7d)
-![avatar-issue4&5](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/35833862?v=4&h=65&w=65&fit=cover&mask=circle&maxage=7d)
-![avatar-external](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/51046996?v=4&h=65&w=65&fit=cover&mask=circle&maxage=7d)
+![ZERO-A-ONE](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/18625356?v=4&h=65&w=65&fit=cover&mask=circle&maxage=7d)
+![corp0ra1](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/35833862?v=4&h=65&w=65&fit=cover&mask=circle&maxage=7d)
+![flamelu](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/51046996?v=4&h=65&w=65&fit=cover&mask=circle&maxage=7d)
 
 如有侵权联系删除。若用于非法目的，后果自负。
 
