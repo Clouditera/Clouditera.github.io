@@ -229,7 +229,10 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://www.engraved.blog/building-a-virtual-machine-inside/](https://www.engraved.blog/building-a-virtual-machine-inside/)
 8. ChatGPT can boost your Threat Modeling skills\
    [https://infosecwriteups.com/chatgpt-can-boost-your-threat-modeling-skills-ab82149d0140](https://infosecwriteups.com/chatgpt-can-boost-your-threat-modeling-skills-ab82149d0140)
-9. LLM中的安全隐患-以VirusTotal Code Insight中的提示注入为例\
+9. Using GPT-Eliezer against ChatGPT Jailbreaking \
+   检测对抗性提示词 \
+   [https://www.alignmentforum.org/posts/pNcFYZnPdXyL2RfgA/using-gpt-eliezer-against-chatgpt-jailbreaking](https://www.alignmentforum.org/posts/pNcFYZnPdXyL2RfgA/using-gpt-eliezer-against-chatgpt-jailbreaking)
+10. LLM中的安全隐患-以VirusTotal Code Insight中的提示注入为例\
    [https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww](https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww)
 
 ## 以安全数据训练GPT
