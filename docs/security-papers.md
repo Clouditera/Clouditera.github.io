@@ -147,7 +147,7 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 ### 论文
 
-1. GPT-2C: A GPT-2 Parser for Cowrie Honeypot Logs
+1. GPT-2C: A GPT-2 Parser for Cowrie Honeypot Logs \
    [https://arxiv.org/pdf/2109.06595.pdf](https://arxiv.org/pdf/2109.06595.pdf)
 
 ### 博客
@@ -198,9 +198,11 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
       [https://arxiv.org/pdf/2302.05733.pdf](https://arxiv.org/pdf/2302.05733.pdf)
 11. Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection \
     [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
-12. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned\
+12. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned \
     [https://arxiv.org/pdf/2209.07858.pdf](https://arxiv.org/pdf/2209.07858.pdf)
-13. Can We Generate Shellcodes via Natural Language? An Empirical Study\
+13. Beyond the Safeguards: Exploring the Security Risks of ChatGPT \
+    [https://arxiv.org/pdf/2305.08005.pdf](https://arxiv.org/pdf/2305.08005.pdf)
+14. Can We Generate Shellcodes via Natural Language? An Empirical Study\
     [https://link.springer.com/article/10.1007/s10515-022-00331-3](https://link.springer.com/article/10.1007/s10515-022-00331-3)
 
 ### 博客
@@ -232,6 +234,11 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 {% hint style="info" %}
 收集安全数据训练或增强GPT/AIGC/LLM等大模型技术
 {% endhint %}
+
+### 论文
+
+1. Web Content Filtering through knowledge distillation of Large Language Models \
+   [https://arxiv.org/pdf/2305.05027.pdf](https://arxiv.org/pdf/2305.05027.pdf)
 
 ### 博客
 
