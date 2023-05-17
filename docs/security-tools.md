@@ -96,6 +96,12 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 **链接：** [https://github.com/YulinSec/ChatGPTScanner](https://github.com/YulinSec/ChatGPTScanner)
 
 
+### WPeChatGPT
+
+**简介：** 基于GPT-3.5-Turbo模型、提供二进制文件自动化分析的IDA插件
+
+**链接：** [https://github.com/YulinSec/ChatGPTScanner](https://github.com/YulinSec/ChatGPTScanner)
+
 
 ### PentestGPT
 
