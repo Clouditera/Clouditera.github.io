@@ -186,30 +186,32 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://arxiv.org/pdf/2102.02503.pdf](https://arxiv.org/pdf/2102.02503.pdf)
 3. Taxonomy of Risks posed by Language Models\
    [https://dl.acm.org/doi/10.1145/3531146.3533088](https://dl.acm.org/doi/10.1145/3531146.3533088)
-4. The (ab)use of Open Source Code to Train Large Language Models\
+4. A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation \
+   [https://arxiv.org/pdf/2305.11391.pdf](https://arxiv.org/pdf/2305.11391.pdf)
+5. The (ab)use of Open Source Code to Train Large Language Models\
    [https://arxiv.org/pdf/2302.13681.pdf](https://arxiv.org/pdf/2302.13681.pdf)
-5. In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT\
+6. In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT\
    [https://arxiv.org/pdf/2304.08979.pdf](https://arxiv.org/pdf/2304.08979.pdf)
-6. Ignore Previous Prompt: Attack Techniques For Language Models\
+7. Ignore Previous Prompt: Attack Techniques For Language Models\
    ML Safety Workshop NeurIPS 2022，以及提示注入的开山之作\
    [https://arxiv.org/pdf/2211.09527.pdf](https://arxiv.org/pdf/2211.09527.pdf)
-7. Boosting Big Brother: Attacking Search Engines with Encodings \
+8. Boosting Big Brother: Attacking Search Engines with Encodings \
    攻击测试了集成OpenAI GPT-4模型的必应搜索引擎 \
    [https://arxiv.org/pdf/2304.14031.pdf](https://arxiv.org/pdf/2304.14031.pdf)
-8. More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models\
+9. More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models\
    间接提示注入的开山之作，里面很多场景都已成为现实\
    [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
-9. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models\
+10. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models\
    [https://arxiv.org/pdf/2009.11462.pdf](https://arxiv.org/pdf/2009.11462.pdf)
-10. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks\
+11. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks\
       [https://arxiv.org/pdf/2302.05733.pdf](https://arxiv.org/pdf/2302.05733.pdf)
-11. Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection \
+12. Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection \
     [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
-12. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned \
+13. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned \
     [https://arxiv.org/pdf/2209.07858.pdf](https://arxiv.org/pdf/2209.07858.pdf)
-13. Beyond the Safeguards: Exploring the Security Risks of ChatGPT \
+14. Beyond the Safeguards: Exploring the Security Risks of ChatGPT \
     [https://arxiv.org/pdf/2305.08005.pdf](https://arxiv.org/pdf/2305.08005.pdf)
-14. Can We Generate Shellcodes via Natural Language? An Empirical Study\
+15. Can We Generate Shellcodes via Natural Language? An Empirical Study\
     [https://link.springer.com/article/10.1007/s10515-022-00331-3](https://link.springer.com/article/10.1007/s10515-022-00331-3)
 
 ### 博客
