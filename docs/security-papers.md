@@ -137,6 +137,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 1. Static Malware Detection Using Stacked BiLSTM and GPT-2\
    [https://ieeexplore.ieee.org/document/9785789](https://ieeexplore.ieee.org/document/9785789)
+2. FlowTransformer: A Transformer Framework for Flow-based Network Intrusion Detection Systems \
+   [https://arxiv.org/pdf/2304.14746.pdf](https://arxiv.org/pdf/2304.14746.pdf)
 
 ### 博客
 
