@@ -216,29 +216,31 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 ### 博客
 
-1. 干货分享！Langchain框架Prompt Injection在野0day漏洞分析\
+1. OWASP发布了Top 10 for Large Language Model Applications项目，旨在教育开发人员、设计师、架构师、经理和组织了解部署和管理大语言模型LLM时的潜在安全风险，该项目提供了一个常见于LLM应用中的十个最关键漏洞的列表。 \
+   [https://owasp.org/www-project-top-10-for-large-language-model-applications/](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+2. 干货分享！Langchain框架Prompt Injection在野0day漏洞分析\
    [https://mp.weixin.qq.com/s/wFJ8TPBiS74RzjeNk7lRsw](https://mp.weixin.qq.com/s/wFJ8TPBiS74RzjeNk7lRsw)
-2. 通过提示注入在 MathGPT 中实现代码执行 \
+3. 通过提示注入在 MathGPT 中实现代码执行 \
    公开可用的 MathGPT 借助底层的GPT-3模型来回答用户生成的数学问题。最近的研究和实验表明，GPT-3 等 大模型在直接进行数学计算的任务上表现不佳，然而能够更准确地生成问题解决方案的可执行代码。 因此 MathGPT 将用户的自然语言问题转换为 Python 代码，执行计算后的代码和答案会显示给用户。某些 LLM 可能容易受到提示词注入攻击，恶意用户输入会导致模型执行意外行为\[3]\[4]。 在此事件中，攻击者探索了几种提示词覆盖途径，生成的代码最终导致攻击者获得应用程序主机系统的环境变量和应用程序的 GPT-3 API 密钥的访问权限，并执行拒绝服务攻击。 因此，攻击者可能会耗尽应用程序的 API 查询预算或关闭应用程序。\
    [https://atlas.mitre.org/studies/AML.CS0016/](https://atlas.mitre.org/studies/AML.CS0016/)
-3. 用ChatGPT来生成编码器与配套WebShell\
+4. 用ChatGPT来生成编码器与配套WebShell\
    antsword官方出品\
    [https://mp.weixin.qq.com/s/I9IhkZZ3YrxblWIxWMXAWA](https://mp.weixin.qq.com/s/I9IhkZZ3YrxblWIxWMXAWA)
-4. 使用ChatGPT来生成钓鱼邮件和钓鱼网站\
+5. 使用ChatGPT来生成钓鱼邮件和钓鱼网站\
    相比其他仅生成钓鱼邮件，这里把钓鱼网站也生成了\
    [https://www.richardosgood.com/posts/using-openai-chat-for-phishing/](https://www.richardosgood.com/posts/using-openai-chat-for-phishing/)
-5. Chatting Our Way Into Creating a Polymorphic Malware\
+6. Chatting Our Way Into Creating a Polymorphic Malware\
    [https://www.cyberark.com/resources/threat-research-blog/chatting-our-way-into-creating-a-polymorphic-malware](https://www.cyberark.com/resources/threat-research-blog/chatting-our-way-into-creating-a-polymorphic-malware)
-6. Hacking Humans with AI as a Service\
+7. Hacking Humans with AI as a Service\
    [https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Eugene%20Lim%20Glenice%20Tan%20Tan%20Kee%20Hock%20-%20Hacking%20Humans%20with%20AI%20as%20a%20Service.pdf](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Eugene%20Lim%20Glenice%20Tan%20Tan%20Kee%20Hock%20-%20Hacking%20Humans%20with%20AI%20as%20a%20Service.pdf)
-7. 内建虚拟机实现ChatGPT的越狱\
+8. 内建虚拟机实现ChatGPT的越狱\
    [https://www.engraved.blog/building-a-virtual-machine-inside/](https://www.engraved.blog/building-a-virtual-machine-inside/)
-8. ChatGPT can boost your Threat Modeling skills\
+9. ChatGPT can boost your Threat Modeling skills\
    [https://infosecwriteups.com/chatgpt-can-boost-your-threat-modeling-skills-ab82149d0140](https://infosecwriteups.com/chatgpt-can-boost-your-threat-modeling-skills-ab82149d0140)
-9. Using GPT-Eliezer against ChatGPT Jailbreaking \
+10. Using GPT-Eliezer against ChatGPT Jailbreaking \
    检测对抗性提示词 \
    [https://www.alignmentforum.org/posts/pNcFYZnPdXyL2RfgA/using-gpt-eliezer-against-chatgpt-jailbreaking](https://www.alignmentforum.org/posts/pNcFYZnPdXyL2RfgA/using-gpt-eliezer-against-chatgpt-jailbreaking)
-10. LLM中的安全隐患-以VirusTotal Code Insight中的提示注入为例\
+11. LLM中的安全隐患-以VirusTotal Code Insight中的提示注入为例\
    [https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww](https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww)
 
 ## 以安全数据训练GPT
