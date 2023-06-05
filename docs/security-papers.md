@@ -126,6 +126,9 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     [https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/](https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/)
 14. 我是如何用GPT自动化生成Nuclei的POC\
     [https://mp.weixin.qq.com/s/Z8cTUItmbwuWbRTAU\_Y3pg](https://mp.weixin.qq.com/s/Z8cTUItmbwuWbRTAU\_Y3pg)
+15. ChatGPT 生成代码的安全漏洞 \
+    [https://www.trendmicro.com/ja_jp/devops/23/e/chatgpt-security-vulnerabilities.html](https://www.trendmicro.com/ja_jp/devops/23/e/chatgpt-security-vulnerabilities.html)
+
 
 ## 威胁检测
 
@@ -186,32 +189,34 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://arxiv.org/pdf/2102.02503.pdf](https://arxiv.org/pdf/2102.02503.pdf)
 3. Taxonomy of Risks posed by Language Models\
    [https://dl.acm.org/doi/10.1145/3531146.3533088](https://dl.acm.org/doi/10.1145/3531146.3533088)
-4. A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation \
+4. ChatGPT Security Risks: A Guide for Cyber Security Professionals \
+   [https://www.cybertalk.org/wp-content/uploads/2023/03/ChatGPT_eBook_CP_CT_2023.pdf](https://www.cybertalk.org/wp-content/uploads/2023/03/ChatGPT_eBook_CP_CT_2023.pdf)
+5. A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation \
    [https://arxiv.org/pdf/2305.11391.pdf](https://arxiv.org/pdf/2305.11391.pdf)
-5. The (ab)use of Open Source Code to Train Large Language Models\
+6. The (ab)use of Open Source Code to Train Large Language Models\
    [https://arxiv.org/pdf/2302.13681.pdf](https://arxiv.org/pdf/2302.13681.pdf)
-6. In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT\
+7. In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT\
    [https://arxiv.org/pdf/2304.08979.pdf](https://arxiv.org/pdf/2304.08979.pdf)
-7. Ignore Previous Prompt: Attack Techniques For Language Models\
+8. Ignore Previous Prompt: Attack Techniques For Language Models\
    ML Safety Workshop NeurIPS 2022，以及提示注入的开山之作\
    [https://arxiv.org/pdf/2211.09527.pdf](https://arxiv.org/pdf/2211.09527.pdf)
-8. Boosting Big Brother: Attacking Search Engines with Encodings \
+9. Boosting Big Brother: Attacking Search Engines with Encodings \
    攻击测试了集成OpenAI GPT-4模型的必应搜索引擎 \
    [https://arxiv.org/pdf/2304.14031.pdf](https://arxiv.org/pdf/2304.14031.pdf)
-9. More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models\
+10. More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models\
    间接提示注入的开山之作，里面很多场景都已成为现实\
    [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
-10. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models\
+11. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models\
    [https://arxiv.org/pdf/2009.11462.pdf](https://arxiv.org/pdf/2009.11462.pdf)
-11. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks\
+12. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks\
       [https://arxiv.org/pdf/2302.05733.pdf](https://arxiv.org/pdf/2302.05733.pdf)
-12. Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection \
+13. Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection \
     [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
-13. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned \
+14. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned \
     [https://arxiv.org/pdf/2209.07858.pdf](https://arxiv.org/pdf/2209.07858.pdf)
-14. Beyond the Safeguards: Exploring the Security Risks of ChatGPT \
+15. Beyond the Safeguards: Exploring the Security Risks of ChatGPT \
     [https://arxiv.org/pdf/2305.08005.pdf](https://arxiv.org/pdf/2305.08005.pdf)
-15. Can We Generate Shellcodes via Natural Language? An Empirical Study\
+16. Can We Generate Shellcodes via Natural Language? An Empirical Study\
     [https://link.springer.com/article/10.1007/s10515-022-00331-3](https://link.springer.com/article/10.1007/s10515-022-00331-3)
 
 ### 博客
@@ -242,6 +247,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://www.alignmentforum.org/posts/pNcFYZnPdXyL2RfgA/using-gpt-eliezer-against-chatgpt-jailbreaking](https://www.alignmentforum.org/posts/pNcFYZnPdXyL2RfgA/using-gpt-eliezer-against-chatgpt-jailbreaking)
 11. LLM中的安全隐患-以VirusTotal Code Insight中的提示注入为例\
    [https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww](https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww)
+12. 安全测试中的 ChatGPT AI：机遇与挑战 \
+   [https://www.cyfirma.com/outofband/chatgpt-ai-in-security-testing-opportunities-and-challenges/](https://www.cyfirma.com/outofband/chatgpt-ai-in-security-testing-opportunities-and-challenges/)
 
 ## 以安全数据训练GPT
 
