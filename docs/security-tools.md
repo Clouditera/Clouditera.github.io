@@ -60,7 +60,7 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 
 ### Nuclei\_GPT
 
-**简介：**这是一个通过Embedding向量Nuclei的模板文档的项目，运行prompt查询工具可以直接对接GPT-3.5编写Nuclei的Yaml文件，安全人员只需要提交相关的Request和Response以及漏洞的描述，就能生成Nuclei的Poc。
+**简介：** 这是一个通过Embedding向量Nuclei的模板文档的项目，运行prompt查询工具可以直接对接GPT-3.5编写Nuclei的Yaml文件，安全人员只需要提交相关的Request和Response以及漏洞的描述，就能生成Nuclei的Poc。
 
 **链接：** [https://github.com/sf197/nuclei\_gpt](https://github.com/sf197/nuclei\_gpt)
 
@@ -87,6 +87,16 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 ![](https://github.com/mo-xiaoxi/GPTSecurity/blob/main/docs/.gitbook/assets/falco-gpt_example.jpg)
 
 **链接：** [https://github.com/Dentrax/falco-gpt](https://github.com/Dentrax/falco-gpt)
+
+
+
+### beelzebub
+
+**简介：** beelzebub是基于Go语言实现的蜜罐框架，它借助了GPT-3进行系统虚拟化。
+
+![](https://github.com/mo-xiaoxi/GPTSecurity/blob/main/docs/.gitbook/assets/falco-gpt_example.jpg)
+
+**链接：** [https://github.com/mariocandela/beelzebub](https://github.com/mariocandela/beelzebub)
 
 
 ### ChatGPTScan
