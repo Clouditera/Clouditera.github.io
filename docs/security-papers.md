@@ -252,6 +252,18 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 12. 安全测试中的 ChatGPT AI：机遇与挑战 \
    [https://www.cyfirma.com/outofband/chatgpt-ai-in-security-testing-opportunities-and-challenges/](https://www.cyfirma.com/outofband/chatgpt-ai-in-security-testing-opportunities-and-challenges/)
 
+## 大模型隐私保护
+
+{% hint style="info" %}
+以隐私计算等技术保护GPT/AIGC/LLM等大模型
+{% endhint %}
+
+### 论文
+
+1. Challenges and Remedies to Privacy and Security in AIGC: Exploring the Potential of Privacy Computing, Blockchain, and Beyond \
+   [https://arxiv.org/pdf/2306.00419.pdf](https://arxiv.org/pdf/2306.00419.pdf)
+
+
 ## 以安全数据训练GPT
 
 {% hint style="info" %}
