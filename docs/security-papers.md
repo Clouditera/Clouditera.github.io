@@ -122,13 +122,17 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     [https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411](https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411)
 11. 利用GPT-4进行调试和漏洞修复\
     [https://www.sitepoint.com/gpt-4-for-debugging/](https://www.sitepoint.com/gpt-4-for-debugging/)
-12. 黑客可能利用ChatGPT的方式\
+12. 开源项目的神奇助理：让AI扮演代码检察员，加速高质量PR review \
+    [https://mp.weixin.qq.com/s/7WeMbWDUghyS5kSBiZhYYA](https://mp.weixin.qq.com/s/7WeMbWDUghyS5kSBiZhYYA)
+13. 用ChatGPT生成测试数据\
+    [https://mp.weixin.qq.com/s/tE09X5Fce-PQs1urpJGWAg](https://mp.weixin.qq.com/s/tE09X5Fce-PQs1urpJGWAg)
+14. 黑客可能利用ChatGPT的方式\
     [https://cybernews.com/security/hackers-exploit-chatgpt/](https://cybernews.com/security/hackers-exploit-chatgpt/)
-13. GPT-4 Jailbreak and Hacking via Rabbithole Attack, Prompt Injection, Content Modderation Bypass and Weaponizing AI\
+15. GPT-4 Jailbreak and Hacking via Rabbithole Attack, Prompt Injection, Content Modderation Bypass and Weaponizing AI\
     [https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/](https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/)
-14. 我是如何用GPT自动化生成Nuclei的POC\
+16. 我是如何用GPT自动化生成Nuclei的POC\
     [https://mp.weixin.qq.com/s/Z8cTUItmbwuWbRTAU\_Y3pg](https://mp.weixin.qq.com/s/Z8cTUItmbwuWbRTAU\_Y3pg)
-15. ChatGPT 生成代码的安全漏洞 \
+17. ChatGPT 生成代码的安全漏洞 \
     [https://www.trendmicro.com/ja_jp/devops/23/e/chatgpt-security-vulnerabilities.html](https://www.trendmicro.com/ja_jp/devops/23/e/chatgpt-security-vulnerabilities.html)
 
 
@@ -173,6 +177,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 3. 利用Chat GPT和D3的AI辅助事件响应 \
    探讨将ChatGPT与Smart SOAR整合的好处；提供样例分析——使用MITRE TTPs和微软端点防御系统警报中发现的恶意软件家族以收集事件的背景信息，之后问ChatGPT，让它根据对TTP和恶意软件的了解，描述攻击者接下来可能会采取什么措施、恶意软件可能利用什么漏洞。 \
    [https://www.163.com/dy/article/I48DBHHG055633FJ.html](https://www.163.com/dy/article/I48DBHHG055633FJ.html)
+4. Blink公司推出有史以来第一个用于自动化安全和IT运营工作流程的生成式人工智能 \
+   [https://www.blinkops.com/blog/introducing-blink-copilot-the-first-generative-ai-for-security-workflows](https://www.blinkops.com/blog/introducing-blink-copilot-the-first-generative-ai-for-security-workflows)
 
 
 ## GPT自身安全
