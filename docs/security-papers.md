@@ -288,3 +288,5 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://mp.weixin.qq.com/s/dteH4oP24qGY-4l3xSl7Vg](https://mp.weixin.qq.com/s/dteH4oP24qGY-4l3xSl7Vg)
 2. 如何训练自己的“安全大模型” \
    [https://mp.weixin.qq.com/s/801sV5a7-wOh_1EN3U64-Q](https://mp.weixin.qq.com/s/801sV5a7-wOh_1EN3U64-Q)
+3. 基于LangChain框架建立和查询ATT&CK知识库 \
+   [https://otrf.github.io/GPT-Security-Adventures/experiments/ATTCK-GPT/notebook.html](https://otrf.github.io/GPT-Security-Adventures/experiments/ATTCK-GPT/notebook.html)
