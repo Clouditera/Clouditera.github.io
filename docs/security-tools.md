@@ -94,8 +94,6 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 
 **简介：** beelzebub是基于Go语言实现的蜜罐框架，它借助了GPT-3进行系统虚拟化。
 
-![](https://github.com/mo-xiaoxi/GPTSecurity/blob/main/docs/.gitbook/assets/falco-gpt_example.jpg)
-
 **链接：** [https://github.com/mariocandela/beelzebub](https://github.com/mariocandela/beelzebub)
 
 
@@ -149,3 +147,10 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 **简介：** 展示了如何使用 LLM 和 langchain agent、以提问的方式了解云环境的安全状况。
 
 **链接：** [https://github.com/samvas-codes/cspm-gpt](https://github.com/samvas-codes/cspm-gpt)
+
+
+### gpt3-and-cybersecurity
+
+**简介：** Sophos使用GPT-3进行命令分析和垃圾文本监测。
+
+**链接：** [https://github.com/sophos/gpt3-and-cybersecurity](https://github.com/sophos/gpt3-and-cybersecurity)
