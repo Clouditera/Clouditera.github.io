@@ -21,6 +21,10 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://about.fb.com/news/2023/05/metas-q1-2023-security-reports/](https://about.fb.com/news/2023/05/metas-q1-2023-security-reports/)
 7. Tenable的报告展示了生成式人工智能正在如何改变安全研究 \
    [https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/](https://venturebeat.com/security/tenable-report-shows-how-generative-ai-is-changing-security-research/)
+8. 挖掘AIGC军火产业链，颠覆巨头的机会和风险 \
+   [https://mp.weixin.qq.com/s/bVQYT0QqueGyLwPAppDRtg](https://mp.weixin.qq.com/s/bVQYT0QqueGyLwPAppDRtg)
+9. 增强ChatGPT等安全性，大语言模型界的“安全管家”开源了！ \
+   [https://mp.weixin.qq.com/s/PeuNht95WVJbJ8hiOOrSoA](https://mp.weixin.qq.com/s/PeuNht95WVJbJ8hiOOrSoA)
 
 ## 软件供应链安全
 
