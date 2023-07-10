@@ -51,6 +51,7 @@ GPTSecurity不仅关注当前的技术和趋势，更希望成为塑造未来安
 ![flamelu](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/51046996?v=4&h=65&w=65&fit=cover&mask=circle&maxage=7d)
 ![Trantulua-king](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/105847366?v=4&h=65&w=65&fit=cover&mask=circle&maxage=7d)
 ![xy666aso](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/99521392?v=4&h=65&w=65&fit=cover&mask=circle&maxage=7d)
+![shuangzidapiaoliang](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/138848888?v=4&h=65&w=65&fit=cover&mask=circle&maxage=7d)
 
 如有侵权联系删除。若用于非法目的，后果自负。
 
