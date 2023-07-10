@@ -154,3 +154,10 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 **简介：** Sophos使用GPT-3进行命令分析和垃圾文本监测。
 
 **链接：** [https://github.com/sophos/gpt3-and-cybersecurity](https://github.com/sophos/gpt3-and-cybersecurity)
+
+
+### CalypsoAI Moderator
+
+**简介：** CalypsoAI Moderator针对数据丢失、恶意代码、越狱和幻觉等安全风险进行防护。
+
+**链接：** [https://calypsoai.com/](https://calypsoai.com/)
