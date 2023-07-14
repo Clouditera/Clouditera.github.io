@@ -135,6 +135,14 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 
 
 
+### openai-cti-summarizer
+
+**简介：** openai-cti-summarizer是一款基于OpenAI's GPT-3.5和GPT-4 API生成威胁情报总结报告的工具
+
+**链接：** [https://github.com/EC-DIGIT-CSIRC/openai-cti-summarizer](https://github.com/EC-DIGIT-CSIRC/openai-cti-summarizer)
+
+
+
 ### Codamosa
 
 **简介：** CodaMOSA是CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models的论文代码，实现了一款结合了OpenAI API的fuzzer，旨在缓解传统fuzz中陷入覆盖率停滞不前的问题。
