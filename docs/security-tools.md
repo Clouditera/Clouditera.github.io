@@ -173,7 +173,7 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 
 ### garak
 
-**简介：** garak检查大语言模型是否存在特定的脆弱性，这些脆弱性的探测可以由[PromptInjection](https://github.com/agencyenterprise/promptinject)框架实现。garak可以集成模型幻觉、数据泄露、提示词注入、错误信息、越狱等脆弱性的探测。\
+**简介：** garak检查大语言模型是否存在特定的脆弱性，这些脆弱性的探测可以由[PromptInjection](https://github.com/agencyenterprise/promptinject)框架实现。garak可以集成模型幻觉、数据泄露、提示词注入、错误信息、带毒生成、越狱等脆弱性的探测。\
 garak checks if an LLM will fail in an way we don't necessarily want. garak probes for hallucination, data leakage, promp injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses. \
 ![](https://camo.githubusercontent.com/04ada429886541bce6432d11e282f0a8483a0fb74573519cb2230e85a6d7faaf/68747470733a2f2f692e696d6775722e636f6d2f564b41463569662e706e67)
 **链接：** [https://github.com/leondz/garak](https://github.com/leondz/garak)
