@@ -59,8 +59,6 @@ Callisto是一款智能的自动化二进制漏洞挖掘工具。在Semgrep SAST
 **链接：** [https://github.com/JetP1ane/Callisto](https://github.com/JetP1ane/Callisto)
 
 
-
-
 ### Navi
 
 **简介：** 一款安全方向的产品，结合了ChatGPT。目前只支持自动化 Nmap 扫描并将输出保存到您指定的文件中。
@@ -144,13 +142,11 @@ Callisto是一款智能的自动化二进制漏洞挖掘工具。在Semgrep SAST
 **链接：** [https://github.com/fr0gger/IATelligence](https://github.com/fr0gger/IATelligence)
 
 
-
 ### openai-cti-summarizer
 
 **简介：** openai-cti-summarizer是一款基于OpenAI's GPT-3.5和GPT-4 API生成威胁情报总结报告的工具
 
 **链接：** [https://github.com/EC-DIGIT-CSIRC/openai-cti-summarizer](https://github.com/EC-DIGIT-CSIRC/openai-cti-summarizer)
-
 
 
 ### Codamosa
@@ -187,3 +183,14 @@ Callisto是一款智能的自动化二进制漏洞挖掘工具。在Semgrep SAST
 garak checks if an LLM will fail in an way we don't necessarily want. garak probes for hallucination, data leakage, promp injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses. \
 ![](https://camo.githubusercontent.com/04ada429886541bce6432d11e282f0a8483a0fb74573519cb2230e85a6d7faaf/68747470733a2f2f692e696d6775722e636f6d2f564b41463569662e706e67)
 **链接：** [https://github.com/leondz/garak](https://github.com/leondz/garak)
+
+### LLMFuzzer 
+
+**简介：** LLMFuzzer是用于寻找和利用AI系统漏洞的框架，未来的开发路线是适配各种LLM API、集成不同的模糊测试策略。
+
+![](https://user-images.githubusercontent.com/1796080/239725603-a143897d-383c-4ed9-8b2f-65f4cdc5aa63.png)
+![](https://user-images.githubusercontent.com/1796080/239700414-71b006df-706c-43f6-acd1-49646dbcb0e5.jpg)
+
+**链接：** [https://github.com/mnns/LLMFuzzer](https://github.com/mnns/LLMFuzzer)
+
+
