@@ -51,6 +51,16 @@ ChatGPT Security Code Analyzer 的主要功能如下：
 **链接：** [https://github.com/morpheuslord/GPT\_Vuln-analyzer](https://github.com/morpheuslord/GPT\_Vuln-analyzer)
 
 
+### **Callisto**
+
+**简介：** 
+Callisto是一款智能的自动化二进制漏洞挖掘工具。在Semgrep SAST工具分析源码漏洞的基础上，它使用GPT-3.5-Turbo模型对Semgrep的检测结果进行验证、并且探索并识别更多可能的漏洞。
+
+**链接：** [https://github.com/JetP1ane/Callisto](https://github.com/JetP1ane/Callisto)
+
+
+
+
 ### Navi
 
 **简介：** 一款安全方向的产品，结合了ChatGPT。目前只支持自动化 Nmap 扫描并将输出保存到您指定的文件中。
