@@ -24,6 +24,12 @@ description: 基于GPT/AIGC/LLM的各类安全工具
 
 **链接：**[https://github.com/aress31/burpgpt](https://github.com/aress31/burpgpt)
 
+### **SecGPT：**
+
+**简介：** 致力于成为面向网络安全领域的AutoGPT
+
+**链接：** [https://github.com/ZacharyZcR/SecGPT](https://github.com/ZacharyZcR/SecGPT)
+
 
 ### **ChatGPT Security Code Analyzer:**
 
