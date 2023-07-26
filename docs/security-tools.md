@@ -199,6 +199,13 @@ garak checks if an LLM will fail in an way we don't necessarily want. garak prob
 
 **链接：** [https://github.com/mnns/LLMFuzzer](https://github.com/mnns/LLMFuzzer)
 
+### PsychoEvals 
+
+**简介：** 以MBTI人格评估、提示词注入检测为基础的LLM安全评估轻量框架
+
+**链接：** [https://github.com/NextWordDev/psychoevals](https://github.com/NextWordDev/psychoevals)
+ 
+
 ### rebuff 
 
 **简介：** 提示词注入检测工具
