@@ -213,3 +213,11 @@ garak checks if an LLM will fail in an way we don't necessarily want. garak prob
 **链接：** [https://github.com/protectai/rebuff](https://github.com/protectai/rebuff)
 
 
+### ai-goat 
+
+**简介：** 面向带缺陷的LLM的CTF挑战
+
+**链接：** [https://github.com/dhammon/ai-goat](https://github.com/dhammon/ai-goat)
+
+
+
