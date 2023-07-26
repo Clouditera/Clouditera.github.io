@@ -199,4 +199,10 @@ garak checks if an LLM will fail in an way we don't necessarily want. garak prob
 
 **链接：** [https://github.com/mnns/LLMFuzzer](https://github.com/mnns/LLMFuzzer)
 
+### rebuff 
+
+**简介：** 提示词注入检测工具
+
+**链接：** [https://github.com/protectai/rebuff](https://github.com/protectai/rebuff)
+
 
