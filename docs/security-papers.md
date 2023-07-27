@@ -106,7 +106,11 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     [https://arxiv.org/pdf/2202.01142.pdf](https://arxiv.org/pdf/2202.01142.pdf)
 34. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models\
     微软在ICSE2023上发布的论文，旨在利用LLM来缓解传统fuzz中的陷入“Coverage Plateaus”的问题\
-    [https://www.carolemieux.com/codamosa_icse23.pdf](https://www.carolemieux.com/codamosa_icse23.pdf) 
+    [https://www.carolemieux.com/codamosa_icse23.pdf](https://www.carolemieux.com/codamosa_icse23.pdf)
+35. BadPrompt: Backdoor Attacks on Continuous Prompts\
+    南开大学在NeurIPS 2022上发表的论文，小样本场景下通过连续prompt对大模型后门攻击\
+    [https://openreview.net/pdf?id=rlN6fO3OrP](https://openreview.net/pdf?id=rlN6fO3OrP)
+
 
 ### 博客
 
