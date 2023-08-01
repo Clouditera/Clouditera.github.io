@@ -286,6 +286,11 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww](https://mp.weixin.qq.com/s/U2yPGOmzlvlF6WeNd7B7ww)
 12. 安全测试中的 ChatGPT AI：机遇与挑战 \
    [https://www.cyfirma.com/outofband/chatgpt-ai-in-security-testing-opportunities-and-challenges/](https://www.cyfirma.com/outofband/chatgpt-ai-in-security-testing-opportunities-and-challenges/)
+13. ChatGPT羊驼家族全沦陷！CMU博士击破LLM护栏，人类毁灭计划脱口而出 \
+   CMU和人工智能安全中心的研究人员发现，只要通过附加一系列特定的无意义token，就能生成一个神秘的prompt后缀。由此，任何人都可以轻松破解LLM的安全措施，生成无限量的有害内容。\
+   论文地址：https://arxiv.org/abs/2307.15043 \
+   代码地址：https://github.com/llm-attacks/llm-attacks \
+   [https://mp.weixin.qq.com/s/298nwP98UdRNybV2Fuo6Wg](https://mp.weixin.qq.com/s/298nwP98UdRNybV2Fuo6Wg)
 
 ## 大模型隐私保护
 
