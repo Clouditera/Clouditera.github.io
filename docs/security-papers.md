@@ -253,6 +253,7 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 22. Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations \
     [https://arxiv.org/pdf/2306.09255.pdf](https://arxiv.org/pdf/2306.09255.pdf)
 23. BadPrompt: Backdoor Attacks on Continuous Prompts\
+    南开大学在NeurIPS 2022上发表的论文，小样本场景下通过连续prompt对大模型后门攻击 \
     [https://arxiv.org/pdf/2211.14719.pdf](https://arxiv.org/pdf/2211.14719.pdf)
 
 ### 博客
