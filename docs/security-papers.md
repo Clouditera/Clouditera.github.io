@@ -249,62 +249,84 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 1. GPT-4 Technical Report\
    OpenAI对模型自身安全评估和缓解\
    [https://arxiv.org/abs/2303.08774](https://arxiv.org/pdf/2303.08774.pdf)
+   
 2. Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models\
    提出一个未来的研究方向：在特定的使用情境下，保障大语言模型的安全可靠性需要发展什么类型的测试？\
    [https://arxiv.org/pdf/2102.02503.pdf](https://arxiv.org/pdf/2102.02503.pdf)
+   
 3. Taxonomy of Risks posed by Language Models\
    [https://dl.acm.org/doi/10.1145/3531146.3533088](https://dl.acm.org/doi/10.1145/3531146.3533088)
+   
 4. ChatGPT Security Risks: A Guide for Cyber Security Professionals \
    [https://www.cybertalk.org/wp-content/uploads/2023/03/ChatGPT_eBook_CP_CT_2023.pdf](https://www.cybertalk.org/wp-content/uploads/2023/03/ChatGPT_eBook_CP_CT_2023.pdf)
+   
 5. A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation \
    [https://arxiv.org/pdf/2305.11391.pdf](https://arxiv.org/pdf/2305.11391.pdf)
+   
 6. The (ab)use of Open Source Code to Train Large Language Models\
    [https://arxiv.org/pdf/2302.13681.pdf](https://arxiv.org/pdf/2302.13681.pdf)
+   
 7. In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT\
    [https://arxiv.org/pdf/2304.08979.pdf](https://arxiv.org/pdf/2304.08979.pdf)
+   
 8. DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models \
    [https://arxiv.org/pdf/2306.11698.pdf](https://arxiv.org/pdf/2306.11698.pdf)
+   
 9. LLM Censorship: A Machine Learning Challenge or a Computer Security Problem? \
    [https://arxiv.org/pdf/2307.10719.pdf](https://arxiv.org/pdf/2307.10719.pdf)
+   
 10. Ignore Previous Prompt: Attack Techniques For Language Models\
       ML Safety Workshop NeurIPS 2022，以及提示注入的开山之作\
       [https://arxiv.org/pdf/2211.09527.pdf](https://arxiv.org/pdf/2211.09527.pdf)
+    
 11. Boosting Big Brother: Attacking Search Engines with Encodings \
       攻击测试了集成OpenAI GPT-4模型的必应搜索引擎 \
       [https://arxiv.org/pdf/2304.14031.pdf](https://arxiv.org/pdf/2304.14031.pdf)
+    
 12. More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models\
       间接提示注入的开山之作，里面很多场景都已成为现实\
       [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
+    
 13. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models\
       [https://arxiv.org/pdf/2009.11462.pdf](https://arxiv.org/pdf/2009.11462.pdf)
+    
 14. Jailbroken: How Does LLM Safety Training Fail? \
     [https://arxiv.org/pdf/2307.02483.pdf](https://arxiv.org/pdf/2307.02483.pdf)
+    
 15. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks\
       [https://arxiv.org/pdf/2302.05733.pdf](https://arxiv.org/pdf/2302.05733.pdf)
+    
 16. Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection \
     [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
+    
 17. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned \
     [https://arxiv.org/pdf/2209.07858.pdf](https://arxiv.org/pdf/2209.07858.pdf)
+    
 18. Explore, Establish, Exploit: Red Teaming Language Models from Scratch \
     [https://arxiv.org/pdf/2306.09442.pdf](https://arxiv.org/pdf/2306.09442.pdf)
+    
 19. Beyond the Safeguards: Exploring the Security Risks of ChatGPT \
     [https://arxiv.org/pdf/2305.08005.pdf](https://arxiv.org/pdf/2305.08005.pdf)
+    
 20. ProPILE: Probing Privacy Leakage in Large Language Models \
     [https://arxiv.org/pdf/2307.01881.pdf](https://arxiv.org/pdf/2307.01881.pdf)
+    
 21. Can We Generate Shellcodes via Natural Language? An Empirical Study\
     [https://link.springer.com/article/10.1007/s10515-022-00331-3](https://link.springer.com/article/10.1007/s10515-022-00331-3)
+    
 22. Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations \
     [https://arxiv.org/pdf/2306.09255.pdf](https://arxiv.org/pdf/2306.09255.pdf)
+    
 23. BadPrompt: Backdoor Attacks on Continuous Prompts\
     南开大学在NeurIPS 2022上发表的论文，小样本场景下通过连续prompt对大模型后门攻击 \
     [https://arxiv.org/pdf/2211.14719.pdf](https://arxiv.org/pdf/2211.14719.pdf)
+    
 24. Universal and Transferable Adversarial Attacks on Aligned Language Models
 
       https://arxiv.org/abs/2307.15043 https://llm-attacks.org/
-25. LLM Censorship: A Machine Learning Challenge or a Computer Security Problem?
-
-    https://arxiv.org/abs/2307.10719
-26. 
+    
+    
+    
 
 ### 博客
 
@@ -364,10 +386,6 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 1. Web Content Filtering through knowledge distillation of Large Language Models \
    [https://arxiv.org/pdf/2305.05027.pdf](https://arxiv.org/pdf/2305.05027.pdf)
-
-2. ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The Unknown
-
-   https://arxiv.org/abs/2307.10195
 
 ### 博客
 
