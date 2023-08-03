@@ -29,6 +29,12 @@ description: 基于GPT/AIGC/LLM的各类安全工具
 
 **链接：**[https://github.com/aress31/burpgpt](https://github.com/aress31/burpgpt)
 
+### **GPTreport：**
+
+**简介：** 使用chatGPT自动生成漏洞报告
+
+**链接：** [https://github.com/shiyeshu/GPTreport](https://github.com/shiyeshu/GPTreport)
+
 ### **SecGPT：**
 
 **简介：** 致力于成为面向网络安全领域的AutoGPT
