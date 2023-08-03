@@ -10,8 +10,13 @@ description: 基于GPT/AIGC/LLM的各类安全工具
 
 **简介：** 虽然 OpenAI Codex 本身并非专门针对网络安全设计的工具，但它基于 GPT-3.5-turbo 模型，可用于编写、审查和分析代码，包括网络安全相关的代码。您可以利用 Codex 的 API 来构建与网络安全相关的自动化工具，例如自动生成漏洞扫描脚本或辅助渗透测试。
 
-**链接：**[https://openai.com/blog/openai-codex](https://openai.com/blog/openai-codex)
+**链接：** [https://openai.com/blog/openai-codex](https://openai.com/blog/openai-codex)
 
+### **Ret2GPT：**
+
+**简介：** 主要面向CTF类二进制安全设计的工具：Ret2GPT，通过使用 ChatGPT API + Retdec + Langchain，用户可以通过问答+构造好的Prompt 或者 直接使用以及构造好的Prompt 对 特定二进制文件进行漏洞挖掘 起到一个很好的漏洞挖掘助手的功能!
+
+**链接：** [https://github.com/DDizzzy79/Ret2GPT](https://github.com/DDizzzy79/Ret2GPT)
 
 ### **BurpGPT：**
 
