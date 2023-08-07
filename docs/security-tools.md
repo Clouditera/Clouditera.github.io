@@ -151,6 +151,12 @@ Callisto是一款智能的自动化二进制漏洞挖掘工具。在Semgrep SAST
 **链接：** [https://github.com/fuzzland/audit\_gpt](https://github.com/fuzzland/audit\_gpt)
 
 
+### ai_cybersecurity_compliance
+
+**简介：** 一款针对网络设备提供安全合规建议的工具，此工具基于GPT-3.5-turbo模型
+
+**链接：** [https://github.com/yzmar4real/ai_cybersecurity_compliance](https://github.com/yzmar4real/ai_cybersecurity_compliance)
+
 
 ### IATelligence
 
