@@ -323,10 +323,12 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     南开大学在NeurIPS 2022上发表的论文，小样本场景下通过连续prompt对大模型后门攻击 \
     [https://arxiv.org/pdf/2211.14719.pdf](https://arxiv.org/pdf/2211.14719.pdf)
     
-25. Universal and Transferable Adversarial Attacks on Aligned Language Models
+25. Universal and Transferable Adversarial Attacks on Aligned Language Models \
 
       https://arxiv.org/abs/2307.15043 https://llm-attacks.org/
-    
+
+26. A LLM Assisted Exploitation of AI-Guardian \
+      [https://arxiv.org/pdf/2307.15008.pdf](https://arxiv.org/pdf/2307.15008.pdf)
     
     
 
