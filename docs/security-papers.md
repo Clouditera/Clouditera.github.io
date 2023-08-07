@@ -149,7 +149,6 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
       https://arxiv.org/abs/2307.12488
 
-37. 
 
 ### 博客
 
@@ -272,56 +271,59 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 8. DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models \
    [https://arxiv.org/pdf/2306.11698.pdf](https://arxiv.org/pdf/2306.11698.pdf)
    
-9. LLM Censorship: A Machine Learning Challenge or a Computer Security Problem? \
+9. On the Trustworthiness Landscape of State-of-the-art Generative Models: A Comprehensive Survey \
+    [https://arxiv.org/pdf/2307.16680.pdf](https://arxiv.org/pdf/2307.16680.pdf)
+
+10. LLM Censorship: A Machine Learning Challenge or a Computer Security Problem? \
    [https://arxiv.org/pdf/2307.10719.pdf](https://arxiv.org/pdf/2307.10719.pdf)
    
-10. Ignore Previous Prompt: Attack Techniques For Language Models\
+11. Ignore Previous Prompt: Attack Techniques For Language Models\
       ML Safety Workshop NeurIPS 2022，以及提示注入的开山之作\
       [https://arxiv.org/pdf/2211.09527.pdf](https://arxiv.org/pdf/2211.09527.pdf)
     
-11. Boosting Big Brother: Attacking Search Engines with Encodings \
+12. Boosting Big Brother: Attacking Search Engines with Encodings \
       攻击测试了集成OpenAI GPT-4模型的必应搜索引擎 \
       [https://arxiv.org/pdf/2304.14031.pdf](https://arxiv.org/pdf/2304.14031.pdf)
     
-12. More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models\
+13. More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models\
       间接提示注入的开山之作，里面很多场景都已成为现实\
       [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
     
-13. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models\
+14. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models\
       [https://arxiv.org/pdf/2009.11462.pdf](https://arxiv.org/pdf/2009.11462.pdf)
     
-14. Jailbroken: How Does LLM Safety Training Fail? \
+15. Jailbroken: How Does LLM Safety Training Fail? \
     [https://arxiv.org/pdf/2307.02483.pdf](https://arxiv.org/pdf/2307.02483.pdf)
     
-15. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks\
+16. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks\
       [https://arxiv.org/pdf/2302.05733.pdf](https://arxiv.org/pdf/2302.05733.pdf)
     
-16. Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection \
+17. Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection \
     [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
     
-17. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned \
+18. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned \
     [https://arxiv.org/pdf/2209.07858.pdf](https://arxiv.org/pdf/2209.07858.pdf)
     
-18. Explore, Establish, Exploit: Red Teaming Language Models from Scratch \
+19. Explore, Establish, Exploit: Red Teaming Language Models from Scratch \
     [https://arxiv.org/pdf/2306.09442.pdf](https://arxiv.org/pdf/2306.09442.pdf)
     
-19. Beyond the Safeguards: Exploring the Security Risks of ChatGPT \
+20. Beyond the Safeguards: Exploring the Security Risks of ChatGPT \
     [https://arxiv.org/pdf/2305.08005.pdf](https://arxiv.org/pdf/2305.08005.pdf)
     
-20. ProPILE: Probing Privacy Leakage in Large Language Models \
+21. ProPILE: Probing Privacy Leakage in Large Language Models \
     [https://arxiv.org/pdf/2307.01881.pdf](https://arxiv.org/pdf/2307.01881.pdf)
     
-21. Can We Generate Shellcodes via Natural Language? An Empirical Study\
+22. Can We Generate Shellcodes via Natural Language? An Empirical Study\
     [https://link.springer.com/article/10.1007/s10515-022-00331-3](https://link.springer.com/article/10.1007/s10515-022-00331-3)
     
-22. Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations \
+23. Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations \
     [https://arxiv.org/pdf/2306.09255.pdf](https://arxiv.org/pdf/2306.09255.pdf)
     
-23. BadPrompt: Backdoor Attacks on Continuous Prompts\
+24. BadPrompt: Backdoor Attacks on Continuous Prompts\
     南开大学在NeurIPS 2022上发表的论文，小样本场景下通过连续prompt对大模型后门攻击 \
     [https://arxiv.org/pdf/2211.14719.pdf](https://arxiv.org/pdf/2211.14719.pdf)
     
-24. Universal and Transferable Adversarial Attacks on Aligned Language Models
+25. Universal and Transferable Adversarial Attacks on Aligned Language Models
 
       https://arxiv.org/abs/2307.15043 https://llm-attacks.org/
     
