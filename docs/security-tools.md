@@ -237,4 +237,10 @@ garak checks if an LLM will fail in an way we don't necessarily want. garak prob
 **链接：** [https://github.com/dhammon/ai-goat](https://github.com/dhammon/ai-goat)
 
 
+### promptbench 
+
+**简介：** 大语言模型针对对抗性提示词的健壮性评估框架
+
+**链接：** [https://github.com/microsoft/promptbench](https://github.com/microsoft/promptbench)
+
 
