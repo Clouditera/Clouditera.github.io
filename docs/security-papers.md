@@ -164,39 +164,41 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 ### 博客
 
-1. 用GPT做静态代码扫描实现自动化漏洞挖掘思路分享\
+1. 人工智能驱动的模糊测试：打破漏洞狩猎的障碍 \
+   [https://security.googleblog.com/2023/08/ai-powered-fuzzing-breaking-bug-hunting.html](https://security.googleblog.com/2023/08/ai-powered-fuzzing-breaking-bug-hunting.html)
+2. 用GPT做静态代码扫描实现自动化漏洞挖掘思路分享\
    [https://mp.weixin.qq.com/s/Masyfq12cjaM4Zn6qxvGoA](https://mp.weixin.qq.com/s/Masyfq12cjaM4Zn6qxvGoA)
-2. 用 LLM 降低白盒误报及自动修复漏洞代码\
+3. 用 LLM 降低白盒误报及自动修复漏洞代码\
    [https://mp.weixin.qq.com/s/leLFECUaNOGbjsN\_8mcXrQ](https://mp.weixin.qq.com/s/leLFECUaNOGbjsN\_8mcXrQ)
-3. ChatGPT在源代码分析中可靠吗？\
+4. ChatGPT在源代码分析中可靠吗？\
    [https://mp.weixin.qq.com/s/Ix2lArBzaCAJr5nyGolCwQ](https://mp.weixin.qq.com/s/Ix2lArBzaCAJr5nyGolCwQ)
-4. ChatGPT在代码中定位缺陷足够好吗？\
+5. ChatGPT在代码中定位缺陷足够好吗？\
    [https://pvs-studio.com/en/blog/posts/1035/](https://pvs-studio.com/en/blog/posts/1035/)
-5. ChatGPT+RASP，实现CodeQL漏洞挖掘高效自动化\
+6. ChatGPT+RASP，实现CodeQL漏洞挖掘高效自动化\
    [https://mp.weixin.qq.com/s/xlUWn2oWU51NVkgB157pRw](https://mp.weixin.qq.com/s/xlUWn2oWU51NVkgB157pRw)
-6. ChatGPTScan:使用ChatGPTScan批量进行代码审计\
+7. ChatGPTScan:使用ChatGPTScan批量进行代码审计\
    [https://mp.weixin.qq.com/s/QIKvRzNlAKiqh\_UMOMfDdg](https://mp.weixin.qq.com/s/QIKvRzNlAKiqh\_UMOMfDdg)
-7. 应用GPT-4 于 Semgrep 中以指出误报和修复代码\
+8. 应用GPT-4 于 Semgrep 中以指出误报和修复代码\
    [https://semgrep.dev/blog/2023/gpt4-and-semgrep-detailed?utm\_source=twitter\&utm\_medium=social\&utm\_campaign=brand](https://semgrep.dev/blog/2023/gpt4-and-semgrep-detailed?utm\_source=twitter\&utm\_medium=social\&utm\_campaign=brand)
-8. Kondukto产品利用OpenAI来修复代码漏洞\
+9. Kondukto产品利用OpenAI来修复代码漏洞\
    [https://kondukto.io/blog/kondukto-openai-chatgpt](https://kondukto.io/blog/kondukto-openai-chatgpt)
-9. 利用ChatGPT来进行代码审计\
+10. 利用ChatGPT来进行代码审计\
    [https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt/](https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt/)
-10. 利用GPT-3在单个代码仓库中找到213个安全漏洞\
+11. 利用GPT-3在单个代码仓库中找到213个安全漏洞\
     [https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411](https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411)
-11. 利用GPT-4进行调试和漏洞修复\
+12. 利用GPT-4进行调试和漏洞修复\
     [https://www.sitepoint.com/gpt-4-for-debugging/](https://www.sitepoint.com/gpt-4-for-debugging/)
-12. 开源项目的神奇助理：让AI扮演代码检察员，加速高质量PR review \
+13. 开源项目的神奇助理：让AI扮演代码检察员，加速高质量PR review \
     [https://mp.weixin.qq.com/s/7WeMbWDUghyS5kSBiZhYYA](https://mp.weixin.qq.com/s/7WeMbWDUghyS5kSBiZhYYA)
-13. 用ChatGPT生成测试数据\
+14. 用ChatGPT生成测试数据\
     [https://mp.weixin.qq.com/s/tE09X5Fce-PQs1urpJGWAg](https://mp.weixin.qq.com/s/tE09X5Fce-PQs1urpJGWAg)
-14. 黑客可能利用ChatGPT的方式\
+15. 黑客可能利用ChatGPT的方式\
     [https://cybernews.com/security/hackers-exploit-chatgpt/](https://cybernews.com/security/hackers-exploit-chatgpt/)
-15. GPT-4 Jailbreak and Hacking via Rabbithole Attack, Prompt Injection, Content Modderation Bypass and Weaponizing AI\
+16. GPT-4 Jailbreak and Hacking via Rabbithole Attack, Prompt Injection, Content Modderation Bypass and Weaponizing AI\
     [https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/](https://adversa.ai/blog/gpt-4-hacking-and-jailbreaking-via-rabbithole-attack-plus-prompt-injection-content-moderation-bypass-weaponizing-ai/)
-16. 我是如何用GPT自动化生成Nuclei的POC\
+17. 我是如何用GPT自动化生成Nuclei的POC\
     [https://mp.weixin.qq.com/s/Z8cTUItmbwuWbRTAU\_Y3pg](https://mp.weixin.qq.com/s/Z8cTUItmbwuWbRTAU\_Y3pg)
-17. ChatGPT 生成代码的安全漏洞 \
+18. ChatGPT 生成代码的安全漏洞 \
     [https://www.trendmicro.com/ja_jp/devops/23/e/chatgpt-security-vulnerabilities.html](https://www.trendmicro.com/ja_jp/devops/23/e/chatgpt-security-vulnerabilities.html)
 
 
