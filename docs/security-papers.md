@@ -25,6 +25,9 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://mp.weixin.qq.com/s/bVQYT0QqueGyLwPAppDRtg](https://mp.weixin.qq.com/s/bVQYT0QqueGyLwPAppDRtg)
 9. 增强ChatGPT等安全性，大语言模型界的“安全管家”开源了！ \
    [https://mp.weixin.qq.com/s/PeuNht95WVJbJ8hiOOrSoA](https://mp.weixin.qq.com/s/PeuNht95WVJbJ8hiOOrSoA)
+10. ChatGPT暗黑版——FraudGPT \
+    [https://hackernoon.com/what-is-fraudgpt](https://hackernoon.com/what-is-fraudgpt)
+
 
 ## 软件供应链安全
 
