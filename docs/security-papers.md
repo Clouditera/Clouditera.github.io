@@ -220,6 +220,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://arxiv.org/pdf/2304.14746.pdf](https://arxiv.org/pdf/2304.14746.pdf)
 3. ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The Unknown \
    [https://arxiv.org/pdf/2307.10195.pdf](https://arxiv.org/pdf/2307.10195.pdf)
+4. Devising and Detecting Phishing: large language models vs. Smaller Human Models \
+   [https://arxiv.org/pdf/2308.12287.pdf](https://arxiv.org/pdf/2308.12287.pdf)
 
 ### 博客
 
