@@ -235,9 +235,7 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://arxiv.org/pdf/2307.16336.pdf](https://arxiv.org/pdf/2307.16336.pdf)
 6. Revolutionizing Cyber Threat Detection with Large Language Models \
    [https://arxiv.org/pdf/2306.14263.pdf](https://arxiv.org/pdf/2306.14263.pdf)
-7. On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions \
-    [https://arxiv.org/pdf/2306.14062.pdf](https://arxiv.org/pdf/2306.14062.pdf)
-  
+
 ### 博客
 
 1. IoC detection experiments with ChatGPT\
@@ -256,6 +254,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://arxiv.org/pdf/2109.06595.pdf](https://arxiv.org/pdf/2109.06595.pdf)
 2. On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions \
    [https://arxiv.org/pdf/2306.14062.pdf](https://arxiv.org/pdf/2306.14062.pdf)
+3. From Text to MITRE Techniques: Exploring the Malicious Use of Large Language Models for Generating Cyber Attack Payloads \
+   [https://arxiv.org/pdf/2305.15336.pdf](https://arxiv.org/pdf/2305.15336.pdf)
 
 ### 博客
 
