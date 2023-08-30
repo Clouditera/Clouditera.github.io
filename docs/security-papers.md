@@ -233,7 +233,11 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://arxiv.org/pdf/2308.12287.pdf](https://arxiv.org/pdf/2308.12287.pdf)
 5. Anatomy of an AI-powered malicious social botnet \
    [https://arxiv.org/pdf/2307.16336.pdf](https://arxiv.org/pdf/2307.16336.pdf)
-
+6. Revolutionizing Cyber Threat Detection with Large Language Models \
+   [https://arxiv.org/pdf/2306.14263.pdf](https://arxiv.org/pdf/2306.14263.pdf)
+7. On the Uses of Large Language Models to Interpret Ambiguous Cyberattack Descriptions \
+    [https://arxiv.org/pdf/2306.14062.pdf](https://arxiv.org/pdf/2306.14062.pdf)
+  
 ### 博客
 
 1. IoC detection experiments with ChatGPT\
