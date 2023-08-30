@@ -231,6 +231,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://arxiv.org/pdf/2307.10195.pdf](https://arxiv.org/pdf/2307.10195.pdf)
 4. Devising and Detecting Phishing: large language models vs. Smaller Human Models \
    [https://arxiv.org/pdf/2308.12287.pdf](https://arxiv.org/pdf/2308.12287.pdf)
+5. Anatomy of an AI-powered malicious social botnet \
+   [https://arxiv.org/pdf/2307.16336.pdf](https://arxiv.org/pdf/2307.16336.pdf)
 
 ### 博客
 
