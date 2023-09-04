@@ -238,6 +238,9 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://arxiv.org/pdf/2307.16336.pdf](https://arxiv.org/pdf/2307.16336.pdf)
 6. Revolutionizing Cyber Threat Detection with Large Language Models \
    [https://arxiv.org/pdf/2306.14263.pdf](https://arxiv.org/pdf/2306.14263.pdf)
+7. LLM in the Shell: Generative Honeypots \
+   借助LLM打造智能的高交互蜜罐 \
+   [https://arxiv.org/pdf/2309.00155.pdf](https://arxiv.org/pdf/2309.00155.pdf)
 
 ### 博客
 
