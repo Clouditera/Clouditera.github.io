@@ -374,17 +374,20 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     [https://arxiv.org/pdf/2308.13904.pdf](https://arxiv.org/pdf/2308.13904.pdf)
 
 27. Universal and Transferable Adversarial Attacks on Aligned Language Models \
+    [https://arxiv.org/pdf/2307.15043.pdf](https://arxiv.org/pdf/2307.15043.pdf) \
+    [https://llm-attacks.org](https://llm-attacks.org)
 
-      https://arxiv.org/abs/2307.15043 https://llm-attacks.org/
+28. Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment \
+    [https://arxiv.org/pdf/2308.09662.pdf](https://arxiv.org/pdf/2308.09662.pdf)
 
-28. A LLM Assisted Exploitation of AI-Guardian \
+29. A LLM Assisted Exploitation of AI-Guardian \
       [https://arxiv.org/pdf/2307.15008.pdf](https://arxiv.org/pdf/2307.15008.pdf)
 
-29. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher \
+30. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher \
     用摩斯、凯撒等加密密码，可向ChatGPT询问非法内容 \
       [https://arxiv.org/pdf/2308.06463.pdf](https://arxiv.org/pdf/2308.06463.pdf)
 
-30. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models \
+31. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models \
     [https://arxiv.org/pdf/2308.03825.pdf](https://arxiv.org/pdf/2308.03825.pdf)
     
 
