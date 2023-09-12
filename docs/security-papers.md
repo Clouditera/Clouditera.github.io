@@ -265,6 +265,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://arxiv.org/pdf/2306.14062.pdf](https://arxiv.org/pdf/2306.14062.pdf)
 3. From Text to MITRE Techniques: Exploring the Malicious Use of Large Language Models for Generating Cyber Attack Payloads \
    [https://arxiv.org/pdf/2305.15336.pdf](https://arxiv.org/pdf/2305.15336.pdf)
+4. Automated CVE Analysis for Threat Prioritization and Impact Prediction \
+   [https://arxiv.org/pdf/2309.03040.pdf](https://arxiv.org/pdf/2309.03040.pdf)
 
 ### 博客
 
