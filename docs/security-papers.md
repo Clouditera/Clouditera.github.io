@@ -444,6 +444,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 1. Challenges and Remedies to Privacy and Security in AIGC: Exploring the Potential of Privacy Computing, Blockchain, and Beyond \
    [https://arxiv.org/pdf/2306.00419.pdf](https://arxiv.org/pdf/2306.00419.pdf)
 
+2. GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants \
+    [https://arxiv.org/pdf/2309.05138.pdf](https://arxiv.org/pdf/2309.05138.pdf)
 
 ## 以安全数据训练GPT
 
