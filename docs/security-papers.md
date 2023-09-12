@@ -368,40 +368,43 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 23. ProPILE: Probing Privacy Leakage in Large Language Models \
     [https://arxiv.org/pdf/2307.01881.pdf](https://arxiv.org/pdf/2307.01881.pdf)
     
-24. Can We Generate Shellcodes via Natural Language? An Empirical Study\
+24. Analyzing Leakage of Personally Identifiable Information in Language Models \
+    [https://ieeexplore.ieee.org/document/10179300](https://ieeexplore.ieee.org/document/10179300)
+
+25. Can We Generate Shellcodes via Natural Language? An Empirical Study\
     [https://link.springer.com/article/10.1007/s10515-022-00331-3](https://link.springer.com/article/10.1007/s10515-022-00331-3)
     
-25. RatGPT: Turning online LLMs into Proxies for Malware Attacks \
+26. RatGPT: Turning online LLMs into Proxies for Malware Attacks \
     [https://arxiv.org/pdf/2308.09183.pdf](https://arxiv.org/pdf/2308.09183.pdf)
 
-26. Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations \
+27. Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations \
     [https://arxiv.org/pdf/2306.09255.pdf](https://arxiv.org/pdf/2306.09255.pdf)
     
-27. BadPrompt: Backdoor Attacks on Continuous Prompts\
+28. BadPrompt: Backdoor Attacks on Continuous Prompts\
     南开大学在NeurIPS 2022上发表的论文，小样本场景下通过连续prompt对大模型后门攻击 \
     [https://arxiv.org/pdf/2211.14719.pdf](https://arxiv.org/pdf/2211.14719.pdf)
     
-28. LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors \
+29. LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors \
     [https://arxiv.org/pdf/2308.13904.pdf](https://arxiv.org/pdf/2308.13904.pdf)
 
-29. A Comprehensive Overview of Backdoor Attacks in Large Language Models within Communication Networks \
+30. A Comprehensive Overview of Backdoor Attacks in Large Language Models within Communication Networks \
     [https://arxiv.org/pdf/2308.14367.pdf](https://arxiv.org/pdf/2308.14367.pdf)
 
-30. Universal and Transferable Adversarial Attacks on Aligned Language Models \
+31. Universal and Transferable Adversarial Attacks on Aligned Language Models \
     [https://arxiv.org/pdf/2307.15043.pdf](https://arxiv.org/pdf/2307.15043.pdf) \
     [https://llm-attacks.org](https://llm-attacks.org)
 
-31. Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment \
+32. Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment \
     [https://arxiv.org/pdf/2308.09662.pdf](https://arxiv.org/pdf/2308.09662.pdf)
 
-32. A LLM Assisted Exploitation of AI-Guardian \
+33. A LLM Assisted Exploitation of AI-Guardian \
       [https://arxiv.org/pdf/2307.15008.pdf](https://arxiv.org/pdf/2307.15008.pdf)
 
-33. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher \
+34. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher \
     用摩斯、凯撒等加密密码，可向ChatGPT询问非法内容 \
       [https://arxiv.org/pdf/2308.06463.pdf](https://arxiv.org/pdf/2308.06463.pdf)
 
-34. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models \
+35. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models \
     [https://arxiv.org/pdf/2308.03825.pdf](https://arxiv.org/pdf/2308.03825.pdf)
     
 
