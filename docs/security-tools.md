@@ -245,5 +245,6 @@ garak checks if an LLM will fail in an way we don't necessarily want. garak prob
 
 ### ai网络安全助手
 
-**简介：** 围绕安全从业人员在日常工作中常需要的能力进行开发，通过AI插件的方式连接专业工具和产品
+**简介：** 围绕安全从业人员在日常工作中常需要的能力进行开发，通过AI插件的方式连接专业工具和产品 \
+
 **链接：** [https://www.secasst.com/](https://www.secasst.com/)
