@@ -481,6 +481,9 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 1. Web Content Filtering through knowledge distillation of Large Language Models \
    [https://arxiv.org/pdf/2305.05027.pdf](https://arxiv.org/pdf/2305.05027.pdf)
 
+2. HackMentor: Fine-Tuning Large Language Models for Cybersecurity \
+    论文接收尚未公开。项目地址：[https://github.com/tmylla/HackMentor](https://github.com/tmylla/HackMentor)
+   
 ### 博客
 
 1. ChatGPT：和黑客知识库聊天 \
