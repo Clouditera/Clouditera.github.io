@@ -418,7 +418,11 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 36. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models \
     [https://arxiv.org/pdf/2308.03825.pdf](https://arxiv.org/pdf/2308.03825.pdf)
-    
+
+37. LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins \
+    主页：https://llm-platform-security.github.io/chatgpt-plugin-eval/ \
+    开源项目：[chatgpt-plugin-eval](https://github.com/llm-platform-security/chatgpt-plugin-eval)
+    [https://arxiv.org/pdf/2309.10254v1.pdf](https://arxiv.org/pdf/2309.10254v1.pdf)    
 
 ### 博客
 
