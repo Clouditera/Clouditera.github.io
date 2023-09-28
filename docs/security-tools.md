@@ -29,6 +29,12 @@ description: 基于GPT/AIGC/LLM的各类安全工具
 
 **链接：**[https://github.com/aress31/burpgpt](https://github.com/aress31/burpgpt)
 
+### **nmap-GPT：**
+
+**简介：** nmap-GPT致力于帮助安全初学者学习如何解决与网络设备开放端口相关的安全问题。首先使用 Nmap 扫描设备，然后利用 OpenAI API 提供每个开放端口特定安全注意事项的提示。
+
+**链接：**[https://github.com/ethanolivertroy/nmap-GPT](https://github.com/ethanolivertroy/nmap-GPT)
+
 ### **GPTreport：**
 
 **简介：** 使用chatGPT自动生成漏洞报告
