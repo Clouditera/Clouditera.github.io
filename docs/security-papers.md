@@ -284,7 +284,11 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://arxiv.org/pdf/2305.15336.pdf](https://arxiv.org/pdf/2305.15336.pdf)
 4. Automated CVE Analysis for Threat Prioritization and Impact Prediction \
    [https://arxiv.org/pdf/2309.03040.pdf](https://arxiv.org/pdf/2309.03040.pdf)
-
+5. LogGPT: Log Anomaly Detection via GPT \
+    [https://browse.arxiv.org/pdf/2309.14482.pdf](https://browse.arxiv.org/pdf/2309.14482.pdf)
+6. Cyber Sentinel: Exploring Conversational Agents’ Role in Streamlining Security Tasks with GPT-4 \
+    [https://browse.arxiv.org/pdf/2309.16422.pdf](https://browse.arxiv.org/pdf/2309.16422.pdf)
+    
 ### 博客
 
 1. Elastic公司发布的"与ChatGPT探索安全的未来" \
