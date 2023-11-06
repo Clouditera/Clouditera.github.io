@@ -488,6 +488,9 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 2. GenAIPABench: A Benchmark for Generative AI-based Privacy Assistants \
     [https://arxiv.org/pdf/2309.05138.pdf](https://arxiv.org/pdf/2309.05138.pdf)
 
+3. Recovering from Privacy-Preserving Masking with Large Language Models \
+    [https://arxiv.org/pdf/2309.08628.pdf](https://arxiv.org/pdf/2309.08628.pdf)
+
 ## 以安全数据训练GPT
 
 {% hint style="info" %}
