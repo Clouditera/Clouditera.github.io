@@ -79,123 +79,126 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 14. Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract Code Using Vulnerability-constrained Decoding \
     [https://arxiv.org/pdf/2309.09826.pdf](https://arxiv.org/pdf/2309.09826.pdf)
 
-15. VulLibGen: Identifying Vulnerable Third-Party Libraries via Generative Pre-Trained Model \
+15. Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives \
+    [https://arxiv.org/pdf/2310.01152.pdf](https://arxiv.org/pdf/2310.01152.pdf)
+
+16. VulLibGen: Identifying Vulnerable Third-Party Libraries via Generative Pre-Trained Model \
     [https://arxiv.org/pdf/2308.04662.pdf](https://arxiv.org/pdf/2308.04662.pdf)
 
-16. InferFix: End-to-End Program Repair with LLMs\
+17. InferFix: End-to-End Program Repair with LLMs\
     [https://arxiv.org/pdf/2303.07263.pdf](https://arxiv.org/pdf/2303.07263.pdf)
 
-17. Fixing Hardware Security Bugs with Large Language Models\
+18. Fixing Hardware Security Bugs with Large Language Models\
     [https://arxiv.org/pdf/2302.01215.pdf](https://arxiv.org/pdf/2302.01215.pdf)
 
-18. Unlocking Hardware Security Assurancee: The Potential of LLMs \
+19. Unlocking Hardware Security Assurancee: The Potential of LLMs \
     [https://arxiv.org/pdf/2308.11042.pdf](https://arxiv.org/pdf/2308.11042.pdf)
 
-19. Generating Secure Hardware using ChatGPT Resistant to CWEs \
+20. Generating Secure Hardware using ChatGPT Resistant to CWEs \
     围绕硬件设计实施常见的10个CWE，分别展示了生成带缺陷代码和安全代码的提示词场景 \
     [https://eprint.iacr.org/2023/212.pdf](https://eprint.iacr.org/2023/212.pdf)
 
-20. DIVAS: An LLM-based End-to-End Framework for SoC Security Analysis and Policy-based Protection \
+21. DIVAS: An LLM-based End-to-End Framework for SoC Security Analysis and Policy-based Protection \
     [https://arxiv.org/pdf/2308.06932.pdf](https://arxiv.org/pdf/2308.06932.pdf)
 
-21. Examining Zero-Shot Vulnerability Repair with Large Language Models\
+22. Examining Zero-Shot Vulnerability Repair with Large Language Models\
     [https://arxiv.org/pdf/2112.02125.pdf](https://arxiv.org/pdf/2112.02125.pdf)
 
-22. Practical Program Repair in the Era of Large Pre-trained Language Models\
+23. Practical Program Repair in the Era of Large Pre-trained Language Models\
     [https://arxiv.org/pdf/2210.14179.pdf](https://arxiv.org/pdf/2210.14179.pdf)
 
-23. An Analysis of the Automatic Bug Fixing Performance of ChatGPT\
+24. An Analysis of the Automatic Bug Fixing Performance of ChatGPT\
     [https://arxiv.org/pdf/2301.08653.pdf](https://arxiv.org/pdf/2301.08653.pdf)
 
-24. Automatic Program Repair with OpenAI's Codex: Evaluating QuixBugs\
+25. Automatic Program Repair with OpenAI's Codex: Evaluating QuixBugs\
     [https://arxiv.org/pdf/2111.03922.pdf](https://arxiv.org/pdf/2111.03922.pdf)
 
-25. How Effective Are Neural Networks for Fixing Security Vulnerabilities \
+26. How Effective Are Neural Networks for Fixing Security Vulnerabilities \
     [https://arxiv.org/pdf/2305.18607.pdf](https://arxiv.org/pdf/2305.18607.pdf)
 
-26. STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic Bug Fixing \
+27. STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic Bug Fixing \
     [https://arxiv.org/pdf/2308.14460.pdf](https://arxiv.org/pdf/2308.14460.pdf)
 
-27. ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel Patching \
+28. ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel Patching \
     [https://arxiv.org/pdf/2308.13062.pdf](https://arxiv.org/pdf/2308.13062.pdf)
 
-28. Better patching using LLM prompting, via Self-Consistency \
+29. Better patching using LLM prompting, via Self-Consistency \
     [https://arxiv.org/pdf/2306.00108.pdf](https://arxiv.org/pdf/2306.00108.pdf)
 
-29. Identifying Vulnerability Patches by Comprehending Code Commits with Comprehensive Change Contexts \
+30. Identifying Vulnerability Patches by Comprehending Code Commits with Comprehensive Change Contexts \
     [https://arxiv.org/pdf/2310.02530.pdf](https://arxiv.org/pdf/2310.02530.pdf)
 
-30. Towards JavaScript program repair with generative pre-trained transformer (GPT-2) \
+31. Towards JavaScript program repair with generative pre-trained transformer (GPT-2) \
     [https://dl.acm.org/doi/abs/10.1145/3524459.3527350](https://dl.acm.org/doi/abs/10.1145/3524459.3527350)
 
-31. Cupid: Leveraging ChatGPT for More Accurate Duplicate Bug Report Detection\
+32. Cupid: Leveraging ChatGPT for More Accurate Duplicate Bug Report Detection\
     [https://arxiv.org/pdf/2308.10022v2.pdf](https://arxiv.org/pdf/2308.10022v2.pdf)
 
-32. Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions\
+33. Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions\
     [https://arxiv.org/pdf/2108.09293.pdf](https://arxiv.org/pdf/2108.09293.pdf)
 
-33. Do Users Write More Insecure Code with AI Assistants?\
+34. Do Users Write More Insecure Code with AI Assistants?\
     [https://arxiv.org/pdf/2211.03622.pdf](https://arxiv.org/pdf/2211.03622.pdf)
 
-34. How Secure is Code Generated by ChatGPT?\
+35. How Secure is Code Generated by ChatGPT?\
     [https://arxiv.org/pdf/2304.09655.pdf](https://arxiv.org/pdf/2304.09655.pdf)
 
-35. Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants\
+36. Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants\
     [https://arxiv.org/pdf/2208.09727.pdf](https://arxiv.org/pdf/2208.09727.pdf)
 
-36. Evaluating Large Language Models Trained on Code\
+37. Evaluating Large Language Models Trained on Code\
     [https://arxiv.org/pdf/2107.03374.pdf](https://arxiv.org/pdf/2107.03374.pdf)
 
-37. No Need to Lift a Finger Anymore? Assessing the Quality of Code Generation by ChatGPT \
+38. No Need to Lift a Finger Anymore? Assessing the Quality of Code Generation by ChatGPT \
     [https://arxiv.org/pdf/2308.04838.pdf](https://arxiv.org/pdf/2308.04838.pdf)
 
-38. Assessing the Quality of GitHub Copilot's Code Generation\
+39. Assessing the Quality of GitHub Copilot's Code Generation\
     [https://dl.acm.org/doi/abs/10.1145/3558489.3559072](https://dl.acm.org/doi/abs/10.1145/3558489.3559072)
 
-39. Is GitHub's Copilot as Bad as Humans at Introducing Vulnerabilities in Code?\
+40. Is GitHub's Copilot as Bad as Humans at Introducing Vulnerabilities in Code?\
     [https://arxiv.org/pdf/2204.04741.pdf](https://arxiv.org/pdf/2204.04741.pdf)
 
-40. Neural Code Completion Tools Can Memorize Hard-coded Credentials\
+41. Neural Code Completion Tools Can Memorize Hard-coded Credentials\
     [https://arxiv.org/pdf/2309.07639.pdf](https://arxiv.org/pdf/2309.07639.pdf)
 
-41. BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT \
+42. BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT \
     [https://www.ndss-symposium.org/wp-content/uploads/2023/02/NDSS2023Poster_paper_7966.pdf](https://www.ndss-symposium.org/wp-content/uploads/2023/02/NDSS2023Poster_paper_7966.pdf)
 
-42. Teaching Large Language Models to Self-Debug\
+43. Teaching Large Language Models to Self-Debug\
     [https://arxiv.org/pdf/2304.05128.pdf](https://arxiv.org/pdf/2304.05128.pdf)
 
-43. Evaluating the Code Quality of AI-Assisted Code Generation Tools: An Empirical Study on GitHub Copilot, Amazon CodeWhisperer, and ChatGPT \
+44. Evaluating the Code Quality of AI-Assisted Code Generation Tools: An Empirical Study on GitHub Copilot, Amazon CodeWhisperer, and ChatGPT \
     [https://arxiv.org/pdf/2304.10778.pdf](https://arxiv.org/pdf/2304.10778.pdf)
 
-44. Fault-Aware Neural Code Rankers\
+45. Fault-Aware Neural Code Rankers\
     [https://arxiv.org/pdf/2206.03865.pdf](https://arxiv.org/pdf/2206.03865.pdf)
 
-45. Using Large Language Models to Enhance Programming Error Messages\
+46. Using Large Language Models to Enhance Programming Error Messages\
     [https://arxiv.org/pdf/2210.11630.pdf](https://arxiv.org/pdf/2210.11630.pdf)
 
-46. Controlling Large Language Models to Generate Secure and Vulnerable Code\
+47. Controlling Large Language Models to Generate Secure and Vulnerable Code\
     引用了Asleep at the keyboard? 使用了预训练模型，对LM的输出进行pre-train以控制输出的代码是安全的还是存在漏洞的\
     [https://arxiv.org/pdf/2302.05319.pdf](https://arxiv.org/pdf/2302.05319.pdf)
 
-47. Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models\
+48. Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models\
     针对“prompt中的微小变化可能导致漏洞”的问题，在"Asleep at the keyboard?"手动操作在基础上实现自动化发现\
     [https://arxiv.org/pdf/2302.04012.pdf](https://arxiv.org/pdf/2302.04012.pdf)
 
-48. SecurityEval Dataset: Mining Vulnerability Examples to Evaluate Machine Learning-Based Code Generation Techniques\
+49. SecurityEval Dataset: Mining Vulnerability Examples to Evaluate Machine Learning-Based Code Generation Techniques\
     在Systematically Finding Security Vulnerabilities in Black-Box Code Generation的论文中，把这篇论文看的很重，解决模型评估的数据集的问题\
     [https://dl.acm.org/doi/abs/10.1145/3549035.3561184](https://dl.acm.org/doi/abs/10.1145/3549035.3561184)
 
-49. Pop Quiz! Can a Large Language Model Help With Reverse Engineering \
+50. Pop Quiz! Can a Large Language Model Help With Reverse Engineering \
     [https://arxiv.org/pdf/2202.01142.pdf](https://arxiv.org/pdf/2202.01142.pdf)
 
-50. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models\
+51. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models\
     微软在ICSE2023上发布的论文，旨在利用LLM来缓解传统fuzz中的陷入“Coverage Plateaus”的问题\
     [https://www.carolemieux.com/codamosa_icse23.pdf](https://www.carolemieux.com/codamosa_icse23.pdf) 
 
-51. Understanding Large Language Model Based Fuzz Driver Generation \
+52. Understanding Large Language Model Based Fuzz Driver Generation \
     https://arxiv.org/abs/2307.12469
 
-52. ChatGPT for Software Security: Exploring the Strengths and Limitations of ChatGPT in the Security Applications \
+53. ChatGPT for Software Security: Exploring the Strengths and Limitations of ChatGPT in the Security Applications \
       https://arxiv.org/abs/2307.12488
 
 
@@ -293,6 +296,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     [https://browse.arxiv.org/pdf/2309.16422.pdf](https://browse.arxiv.org/pdf/2309.16422.pdf)
 7. AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation \
     [https://arxiv.org/pdf/2310.02655.pdf](https://arxiv.org/pdf/2310.02655.pdf)
+8. HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs) \
+    [https://arxiv.org/pdf/2309.16021.pdf](https://arxiv.org/pdf/2309.16021.pdf)
     
 ### 博客
 
@@ -423,17 +428,23 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 33. Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment \
     [https://arxiv.org/pdf/2308.09662.pdf](https://arxiv.org/pdf/2308.09662.pdf)
 
-34. A LLM Assisted Exploitation of AI-Guardian \
+34. Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language Models \
+    [https://arxiv.org/pdf/2310.00322.pdf](https://arxiv.org/pdf/2310.00322.pdf)
+
+35. A LLM Assisted Exploitation of AI-Guardian \
       [https://arxiv.org/pdf/2307.15008.pdf](https://arxiv.org/pdf/2307.15008.pdf)
 
-35. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher \
+36. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher \
     用摩斯、凯撒等加密密码，可向ChatGPT询问非法内容 \
       [https://arxiv.org/pdf/2308.06463.pdf](https://arxiv.org/pdf/2308.06463.pdf)
 
-36. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models \
+37. Model Leeching: An Extraction Attack Targeting LLMs\
+    [https://arxiv.org/pdf/2309.10544.pdf](https://arxiv.org/pdf/2309.10544.pdf)
+
+38. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models \
     [https://arxiv.org/pdf/2308.03825.pdf](https://arxiv.org/pdf/2308.03825.pdf)
 
-37. LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins \
+39. LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins \
     主页：https://llm-platform-security.github.io/chatgpt-plugin-eval/ \
     开源项目：[chatgpt-plugin-eval](https://github.com/llm-platform-security/chatgpt-plugin-eval)
     [https://arxiv.org/pdf/2309.10254v1.pdf](https://arxiv.org/pdf/2309.10254v1.pdf)    
@@ -493,6 +504,9 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 4. Hide and Seek (HaS): A Lightweight Framework for Prompt Privacy Protection \
     [https://arxiv.org/pdf/2309.03057.pdf](https://arxiv.org/pdf/2309.03057.pdf)
+
+5. Knowledge Sanitization of Large Language Models \
+    [https://arxiv.org/pdf/2309.11852.pdf](https://arxiv.org/pdf/2309.11852.pdf)
 
 ## 以安全数据训练GPT
 
