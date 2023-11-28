@@ -512,6 +512,13 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 5. Knowledge Sanitization of Large Language Models \
     [https://arxiv.org/pdf/2309.11852.pdf](https://arxiv.org/pdf/2309.11852.pdf)
 
+6. PrivateLoRA For Efficient Privacy Preserving LLM \
+    [https://arxiv.org/pdf/2311.14030.pdf](https://arxiv.org/pdf/2311.14030.pdf)
+
+7. Don’t forget private retrieval: distributed private similarity search for large language models \
+    [https://arxiv.org/pdf/2311.12955.pdf](https://arxiv.org/pdf/2311.12955.pdf)
+
+
 ## 以安全数据训练GPT
 
 {% hint style="info" %}
