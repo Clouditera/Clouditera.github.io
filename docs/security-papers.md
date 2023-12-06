@@ -399,64 +399,70 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 20. Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection \
     [https://arxiv.org/pdf/2302.12173.pdf](https://arxiv.org/pdf/2302.12173.pdf)
     
-21. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned \
+21. Identifying and Mitigating Vulnerabilities in LLM-Integrated Applications \
+    [https://arxiv.org/pdf/2311.16153.pdf](https://arxiv.org/pdf/2311.16153.pdf)
+
+22. Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned \
     [https://arxiv.org/pdf/2209.07858.pdf](https://arxiv.org/pdf/2209.07858.pdf)
     
-22. Explore, Establish, Exploit: Red Teaming Language Models from Scratch \
+23. Explore, Establish, Exploit: Red Teaming Language Models from Scratch \
     [https://arxiv.org/pdf/2306.09442.pdf](https://arxiv.org/pdf/2306.09442.pdf)
     
-23. Beyond the Safeguards: Exploring the Security Risks of ChatGPT \
+24. Beyond the Safeguards: Exploring the Security Risks of ChatGPT \
     [https://arxiv.org/pdf/2305.08005.pdf](https://arxiv.org/pdf/2305.08005.pdf)
     
-24. ProPILE: Probing Privacy Leakage in Large Language Models \
+25. ProPILE: Probing Privacy Leakage in Large Language Models \
     [https://arxiv.org/pdf/2307.01881.pdf](https://arxiv.org/pdf/2307.01881.pdf)
     
-25. Analyzing Leakage of Personally Identifiable Information in Language Models \
+26. Analyzing Leakage of Personally Identifiable Information in Language Models \
     [https://ieeexplore.ieee.org/document/10179300](https://ieeexplore.ieee.org/document/10179300)
 
-26. Can We Generate Shellcodes via Natural Language? An Empirical Study\
+27. Can We Generate Shellcodes via Natural Language? An Empirical Study\
     [https://link.springer.com/article/10.1007/s10515-022-00331-3](https://link.springer.com/article/10.1007/s10515-022-00331-3)
     
-27. RatGPT: Turning online LLMs into Proxies for Malware Attacks \
+28. RatGPT: Turning online LLMs into Proxies for Malware Attacks \
     [https://arxiv.org/pdf/2308.09183.pdf](https://arxiv.org/pdf/2308.09183.pdf)
 
-28. Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations \
+29. Chatbots to ChatGPT in a Cybersecurity Space: Evolution, Vulnerabilities, Attacks, Challenges, and Future Recommendations \
     [https://arxiv.org/pdf/2306.09255.pdf](https://arxiv.org/pdf/2306.09255.pdf)
     
-29. BadPrompt: Backdoor Attacks on Continuous Prompts\
+30. BadPrompt: Backdoor Attacks on Continuous Prompts\
     南开大学在NeurIPS 2022上发表的论文，小样本场景下通过连续prompt对大模型后门攻击 \
     [https://arxiv.org/pdf/2211.14719.pdf](https://arxiv.org/pdf/2211.14719.pdf)
     
-30. LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors \
+31. LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors \
     [https://arxiv.org/pdf/2308.13904.pdf](https://arxiv.org/pdf/2308.13904.pdf)
 
-31. A Comprehensive Overview of Backdoor Attacks in Large Language Models within Communication Networks \
+32. A Comprehensive Overview of Backdoor Attacks in Large Language Models within Communication Networks \
     [https://arxiv.org/pdf/2308.14367.pdf](https://arxiv.org/pdf/2308.14367.pdf)
 
-32. Universal and Transferable Adversarial Attacks on Aligned Language Models \
+33. Universal and Transferable Adversarial Attacks on Aligned Language Models \
     [https://arxiv.org/pdf/2307.15043.pdf](https://arxiv.org/pdf/2307.15043.pdf) \
     [https://llm-attacks.org](https://llm-attacks.org)
 
-33. Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment \
+34. Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment \
     [https://arxiv.org/pdf/2308.09662.pdf](https://arxiv.org/pdf/2308.09662.pdf)
 
-34. Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language Models \
+35. Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language Models \
     [https://arxiv.org/pdf/2310.00322.pdf](https://arxiv.org/pdf/2310.00322.pdf)
 
-35. A LLM Assisted Exploitation of AI-Guardian \
+36. A LLM Assisted Exploitation of AI-Guardian \
       [https://arxiv.org/pdf/2307.15008.pdf](https://arxiv.org/pdf/2307.15008.pdf)
 
-36. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher \
+37. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher \
     用摩斯、凯撒等加密密码，可向ChatGPT询问非法内容 \
       [https://arxiv.org/pdf/2308.06463.pdf](https://arxiv.org/pdf/2308.06463.pdf)
 
-37. Model Leeching: An Extraction Attack Targeting LLMs\
+38. Model Leeching: An Extraction Attack Targeting LLMs\
     [https://arxiv.org/pdf/2309.10544.pdf](https://arxiv.org/pdf/2309.10544.pdf)
 
-38. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models \
+39. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models \
     [https://arxiv.org/pdf/2308.03825.pdf](https://arxiv.org/pdf/2308.03825.pdf)
 
-39. LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins \
+40. Tree of Attacks: Jailbreaking Black-Box LLMs Automatically \
+    [https://arxiv.org/pdf/2312.02119.pdf](https://arxiv.org/pdf/2312.02119.pdf)
+
+41. LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins \
     主页：https://llm-platform-security.github.io/chatgpt-plugin-eval/ \
     开源项目：[chatgpt-plugin-eval](https://github.com/llm-platform-security/chatgpt-plugin-eval)
     [https://arxiv.org/pdf/2309.10254v1.pdf](https://arxiv.org/pdf/2309.10254v1.pdf)    
