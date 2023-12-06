@@ -28,6 +28,9 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 10. ChatGPT暗黑版——FraudGPT \
     [https://hackernoon.com/what-is-fraudgpt](https://hackernoon.com/what-is-fraudgpt)
 
+## 实践指南
+
+1. 安全人工智能系统开发指南（[译文](https://github.com/mo-xiaoxi/GPTSecurity/tree/main/docs/.gitbook/assets/安全人工智能系统开发指南译文.docx)）
 
 ## 软件供应链安全
 
