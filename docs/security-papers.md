@@ -203,17 +203,23 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     在Systematically Finding Security Vulnerabilities in Black-Box Code Generation的论文中，把这篇论文看的很重，解决模型评估的数据集的问题\
     [https://dl.acm.org/doi/abs/10.1145/3549035.3561184](https://dl.acm.org/doi/abs/10.1145/3549035.3561184)
 
-54. Pop Quiz! Can a Large Language Model Help With Reverse Engineering \
+54. Exploring the Limits of ChatGPT in Software Security Applications \
+    [https://arxiv.org/pdf/2312.05275.pdf](https://arxiv.org/pdf/2312.05275.pdf)
+
+55. Purple Llama CYBERSECEVAL: A Secure Coding Benchmark for Language Models \
+    [https://arxiv.org/pdf/2312.04724.pdf](https://arxiv.org/pdf/2312.04724.pdf)
+
+56. Pop Quiz! Can a Large Language Model Help With Reverse Engineering \
     [https://arxiv.org/pdf/2202.01142.pdf](https://arxiv.org/pdf/2202.01142.pdf)
 
-55. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models\
+57. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models\
     微软在ICSE2023上发布的论文，旨在利用LLM来缓解传统fuzz中的陷入“Coverage Plateaus”的问题\
     [https://www.carolemieux.com/codamosa_icse23.pdf](https://www.carolemieux.com/codamosa_icse23.pdf) 
 
-56. Understanding Large Language Model Based Fuzz Driver Generation \
+58. Understanding Large Language Model Based Fuzz Driver Generation \
     https://arxiv.org/abs/2307.12469
 
-57. ChatGPT for Software Security: Exploring the Strengths and Limitations of ChatGPT in the Security Applications \
+59. ChatGPT for Software Security: Exploring the Strengths and Limitations of ChatGPT in the Security Applications \
       https://arxiv.org/abs/2307.12488
 
 
