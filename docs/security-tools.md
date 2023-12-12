@@ -178,6 +178,19 @@ Callisto是一款智能的自动化二进制漏洞挖掘工具。在Semgrep SAST
 **链接：** [https://github.com/EC-DIGIT-CSIRC/openai-cti-summarizer](https://github.com/EC-DIGIT-CSIRC/openai-cti-summarizer)
 
 
+### AutoMSS
+
+**简介：** AutoMSS是基于AI Agent实现的针对安全事件自动化分析研判的安全托管运营系统。
+为了能够自动化的对安全事件进行分析研判，我们结合LLM以及AI Agent通过一下几个步骤，来提供安全人员的研判效率。
+首先，从开始部分输入安全事件记录， 由经过微调后的Chatglm2-6B的微调模型对该事件进行分类。
+然后，根据分类后的结果，使用对应的prompt模板对ChatGLM-pro大模型进行请求，大模型根据向量库中的知识以及自身的逻辑推理能力，生成该类事件的分析研判流程。
+接着，Agent 根据事件的分析研判流程通过调用工具、访问大模型、请求网络等方式来对该事件进行研判。
+最后，根据分析的结果输出研判结论以及形成对应的研判报告。
+
+**链接：** [https://github.com/1700111005/autoMSS](https://github.com/1700111005/autoMSS)
+
+
+
 ### Codamosa
 
 **简介：** CodaMOSA是CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models的论文代码，实现了一款结合了OpenAI API的fuzzer，旨在缓解传统fuzz中陷入覆盖率停滞不前的问题。
