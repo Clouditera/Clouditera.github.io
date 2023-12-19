@@ -31,6 +31,7 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 ## 实践指南
 
 1. 安全人工智能系统开发指南（[译文](https://github.com/mo-xiaoxi/GPTSecurity/tree/main/docs/.gitbook/assets/安全人工智能系统开发指南译文.docx)）
+2. Guidelines for secure AI system development([原文]https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development/guidelines/secure-design)
 
 ## 软件供应链安全
 
@@ -474,7 +475,27 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 41. LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins \
     主页：https://llm-platform-security.github.io/chatgpt-plugin-eval/ \
     开源项目：[chatgpt-plugin-eval](https://github.com/llm-platform-security/chatgpt-plugin-eval)
-    [https://arxiv.org/pdf/2309.10254v1.pdf](https://arxiv.org/pdf/2309.10254v1.pdf)    
+    [https://arxiv.org/pdf/2309.10254v1.pdf](https://arxiv.org/pdf/2309.10254v1.pdf)
+42. Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition \
+    [https://aclanthology.org/2023.emnlp-main.302.pdf]
+43. ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger \
+    [https://arxiv.org/pdf/2304.14475.pdf]
+44. JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models \
+    [https://arxiv.org/pdf/2311.00286.pdf]
+45. Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield \
+    [https://arxiv.org/pdf/2311.00172.pdf]
+46. BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B \
+    [https://arxiv.org/pdf/2311.00117.pdf]
+47. Constitutional AI: Harmlessness from AI Feedback \
+    [https://arxiv.org/abs/2212.08073.pdf]
+48. Silent Guardian: Protecting Text from Malicious Exploitation by Large Language Models \
+    [https://arxiv.org/abs/2312.09669.pdf]
+49. Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs \
+    [https://arxiv.org/abs/2308.13387.pdf]
+50. Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models \
+    [https://arxiv.org/abs/2305.01219.pdf]
+51. Detecting Language Model Attacks with Perplexity \
+    [https://arxiv.org/abs/2308.14132v3.pdf]
 
 ### 博客
 
@@ -511,6 +532,10 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
       论文地址：https://arxiv.org/abs/2307.15043 \
       代码地址：https://github.com/llm-attacks/llm-attacks \
       [https://mp.weixin.qq.com/s/298nwP98UdRNybV2Fuo6Wg](https://mp.weixin.qq.com/s/298nwP98UdRNybV2Fuo6Wg)
+14. Challenges in evaluating AI systems \
+    [https://www.anthropic.com/index/evaluating-ai-systems]
+15. Core Views on AI Safety: When, Why, What, and How \
+    [https://www.anthropic.com/index/core-views-on-ai-safety]
 
 ## 大模型隐私保护
 
