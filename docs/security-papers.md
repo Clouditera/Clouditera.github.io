@@ -221,8 +221,10 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     https://arxiv.org/abs/2307.12469
 
 59. ChatGPT for Software Security: Exploring the Strengths and Limitations of ChatGPT in the Security Applications \
-      https://arxiv.org/abs/2307.12488
-
+    https://arxiv.org/abs/2307.12488
+    
+61. How well does LLM generate security tests? \
+    [https://arxiv.org/pdf/2310.00710.pdf](https://arxiv.org/pdf/2310.00710.pdf)
 
 ### 博客
 
