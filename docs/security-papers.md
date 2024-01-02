@@ -322,7 +322,9 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     [https://browse.arxiv.org/pdf/2309.16422.pdf](https://browse.arxiv.org/pdf/2309.16422.pdf)
 7. AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation \
     [https://arxiv.org/pdf/2310.02655.pdf](https://arxiv.org/pdf/2310.02655.pdf)
-8. HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs) \
+8. ChatGPT, Llama, can you write my report? An experiment on assisted digital forensics reports written using (Local) Large Language Models \
+    [https://arxiv.org/pdf/2312.14607.pdf](https://arxiv.org/pdf/2312.14607.pdf)
+9. HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs) \
     [https://arxiv.org/pdf/2309.16021.pdf](https://arxiv.org/pdf/2309.16021.pdf)
     
 ### 博客
