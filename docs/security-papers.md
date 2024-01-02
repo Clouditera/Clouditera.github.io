@@ -291,6 +291,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 7. LLM in the Shell: Generative Honeypots \
    借助LLM打造智能的高交互蜜罐 \
    [https://arxiv.org/pdf/2309.00155.pdf](https://arxiv.org/pdf/2309.00155.pdf)
+8. What Does an LLM-Powered Threat Intelligence Program Look Like? \
+   [http://i.blackhat.com/BH-US-23/Presentations/US-23-Grof-Miller-LLM-Powered-TI-Program.pdf](http://i.blackhat.com/BH-US-23/Presentations/US-23-Grof-Miller-LLM-Powered-TI-Program.pdf)
 
 ### 博客
 
