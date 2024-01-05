@@ -216,20 +216,23 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 57. Purple Llama CYBERSECEVAL: A Secure Coding Benchmark for Language Models \
     [https://arxiv.org/pdf/2312.04724.pdf](https://arxiv.org/pdf/2312.04724.pdf)
 
-58. Pop Quiz! Can a Large Language Model Help With Reverse Engineering \
+58. Can Large Language Models Identify And Reason About Security Vulnerabilities? Not Yet \
+    [https://arxiv.org/pdf/2312.12575.pdf](https://arxiv.org/pdf/2312.12575.pdf)
+
+59. Pop Quiz! Can a Large Language Model Help With Reverse Engineering \
     [https://arxiv.org/pdf/2202.01142.pdf](https://arxiv.org/pdf/2202.01142.pdf)
 
-59. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models\
+60. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models\
     微软在ICSE2023上发布的论文，旨在利用LLM来缓解传统fuzz中的陷入“Coverage Plateaus”的问题\
     [https://www.carolemieux.com/codamosa_icse23.pdf](https://www.carolemieux.com/codamosa_icse23.pdf) 
 
-60. Understanding Large Language Model Based Fuzz Driver Generation \
+61. Understanding Large Language Model Based Fuzz Driver Generation \
     https://arxiv.org/abs/2307.12469
 
-61. ChatGPT for Software Security: Exploring the Strengths and Limitations of ChatGPT in the Security Applications \
+62. ChatGPT for Software Security: Exploring the Strengths and Limitations of ChatGPT in the Security Applications \
     https://arxiv.org/abs/2307.12488
     
-62. How well does LLM generate security tests? \
+63. How well does LLM generate security tests? \
     [https://arxiv.org/pdf/2310.00710.pdf](https://arxiv.org/pdf/2310.00710.pdf)
 
 ### 博客
