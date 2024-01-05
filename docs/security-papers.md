@@ -596,7 +596,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
    [https://arxiv.org/pdf/2305.05027.pdf](https://arxiv.org/pdf/2305.05027.pdf)
 
 2. HackMentor: Fine-Tuning Large Language Models for Cybersecurity \
-    论文接收尚未公开。项目地址：[https://github.com/tmylla/HackMentor](https://github.com/tmylla/HackMentor)
+    论文发布：[https://github.com/tmylla/HackMentor/blob/main/HackMentor.pdf](https://github.com/tmylla/HackMentor/blob/main/HackMentor.pdf) \
+    项目地址：[https://github.com/tmylla/HackMentor](https://github.com/tmylla/HackMentor)
 
 3. LLMs Perform Poorly at Concept Extraction in Cyber-security Research Literature \
     [https://arxiv.org/pdf/2312.07110.pdf](https://arxiv.org/pdf/2312.07110.pdf)
