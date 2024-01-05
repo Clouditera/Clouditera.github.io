@@ -335,6 +335,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     [https://arxiv.org/pdf/2312.14607.pdf](https://arxiv.org/pdf/2312.14607.pdf)
 9. HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs) \
     [https://arxiv.org/pdf/2309.16021.pdf](https://arxiv.org/pdf/2309.16021.pdf)
+10. Benchmarking Large Language Models for Log Analysis, Security, and Interpretation \
+    [https://arxiv.org/pdf/2311.14519.pdf](https://arxiv.org/pdf/2311.14519.pdf)
     
 ### 博客
 
