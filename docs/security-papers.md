@@ -601,6 +601,10 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 3. LLMs Perform Poorly at Concept Extraction in Cyber-security Research Literature \
     [https://arxiv.org/pdf/2312.07110.pdf](https://arxiv.org/pdf/2312.07110.pdf)
+
+4. netFound: Foundation Model for Network Security \
+   网络安全基础大模型 \
+    [https://arxiv.org/pdf/2310.17025.pdf](https://arxiv.org/pdf/2310.17025.pdf)
    
 ### 博客
 
