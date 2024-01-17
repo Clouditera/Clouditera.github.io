@@ -476,42 +476,45 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 36. A LLM Assisted Exploitation of AI-Guardian \
       [https://arxiv.org/pdf/2307.15008.pdf](https://arxiv.org/pdf/2307.15008.pdf)
 
-37. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher \
+37. The Art of Defending: A Systematic Evaluation and Analysis of LLM Defense Strategies on Safety and Over-Defensiveness \
+    [https://arxiv.org/pdf/2401.00287.pdf](https://arxiv.org/pdf/2401.00287.pdf)
+
+38. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher \
     用摩斯、凯撒等加密密码，可向ChatGPT询问非法内容 \
       [https://arxiv.org/pdf/2308.06463.pdf](https://arxiv.org/pdf/2308.06463.pdf)
 
-38. Model Leeching: An Extraction Attack Targeting LLMs\
+39. Model Leeching: An Extraction Attack Targeting LLMs\
     [https://arxiv.org/pdf/2309.10544.pdf](https://arxiv.org/pdf/2309.10544.pdf)
 
-39. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models \
+40. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models \
     [https://arxiv.org/pdf/2308.03825.pdf](https://arxiv.org/pdf/2308.03825.pdf)
 
-40. Tree of Attacks: Jailbreaking Black-Box LLMs Automatically \
+41. Tree of Attacks: Jailbreaking Black-Box LLMs Automatically \
     [https://arxiv.org/pdf/2312.02119.pdf](https://arxiv.org/pdf/2312.02119.pdf)
 
-41. LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins \
+42. LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins \
     主页：https://llm-platform-security.github.io/chatgpt-plugin-eval/ \
     开源项目：[chatgpt-plugin-eval](https://github.com/llm-platform-security/chatgpt-plugin-eval)
     [https://arxiv.org/pdf/2309.10254v1.pdf](https://arxiv.org/pdf/2309.10254v1.pdf)
-42. Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition \
+43. Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition \
     [https://aclanthology.org/2023.emnlp-main.302.pdf]
-43. ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger \
+44. ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger \
     [https://arxiv.org/pdf/2304.14475.pdf]
-44. JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models \
+45. JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models \
     [https://arxiv.org/pdf/2311.00286.pdf]
-45. Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield \
+46. Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield \
     [https://arxiv.org/pdf/2311.00172.pdf]
-46. BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B \
+47. BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B \
     [https://arxiv.org/pdf/2311.00117.pdf]
-47. Constitutional AI: Harmlessness from AI Feedback \
+48. Constitutional AI: Harmlessness from AI Feedback \
     [https://arxiv.org/abs/2212.08073.pdf]
-48. Silent Guardian: Protecting Text from Malicious Exploitation by Large Language Models \
+49. Silent Guardian: Protecting Text from Malicious Exploitation by Large Language Models \
     [https://arxiv.org/abs/2312.09669.pdf]
-49. Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs \
+50. Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs \
     [https://arxiv.org/abs/2308.13387.pdf]
-50. Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models \
+51. Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models \
     [https://arxiv.org/abs/2305.01219.pdf]
-51. Detecting Language Model Attacks with Perplexity \
+52. Detecting Language Model Attacks with Perplexity \
     [https://arxiv.org/abs/2308.14132v3.pdf]
 
 ### 博客
