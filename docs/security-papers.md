@@ -475,58 +475,61 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 33. A Comprehensive Overview of Backdoor Attacks in Large Language Models within Communication Networks \
     [https://arxiv.org/pdf/2308.14367.pdf](https://arxiv.org/pdf/2308.14367.pdf)
 
-34. Universal and Transferable Adversarial Attacks on Aligned Language Models \
+34. BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models \
+    [https://arxiv.org/pdf/2401.12242.pdf](https://arxiv.org/pdf/2401.12242.pdf)
+
+35. Universal and Transferable Adversarial Attacks on Aligned Language Models \
     [https://arxiv.org/pdf/2307.15043.pdf](https://arxiv.org/pdf/2307.15043.pdf) \
     [https://llm-attacks.org](https://llm-attacks.org)
 
-35. Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment \
+36. Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment \
     [https://arxiv.org/pdf/2308.09662.pdf](https://arxiv.org/pdf/2308.09662.pdf)
 
-36. Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language Models \
+37. Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language Models \
     [https://arxiv.org/pdf/2310.00322.pdf](https://arxiv.org/pdf/2310.00322.pdf)
 
-37. A LLM Assisted Exploitation of AI-Guardian \
+38. A LLM Assisted Exploitation of AI-Guardian \
       [https://arxiv.org/pdf/2307.15008.pdf](https://arxiv.org/pdf/2307.15008.pdf)
 
-38. The Art of Defending: A Systematic Evaluation and Analysis of LLM Defense Strategies on Safety and Over-Defensiveness \
+39. The Art of Defending: A Systematic Evaluation and Analysis of LLM Defense Strategies on Safety and Over-Defensiveness \
     [https://arxiv.org/pdf/2401.00287.pdf](https://arxiv.org/pdf/2401.00287.pdf)
 
-39. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher \
+40. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher \
     用摩斯、凯撒等加密密码，可向ChatGPT询问非法内容 \
       [https://arxiv.org/pdf/2308.06463.pdf](https://arxiv.org/pdf/2308.06463.pdf)
 
-40. Model Leeching: An Extraction Attack Targeting LLMs\
+41. Model Leeching: An Extraction Attack Targeting LLMs\
     [https://arxiv.org/pdf/2309.10544.pdf](https://arxiv.org/pdf/2309.10544.pdf)
 
-41. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models \
+42. "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models \
     [https://arxiv.org/pdf/2308.03825.pdf](https://arxiv.org/pdf/2308.03825.pdf)
 
-42. Tree of Attacks: Jailbreaking Black-Box LLMs Automatically \
+43. Tree of Attacks: Jailbreaking Black-Box LLMs Automatically \
     [https://arxiv.org/pdf/2312.02119.pdf](https://arxiv.org/pdf/2312.02119.pdf)
 
-43. LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins \
+44. LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins \
     主页：https://llm-platform-security.github.io/chatgpt-plugin-eval/ \
     开源项目：[chatgpt-plugin-eval](https://github.com/llm-platform-security/chatgpt-plugin-eval)
     [https://arxiv.org/pdf/2309.10254v1.pdf](https://arxiv.org/pdf/2309.10254v1.pdf)
-44. Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition \
+45. Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition \
     [https://aclanthology.org/2023.emnlp-main.302.pdf]
-45. ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger \
+46. ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger \
     [https://arxiv.org/pdf/2304.14475.pdf]
-46. JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models \
+47. JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models \
     [https://arxiv.org/pdf/2311.00286.pdf]
-47. Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield \
+48. Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield \
     [https://arxiv.org/pdf/2311.00172.pdf]
-48. BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B \
+49. BadLlama: cheaply removing safety fine-tuning from Llama 2-Chat 13B \
     [https://arxiv.org/pdf/2311.00117.pdf]
-49. Constitutional AI: Harmlessness from AI Feedback \
+50. Constitutional AI: Harmlessness from AI Feedback \
     [https://arxiv.org/abs/2212.08073.pdf]
-50. Silent Guardian: Protecting Text from Malicious Exploitation by Large Language Models \
+51. Silent Guardian: Protecting Text from Malicious Exploitation by Large Language Models \
     [https://arxiv.org/abs/2312.09669.pdf]
-51. Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs \
+52. Do-Not-Answer: A Dataset for Evaluating Safeguards in LLMs \
     [https://arxiv.org/abs/2308.13387.pdf]
-52. Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models \
+53. Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models \
     [https://arxiv.org/abs/2305.01219.pdf]
-53. Detecting Language Model Attacks with Perplexity \
+54. Detecting Language Model Attacks with Perplexity \
     [https://arxiv.org/abs/2308.14132v3.pdf]
 
 ### 博客
