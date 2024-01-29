@@ -186,59 +186,62 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 48. Is GitHub's Copilot as Bad as Humans at Introducing Vulnerabilities in Code?\
     [https://arxiv.org/pdf/2204.04741.pdf](https://arxiv.org/pdf/2204.04741.pdf)
 
-49. Neural Code Completion Tools Can Memorize Hard-coded Credentials\
+49. How ChatGPT is Solving Vulnerability Management Problem \
+    [https://arxiv.org/pdf/2311.06530.pdf](https://arxiv.org/pdf/2311.06530.pdf)
+
+50. Neural Code Completion Tools Can Memorize Hard-coded Credentials\
     [https://arxiv.org/pdf/2309.07639.pdf](https://arxiv.org/pdf/2309.07639.pdf)
 
-50. BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT \
+51. BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT \
     [https://www.ndss-symposium.org/wp-content/uploads/2023/02/NDSS2023Poster_paper_7966.pdf](https://www.ndss-symposium.org/wp-content/uploads/2023/02/NDSS2023Poster_paper_7966.pdf)
 
-51. Teaching Large Language Models to Self-Debug\
+52. Teaching Large Language Models to Self-Debug\
     [https://arxiv.org/pdf/2304.05128.pdf](https://arxiv.org/pdf/2304.05128.pdf)
 
-52. Evaluating the Code Quality of AI-Assisted Code Generation Tools: An Empirical Study on GitHub Copilot, Amazon CodeWhisperer, and ChatGPT \
+53. Evaluating the Code Quality of AI-Assisted Code Generation Tools: An Empirical Study on GitHub Copilot, Amazon CodeWhisperer, and ChatGPT \
     [https://arxiv.org/pdf/2304.10778.pdf](https://arxiv.org/pdf/2304.10778.pdf)
 
-53. Fault-Aware Neural Code Rankers\
+54. Fault-Aware Neural Code Rankers\
     [https://arxiv.org/pdf/2206.03865.pdf](https://arxiv.org/pdf/2206.03865.pdf)
 
-54. Using Large Language Models to Enhance Programming Error Messages\
+55. Using Large Language Models to Enhance Programming Error Messages\
     [https://arxiv.org/pdf/2210.11630.pdf](https://arxiv.org/pdf/2210.11630.pdf)
 
-55. Controlling Large Language Models to Generate Secure and Vulnerable Code\
+56. Controlling Large Language Models to Generate Secure and Vulnerable Code\
     引用了Asleep at the keyboard? 使用了预训练模型，对LM的输出进行pre-train以控制输出的代码是安全的还是存在漏洞的\
     [https://arxiv.org/pdf/2302.05319.pdf](https://arxiv.org/pdf/2302.05319.pdf)
 
-56. Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models\
+57. Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models\
     针对“prompt中的微小变化可能导致漏洞”的问题，在"Asleep at the keyboard?"手动操作在基础上实现自动化发现\
     [https://arxiv.org/pdf/2302.04012.pdf](https://arxiv.org/pdf/2302.04012.pdf)
 
-57. SecurityEval Dataset: Mining Vulnerability Examples to Evaluate Machine Learning-Based Code Generation Techniques\
+58. SecurityEval Dataset: Mining Vulnerability Examples to Evaluate Machine Learning-Based Code Generation Techniques\
     在Systematically Finding Security Vulnerabilities in Black-Box Code Generation的论文中，把这篇论文看的很重，解决模型评估的数据集的问题\
     [https://dl.acm.org/doi/abs/10.1145/3549035.3561184](https://dl.acm.org/doi/abs/10.1145/3549035.3561184)
 
-58. Exploring the Limits of ChatGPT in Software Security Applications \
+59. Exploring the Limits of ChatGPT in Software Security Applications \
     [https://arxiv.org/pdf/2312.05275.pdf](https://arxiv.org/pdf/2312.05275.pdf)
 
-59. Purple Llama CYBERSECEVAL: A Secure Coding Benchmark for Language Models \
+60. Purple Llama CYBERSECEVAL: A Secure Coding Benchmark for Language Models \
     [https://arxiv.org/pdf/2312.04724.pdf](https://arxiv.org/pdf/2312.04724.pdf)
 
-60. Can Large Language Models Identify And Reason About Security Vulnerabilities? Not Yet \
+61. Can Large Language Models Identify And Reason About Security Vulnerabilities? Not Yet \
     [https://arxiv.org/pdf/2312.12575.pdf](https://arxiv.org/pdf/2312.12575.pdf)
 
-61. Pop Quiz! Can a Large Language Model Help With Reverse Engineering \
+62. Pop Quiz! Can a Large Language Model Help With Reverse Engineering \
     [https://arxiv.org/pdf/2202.01142.pdf](https://arxiv.org/pdf/2202.01142.pdf)
 
-62. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models\
+63. CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models\
     微软在ICSE2023上发布的论文，旨在利用LLM来缓解传统fuzz中的陷入“Coverage Plateaus”的问题\
     [https://www.carolemieux.com/codamosa_icse23.pdf](https://www.carolemieux.com/codamosa_icse23.pdf) 
 
-63. Understanding Large Language Model Based Fuzz Driver Generation \
+64. Understanding Large Language Model Based Fuzz Driver Generation \
     https://arxiv.org/abs/2307.12469
 
-64. ChatGPT for Software Security: Exploring the Strengths and Limitations of ChatGPT in the Security Applications \
+65. ChatGPT for Software Security: Exploring the Strengths and Limitations of ChatGPT in the Security Applications \
     https://arxiv.org/abs/2307.12488
     
-65. How well does LLM generate security tests? \
+66. How well does LLM generate security tests? \
     [https://arxiv.org/pdf/2310.00710.pdf](https://arxiv.org/pdf/2310.00710.pdf)
 
 ### 博客
