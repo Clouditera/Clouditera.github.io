@@ -141,6 +141,11 @@ Callisto是一款智能的自动化二进制漏洞挖掘工具。在Semgrep SAST
 
 **链接：** [https://github.com/WPeace-HcH/WPeChatGPT](https://github.com/WPeace-HcH/WPeChatGPT)
 
+### HackerGPT-2.0
+
+**简介：** HackerGPT-2.0的定位是漏洞赏金猎人的AI助手，配备了广泛前沿的知识数据库，包含相关技术、工具和策略等知识。据开发者称，HackerGPT-2.0在使用过程中会为用户安全地处理每个查询，特别是在移除个人敏感信息后再与OpenAI等外部模块进行交互。
+
+**链接：** [https://github.com/Hacker-GPT/HackerGPT-2.0](https://github.com/Hacker-GPT/HackerGPT-2.0)
 
 ### PentestGPT
 
