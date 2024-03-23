@@ -45,7 +45,7 @@ GPTSecurity不仅关注当前的技术和趋势，更希望成为塑造未来安
 
 ## 致谢
 
-我们感谢新一代智能模糊测试的领跑者——[云起无垠](https://clouditera.com/)发起并运营该项目, 衷心感谢每一位参与和支持 GPTSecurity 发展的朋友。正是有了您的热情投入和无私贡献，我们才得以将 GPTSecurity 打造成一个汇聚 GPT、AIGC 和 LLM 在安全领域应用的知识库，共同推动安全领域智能革命的发展。
+我们感谢新一代AI赋能网络安全实践者——[云起无垠](https://clouditera.com/)发起并运营该项目, 衷心感谢每一位参与和支持 GPTSecurity 发展的朋友。正是有了您的热情投入和无私贡献，我们才得以将 GPTSecurity 打造成一个汇聚 GPT、AIGC 和 LLM 在安全领域应用的知识库，共同推动安全领域智能革命的发展。
 
 [![](https://contrib.rocks/image?repo=mo-xiaoxi/GPTSecurity)](https://github.com/mo-xiaoxi/GPTSecurity/graphs/contributors)
 

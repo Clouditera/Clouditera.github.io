@@ -30,8 +30,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
 
 ## 实践指南
 
-1. 安全人工智能系统开发指南（[译文](https://github.com/mo-xiaoxi/GPTSecurity/tree/main/docs/.gitbook/assets/安全人工智能系统开发指南译文.docx)）
-2. Guidelines for secure AI system development([原文]https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development/guidelines/secure-design)
+1. [安全人工智能系统开发指南](https://github.com/mo-xiaoxi/GPTSecurity/tree/main/docs/.gitbook/assets/安全人工智能系统开发指南译文.docx)
+2. [Guidelines for secure AI system development](https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development/guidelines/secure-design)
 
 ## 软件供应链安全
 
@@ -597,10 +597,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
       论文地址：https://arxiv.org/abs/2307.15043 \
       代码地址：https://github.com/llm-attacks/llm-attacks \
       [https://mp.weixin.qq.com/s/298nwP98UdRNybV2Fuo6Wg](https://mp.weixin.qq.com/s/298nwP98UdRNybV2Fuo6Wg)
-14. Challenges in evaluating AI systems \
-    [https://www.anthropic.com/index/evaluating-ai-systems]
-15. Core Views on AI Safety: When, Why, What, and How \
-    [https://www.anthropic.com/index/core-views-on-ai-safety]
+14. [Challenges in evaluating AI systems](https://www.anthropic.com/index/evaluating-ai-systems)
+15. [Core Views on AI Safety: When, Why, What, and How](https://www.anthropic.com/index/core-views-on-ai-safety)
 
 ## 大模型隐私保护
 
