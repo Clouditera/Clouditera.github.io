@@ -235,8 +235,9 @@ garak checks if an LLM will fail in an way we don't necessarily want. garak prob
 
 **简介：** LLMFuzzer是用于寻找和利用AI系统漏洞的框架，未来的开发路线是适配各种LLM API、集成不同的模糊测试策略。
 
-![](https://user-images.githubusercontent.com/1796080/239725603-a143897d-383c-4ed9-8b2f-65f4cdc5aa63.png)
-![](https://user-images.githubusercontent.com/1796080/239700414-71b006df-706c-43f6-acd1-49646dbcb0e5.jpg)
+<img src="https://user-images.githubusercontent.com/1796080/239725603-a143897d-383c-4ed9-8b2f-65f4cdc5aa63.png" style="zoom:60%;" />
+
+<img src="https://user-images.githubusercontent.com/1796080/239700414-71b006df-706c-43f6-acd1-49646dbcb0e5.jpg" style="zoom:60%;" />
 
 **链接：** [https://github.com/mnns/LLMFuzzer](https://github.com/mnns/LLMFuzzer)
 
@@ -245,7 +246,7 @@ garak checks if an LLM will fail in an way we don't necessarily want. garak prob
 **简介：** 以MBTI人格评估、提示词注入检测为基础的LLM安全评估轻量框架
 
 **链接：** [https://github.com/NextWordDev/psychoevals](https://github.com/NextWordDev/psychoevals)
- 
+
 
 ### rebuff 
 
