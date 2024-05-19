@@ -1,0 +1,98 @@
+# Site settings
+title: GPTSecurity
+SEOTitle: GPTSecurity | AIGC网络安全
+header-img: img/home-bg.jpg
+email: contact@clouditera.com
+description: "关于人工智能（大模型）与网络安全|欢迎来到 GPTSecurity！这是一个专注于未来安全领域智能革命的知识库！"
+keyword: "大模型, AI赋能网络安全, AI智能体, 云起无垠, 网络安全智能体, 网络安全, 人工智能, Clouditera, GPT for Security, GPTSecurity, LLM Security, 安全社区, 博客, 互联网, Web, AI"
+url: "https://www.gptsecurity.info/" # your host, for absolute URL
+baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+
+# Publish posts or collection documents with a future date.
+future: true
+
+# SNS settings
+RSS: false
+weibo_username: 7760054991
+zhihu_username: yun-qi-wu-yin
+github_username: Clouditera
+twitter_username: clouditera
+#facebook_username:  test
+#linkedin_username:  firstname-lastname-idxxxx
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude:
+  [
+    "less",
+    "node_modules",
+    "Gruntfile.js",
+    "package.json",
+    "README.md",
+    "README.zh.md",
+  ]
+anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
+# If you have timezone issue (e.g. #68) in China, uncomment to use this:
+#timezone: CN
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+# make sure you have this gem installed
+# `$ gem install jekyll-paginate`
+plugins: [jekyll-paginate]
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+kramdown:
+  input: GFM # use Github Flavored Markdown !important
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+# Disqus settings
+disqus_username: gptsecurity
+
+# Netease settings
+netease_comment: false
+
+# Analytics settings
+# Baidu Analytics
+# ba_track_id: [your track id]
+
+# Google Analytics
+ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+ga_domain: gptsecurity.info
+
+# Sidebar settings
+sidebar: true # whether or not using Sidebar.
+sidebar-about-description: "塑造未来的安全领域智能革命"
+sidebar-avatar: https://gptsecurity.info/img/GPTsecurity.png # use absolute URL, seeing it's used in both `/` and `/about/`
+
+# Featured Tags
+featured-tags: true # whether or not using Feature-Tags
+featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+# MathJax rendering for layout:page (e.g. post preview)
+page-mathjax: false
+
+# Friends
+friends:
+  [
+    { title: "云起无垠", href: "https://clouditera.com"},
+    # { title: "微信公众号", href: "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg3Mjg4NTcyNg==" },
+    { title: "安全极客", href: "https://mp.weixin.qq.com/s/x1_YYNfcbcm8Ciw8rT4Zsw"},
+    { title: "默小西", href: "https://mo-xiaoxi.github.io/"},
+  ]

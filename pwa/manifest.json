@@ -1,0 +1,15 @@
+{
+  "name": "GPTSecurity",
+  "short_name": "GPTSecurityg",
+  "description": "这是一个专注于未来安全领域智能革命的知识库！",
+  "icons": [{
+    "src": "icons/128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }],
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
