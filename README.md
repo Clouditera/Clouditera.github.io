@@ -59,7 +59,7 @@ GPTSecurity不仅关注当前的技术和趋势，更希望成为塑造未来安
 
 欢迎大家加入 GPTSecurity 微信社群！备注"GPTSecurity"与云起无垠小云成为好友。在这里，我们汇聚了众多热衷于探索 GPT、AIGC 和 LLM 在安全领域应用的专家、研究者和开发者。我们深感荣幸，能与您一同携手，共创这个充满活力和新意的社区。
 
-<div align=center><img src="https://gptsecurity.info/img/wechat.jpg" alt="" width="40%" height="40%"><figcaption></figcaption></div>
+<div align=center><img src="https://gptsecurity.info/img/wechat.png" alt="" width="40%" height="40%"><figcaption></figcaption></div>
 
 
 

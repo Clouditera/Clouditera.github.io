@@ -49,7 +49,7 @@ We thank the new generation of AI-powered cybersecurity practitioners—[Cloudit
 
 Welcome to join the GPTSecurity WeChat group! Mark "GPTSecurity" to become friends with Xiao Yun from Clouditera. Here, we have gathered many experts, researchers, and developers keen on exploring the applications of GPT, AIGC, and LLM in the security field. We are honored to join hands with you to create this vibrant and innovative community.
 
-<div align=center><img src="https://gptsecurity.info/img/wechat.jpg" alt="GPTSecurity WeChat QR Code" width="40%" height="40%"><figcaption>GPTSecurity WeChat QR Code</figcaption></div>
+<div align=center><img src="https://gptsecurity.info/img/wechat.png" alt="GPTSecurity WeChat QR Code" width="40%" height="40%"><figcaption>GPTSecurity WeChat QR Code</figcaption></div>
 
 ## Star History
 
