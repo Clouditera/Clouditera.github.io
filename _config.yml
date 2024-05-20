@@ -75,7 +75,7 @@ ba_track_id: 36187c5f348a65e14aacc363cee57d14
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "塑造未来的安全领域智能革命"
-sidebar-avatar: https://gptsecurity.info/img/avatar-gpt.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://gptsecurity.info/img/avatar-gpt.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
