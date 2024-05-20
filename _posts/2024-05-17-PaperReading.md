@@ -54,11 +54,11 @@ tags:
 
 **漏洞检测：**本研究重点探讨了ChatGPT在软件漏洞识别方面的能力。通过分析代码的语义和结构信息，ChatGPT试图检测和识别潜在的安全漏洞。虽然在基础案例中，ChatGPT能够准确识别常见的安全漏洞，例如SQL注入和跨站脚本攻击（XSS），但在处理复杂或较长的代码时，其检测能力有所降低。研究表明，随着代码上下文的增加或更深层逻辑交互的涉及，ChatGPT的漏洞检测准确率受到影响。这些结果对于理解和改进ChatGPT在实际软件安全应用中的效果具有重要意义。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/vWuBpewLia8QLA8WykCA9taxzTYeYz6ibPQbgEg9BavukiadsLVT11iaiazEnZExrbx93NfibN8ExaWbSElap5oVODUg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://www.gptsecurity.info/img/in-post/640.png)
 
 **漏洞修复：**本研究评估了ChatGPT在自动化修复软件漏洞的应用效果。通过理解漏洞的根本原因，ChatGPT尝试自动生成修复代码。对于诸如缓冲区溢出或输入验证错误的简单漏洞，ChatGPT表现出能够有效生成修复补丁的能力。然而，面对逻辑较复杂或需要特定领域知识的漏洞时，其生成的修复方案往往不够精确或并非完全适用，揭示了其在理解深层软件逻辑和维护代码完整性方面的局限。这些发现提示未来研究应进一步优化模型的深度学习能力和上下文理解能力。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/vWuBpewLia8QLA8WykCA9taxzTYeYz6ibPZX7uVd4j17ajPkzPYJ4DaPL4O2LlLCvqJeoRUKwCIfnKUFCE7QMDnA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://www.gptsecurity.info/img/in-post/641.png)
 
 
 
@@ -78,7 +78,7 @@ tags:
 
 **模糊测试：**本研究评估了ChatGPT在自动生成测试输入，以探测软件中潜在的缺陷和漏洞的能力。模糊测试是一种强大的软件测试技术，它通过向系统输入大量随机或半随机的数据，尝试触发异常或失败。ChatGPT用于生成多样化的测试用例，模拟各种用户输入行为以测试软件的健壮性。尽管ChatGPT在一些场景下成功地识别了程序的脆弱点，但对于需要高度定制化输入的复杂系统，其生成的测试数据仍需要进一步优化，以提高覆盖率和发现深层次漏洞的能力。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/vWuBpewLia8QLA8WykCA9taxzTYeYz6ibP3OP8rkpIrLsntuLCia2Jx3oxjGWdxiboiaeds3I48SXo3OP4fLGvtvM0g/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://www.gptsecurity.info/img/in-post/642.png)
 
 
 
