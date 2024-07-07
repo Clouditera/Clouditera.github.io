@@ -13,6 +13,9 @@
                         src="https://ghbtns.com/github-btn.html?user=Clouditera&repo=Clouditera.github.io&type=star&count=true">
                     </iframe>
                     <br>
+                    
+                    <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+                    <br>
                     Powered by <a href="http://huangxuan.me">Hux Blog</a> 
                 </p>
             </div>
@@ -20,6 +23,8 @@
     </div>
 </footer>
 
+<!-- busuanzi -->
+<script async src={{ "/js/busuanzi.pure.mini.js " | prepend: site.baseurl }}""></script>
 <!-- jQuery -->
 <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
 
@@ -117,9 +122,9 @@
 
 <!-- Google Analytics -->
 {% if site.ga_track_id %}
-<script>
+<!-- <script>
     // dynamic User by Hux
-    var _gaId = '{{ site.ga_track_id }}';
+    
     var _gaDomain = '{{ site.ga_domain }}';
 
     // Originial
@@ -132,6 +137,16 @@
 
     ga('create', _gaId, _gaDomain);
     ga('send', 'pageview');
+</script> -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9RYPEMVJ3Z"></script>
+<script>
+  var _gaId = '{{ site.ga_track_id }}';
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', _gaId);
 </script>
 {% endif %}
 
