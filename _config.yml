@@ -46,6 +46,9 @@ anchorjs: true # if you want to customize anchor. check out line:181 of `post.ht
 # `$ gem install jekyll-paginate`
 plugins: [jekyll-paginate]
 
+paginate: 5
+paginate_path: "/page:num/"
+
 # Markdown settings
 # replace redcarpet to kramdown,
 # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
