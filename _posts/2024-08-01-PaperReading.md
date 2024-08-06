@@ -67,7 +67,7 @@ tags:
 
 研究者的AI智能体工作流程分为两部分。首先，研究者将CTI报告分段，利用LLM（如GPT-4）提取每段中的攻击指标（IOC）。其次，通过多次运行LLM和检索增强过滤净化响应。第三，研究者区分IOC字符串中的捕获组和非捕获组，并生成用于SIEM规则的正则表达式（Regex），通过Regex测试器验证其准确性。之后，研究者识别IOC之间的依赖关系，对其进行分类和验证。最后，研究者构建关系图，显示IOC之间的联系。该流程有效解决了自动化处理CTI报告中的多个技术挑战，提高了SOC的效率和准确性。
 
-![图片](https://www.gptsecurity.info/img/img/in-post/0801/640.png)
+![图片](https://www.gptsecurity.info/img/in-post/0801/640.png)
 
 
 
