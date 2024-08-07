@@ -70,7 +70,7 @@ GPTSecurity是一个涵盖了前沿学术研究和实践经验分享的社区，
 
 
 
-
+![这是一张图片](https://www.gptsecurity.info/img/in-post/0807/01.jpg)
 
 
 ![secgeek-foot](https://www.gptsecurity.info/img/secgeek-foot.png)
