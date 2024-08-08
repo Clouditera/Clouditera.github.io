@@ -49,7 +49,7 @@ tags:
 
 本文分享了NVIDIA公司在构建企业级RAG聊天机器人方面的经验和策略，探讨了实现内容新鲜度、架构灵活性、成本效益、测试和安全性的方法。
 
-![这是一张图片](https://www.gptsecurity.info/img/in-post/0808/01.jpg)
+![这是一张图片](https://www.gptsecurity.info/img/in-post/0808/01.png)
 
 ## 案例研究
 
@@ -68,7 +68,7 @@ NVIDIA公司构建了三个基于检索增强生成（RAG）和大语言模型�
 
 此外，文档访问控制权限会增加搜索和检索过程的复杂性，需要仔细管理以确保数据安全和相关性。多模式内容还需要使用多模式检索器来处理结构化、非结构化和半结构化数据。解决这些挑战对于保持企业聊天机器人的准确性和可靠性至关重要。
 
-![这是一张图片](https://www.gptsecurity.info/img/in-post/0808/02.jpg)
+![这是一张图片](https://www.gptsecurity.info/img/in-post/0808/02.png)
 
 ## 研究框架
 
