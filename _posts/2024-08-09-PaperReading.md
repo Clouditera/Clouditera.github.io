@@ -52,7 +52,7 @@ VLMs面临着与其他机器学习模型类似的内部和外部安全威胁。�
 
 本文在已有LLM红队测试框架的基础上，进一步为VLMs制定了通用提示模板和多样性评估指标，从而进行全面评估。
 
-![这是一张图片](https://www.gptsecurity.info/img/in-post/0809/01.png)
+![这是一张图片](https://www.gptsecurity.info/img/in-post/0809/1.png)
 
 ## ARONDIGHT
 
@@ -60,17 +60,17 @@ VLMs面临着与其他机器学习模型类似的内部和外部安全威胁。�
 
 研究者设计了一种自动生成的多模态越狱攻击策略，覆盖图像和文本模态，并实现了多样性生成。通过对十种 VLMs 的广泛实验，结果表明 Arondight 在所有禁止场景中对 GPT-4 的攻击成功率达到 84.5%。
 
-![这是一张图片](https://www.gptsecurity.info/img/in-post/0809/02.png)
+![这是一张图片](https://www.gptsecurity.info/img/in-post/0809/2.png)
 
 ## 实证研究
 
 **实验设置** ：研究者在包括 GPT-4、Bing Chat、Google Bard 等在内的十种最新发布的 VLMs 上评估了 Arondight 的安全性能。为生成对抗性图像，研究者使用了 GPT-4 的 DALL·E 2 功能，并为每个禁止场景手动收集或通过 LLM 生成 100 个提示，生成了 10 个有害图像。每个查询执行十次，以减少随机效应并确保评估的全面性。这些实验旨在验证 Arondight 框架在各种实际应用场景中的有效性和可靠性。
 
-![这是一张图片](https://www.gptsecurity.info/img/in-post/0809/03.png)
+![这是一张图片](https://www.gptsecurity.info/img/in-post/0809/3.png)
 
 **评估结果** ：评估结果显示，Arondight在多个VLMs上展示了显著的攻击成功率，尤其在GPT-4上，其在所有14个禁止场景中的平均成功率达到84.5%。这一结果表明，Arondight能够有效发现和利用VLMs的安全漏洞。
 
-![这是一张图片](https://www.gptsecurity.info/img/in-post/0809/04.png)
+![这是一张图片](https://www.gptsecurity.info/img/in-post/0809/4.png)
 
 具体而言，Arondight在高度敏感的场景（如政治游说和经济危害）中的攻击成功率显著高于传统方法，例如在政治游说场景中的成功率高达98%。相比之下，传统的文本和多模态越狱攻击方法成功率较低，突显了Arondight的优势。
 
