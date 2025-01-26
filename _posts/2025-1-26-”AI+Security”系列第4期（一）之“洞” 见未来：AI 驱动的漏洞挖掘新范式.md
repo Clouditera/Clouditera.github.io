@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      “AI+Security”系列第3期（一）：AI 安全智能体，重塑安全团队工作范式
+title:      “AI+Security”系列第4期（一）之“洞” 见未来：AI 驱动的漏洞挖掘新范式
 date:       2025-01-26 10:00:00
 author:     "安全极客"
 header-img: "img/post-bg-unix-linux.jpg"
